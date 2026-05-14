@@ -35,21 +35,21 @@ const StudyPlan = () => {
   const progressPercent = Math.round((completedDaysCount / 15) * 100);
 
   return (
-    <div className="space-y-6 fade-in">
+    <div className="space-y-4 md:space-y-6 fade-in">
       <div>
-        <h2 className="text-2xl font-bold mb-2">15-Day Smart Study Plan</h2>
+        <h2 className="text-xl md:text-2xl font-bold mb-2">15-Day Smart Study Plan</h2>
         <div className="flex items-center justify-between">
-          <p className="text-slate-500">Structured daily goals for guaranteed success.</p>
-          <span className="font-bold text-primary-600">{progressPercent}% Completed</span>
+          <p className="text-slate-500 text-sm md:text-base">Structured daily goals for guaranteed success.</p>
+          <span className="font-bold text-primary-600 text-sm md:text-base">{progressPercent}% Completed</span>
         </div>
         <div className="w-full bg-slate-200 dark:bg-slate-700 rounded-full h-2.5 mt-3">
           <div className="bg-primary-600 h-2.5 rounded-full transition-all duration-1000" style={{ width: `${progressPercent}%` }}></div>
         </div>
       </div>
 
-      <div className="flex flex-col lg:flex-row gap-6">
+      <div className="flex flex-col lg:flex-row gap-4 md:gap-6">
         {/* Sidebar */}
-        <div className="lg:w-1/3 bg-white dark:bg-slate-800 rounded-2xl shadow-sm border border-slate-100 dark:border-slate-700 overflow-hidden flex flex-col h-[600px]">
+        <div className="lg:w-1/3 bg-white dark:bg-slate-800 rounded-2xl shadow-sm border border-slate-100 dark:border-slate-700 overflow-hidden flex flex-col" style={{maxHeight: '360px'}}>
           <div className="p-4 border-b border-slate-100 dark:border-slate-700 bg-slate-50 dark:bg-slate-800/50">
             <h3 className="font-bold">Timeline</h3>
           </div>

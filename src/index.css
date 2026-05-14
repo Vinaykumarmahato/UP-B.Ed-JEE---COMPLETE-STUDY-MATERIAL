@@ -17,6 +17,12 @@
   .glass-dark {
     @apply bg-slate-900 bg-opacity-70 backdrop-blur-lg border border-slate-700 border-opacity-30 shadow-lg;
   }
+
+  /* Extra small screen display utilities */
+  @media (min-width: 400px) {
+    .xs\:block { display: block; }
+    .xs\:hidden { display: none; }
+  }
 }
 
 .fade-in {

@@ -44,15 +44,15 @@ const QuestionBank = () => {
   };
 
   return (
-    <div className="space-y-6 fade-in">
-      <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+    <div className="space-y-4 md:space-y-6 fade-in">
+      <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-3 md:gap-4">
         <div>
-          <h2 className="text-2xl font-bold">Question Bank</h2>
-          <p className="text-slate-500">Master the most frequently asked questions.</p>
+          <h2 className="text-xl md:text-2xl font-bold">Question Bank</h2>
+          <p className="text-slate-500 text-sm md:text-base">Master the most frequently asked questions.</p>
         </div>
         
         <div className="relative w-full md:w-64">
-          <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-slate-400 w-5 h-5" />
+          <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-slate-400 w-4 h-4" />
           <input 
             type="text" 
             placeholder="Search keyword..." 
@@ -89,10 +89,10 @@ const QuestionBank = () => {
       </div>
 
       {filteredQuestions.length > 0 ? (
-        <div className="bg-white dark:bg-slate-800 rounded-2xl shadow-sm border border-slate-100 dark:border-slate-700 p-6 md:p-8">
-          <div className="flex justify-between items-center mb-6">
-            <div className="flex items-center gap-2">
-              <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-800 dark:bg-primary-900/30 dark:text-primary-400">
+        <div className="bg-white dark:bg-slate-800 rounded-2xl shadow-sm border border-slate-100 dark:border-slate-700 p-4 md:p-6 lg:p-8">
+          <div className="flex flex-wrap justify-between items-center mb-4 md:mb-6 gap-2">
+            <div className="flex flex-wrap items-center gap-2">
+              <span className="inline-flex items-center px-2 md:px-3 py-1 rounded-full text-xs font-semibold bg-primary-100 text-primary-800 dark:bg-primary-900/30 dark:text-primary-400">
                 {currentQuestion.subject}
               </span>
               {currentQuestion.isReal ? (
@@ -105,9 +105,9 @@ const QuestionBank = () => {
                 </span>
               )}
             </div>
-            <div className="flex items-center gap-3">
-              <span className="text-sm font-medium text-slate-500">
-                Question {currentIndex + 1} of {filteredQuestions.length}
+            <div className="flex items-center gap-2">
+              <span className="text-xs md:text-sm font-medium text-slate-500">
+                {currentIndex + 1}/{filteredQuestions.length}
               </span>
               <button onClick={() => toggleSave(currentQuestion.id)} className={`p-1.5 rounded-md hover:bg-slate-100 dark:hover:bg-slate-700 transition-colors ${savedQuestions.includes(currentQuestion.id) ? 'text-orange-500' : 'text-slate-400'}`}>
                 <Bookmark className="w-5 h-5" fill={savedQuestions.includes(currentQuestion.id) ? "currentColor" : "none"} />
@@ -115,11 +115,11 @@ const QuestionBank = () => {
             </div>
           </div>
 
-          <div className="mb-8">
-            <h3 className="text-xl md:text-2xl font-bold leading-relaxed mb-6">
+          <div className="mb-6 md:mb-8">
+            <h3 className="text-lg md:text-xl lg:text-2xl font-bold leading-relaxed mb-4 md:mb-6">
               Q: {currentQuestion.text}
             </h3>
-            <div className="grid md:grid-cols-2 gap-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-3 md:gap-4">
               {Object.entries(currentQuestion.options).map(([key, value]) => (
                 <div 
                   key={key} 
@@ -185,21 +185,21 @@ const QuestionBank = () => {
           )}
 
           {/* Navigation Controls */}
-          <div className="flex justify-between items-center mt-8 pt-6 border-t border-slate-100 dark:border-slate-700">
+          <div className="flex justify-between items-center mt-6 md:mt-8 pt-4 md:pt-6 border-t border-slate-100 dark:border-slate-700">
             <button 
               onClick={handlePrev} 
               disabled={currentIndex === 0}
-              className={`flex items-center px-4 py-2 rounded-lg font-medium transition-colors ${currentIndex === 0 ? 'text-slate-400 cursor-not-allowed' : 'text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700'}`}
+              className={`flex items-center px-3 md:px-4 py-2 rounded-lg font-medium transition-colors text-sm md:text-base ${currentIndex === 0 ? 'text-slate-400 cursor-not-allowed' : 'text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700'}`}
             >
-              <ChevronLeft className="w-5 h-5 mr-1" /> Previous
+              <ChevronLeft className="w-4 md:w-5 h-4 md:h-5 mr-1" /> Prev
             </button>
             
             <button 
               onClick={handleNext} 
               disabled={currentIndex === filteredQuestions.length - 1}
-              className={`flex items-center px-6 py-2 bg-primary-600 text-white rounded-lg font-medium hover:bg-primary-700 transition-colors ${currentIndex === filteredQuestions.length - 1 ? 'opacity-50 cursor-not-allowed' : 'shadow-md'}`}
+              className={`flex items-center px-4 md:px-6 py-2 bg-primary-600 text-white rounded-lg font-medium text-sm md:text-base hover:bg-primary-700 transition-colors ${currentIndex === filteredQuestions.length - 1 ? 'opacity-50 cursor-not-allowed' : 'shadow-md'}`}
             >
-              Next <ChevronRight className="w-5 h-5 ml-1" />
+              Next <ChevronRight className="w-4 md:w-5 h-4 md:h-5 ml-1" />
             </button>
           </div>
         </div>
