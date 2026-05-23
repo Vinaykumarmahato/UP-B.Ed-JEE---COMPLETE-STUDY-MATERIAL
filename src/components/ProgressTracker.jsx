@@ -23,7 +23,7 @@ const ProgressTracker = () => {
   const [phone, setPhone] = useState('');
   const [questionCount, setQuestionCount] = useState('100');
 
-  const QUESTION_OPTIONS = [100, 200, 300, 400, 500, 600, 'All'];
+  const QUESTION_OPTIONS = [50, 100, 150, 200, 250, 'All'];
 
   // Calculate total exam seconds: 1 minute per question
   const calcTotalSeconds = (count) => {
