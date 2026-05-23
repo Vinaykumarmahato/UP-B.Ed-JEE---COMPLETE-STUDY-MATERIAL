@@ -94,10 +94,36 @@ const ProgressTracker = () => {
     return () => clearInterval(timerRef.current);
   }, [quizState, timerEndTime]);
 
-  /* ── Auto-advance if already registered ── */
+  /* ── Auto-advance / fix stale localStorage states ── */
   useEffect(() => {
-    if (userDetails && quizState === 'registration') setQuizState('category');
-  }, [userDetails, quizState, setQuizState]);
+    // Old states from previous version → redirect to category
+    const staleStates = ['registration', 'start', 'success'];
+    if (userDetails && staleStates.includes(quizState)) {
+      setQuizState('category');
+    }
+    // If playing but no questions loaded → back to category
+    if (quizState === 'playing' && (!currentQuestions || currentQuestions.length === 0)) {
+      setQuizState(userDetails ? 'category' : 'registration');
+    }
+  }, []);
+
+  /* ── Hard reset ── */
+  const handleReset = () => {
+    setUserDetails(null);
+    setQuizState('registration');
+    setCurrentQuestions([]);
+    setCurrentIndex(0);
+    setScore(0);
+    setAnswers([]);
+    setTimerEndTime(null);
+    setTimeTaken(null);
+    setSelectedOption(null);
+    setTimeLeft(null);
+    setSelectedCat(null);
+    setName('');
+    setEmail('');
+    setPhone('');
+  };
 
   /* ── Registration ── */
   const handleRegister = async (e) => {
@@ -210,9 +236,19 @@ const ProgressTracker = () => {
   return (
     <div className="max-w-5xl mx-auto space-y-8 fade-in">
       {/* ── Page header ── */}
-      <div className="text-center mb-2">
-        <h2 className="text-3xl font-extrabold mb-2">Test Yourself</h2>
-        <p className="text-slate-500 text-base">Choose your challenge level and start practicing with a live timer.</p>
+      <div className="flex items-center justify-between mb-2">
+        <div>
+          <h2 className="text-3xl font-extrabold mb-1">Test Yourself</h2>
+          <p className="text-slate-500 text-sm">Choose your level → Start Practicing → Get your Report</p>
+        </div>
+        {userDetails && quizState !== 'registration' && (
+          <button
+            onClick={handleReset}
+            className="text-xs text-slate-400 hover:text-red-500 border border-slate-200 dark:border-slate-700 px-3 py-1.5 rounded-full transition-colors flex items-center gap-1"
+          >
+            <RefreshCw className="w-3 h-3" /> Change User
+          </button>
+        )}
       </div>
 
       {/* ══════════ REGISTRATION ══════════ */}
