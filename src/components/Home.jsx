@@ -3,7 +3,7 @@ import { BookMarked, Calendar, Brain, ArrowRight, Award, Clock, Target, Trending
 
 const Home = ({ setCurrentPage }) => {
   const stats = [
-    { label: "Questions Analyzed", value: "300+", icon: <BookMarked className="w-6 h-6 text-blue-500" /> },
+    { label: "Questions Analyzed", value: "1200+", icon: <BookMarked className="w-6 h-6 text-blue-500" /> },
     { label: "Years of Data", value: "20", icon: <Clock className="w-6 h-6 text-orange-500" /> },
     { label: "Success Rate", value: "95%", icon: <Award className="w-6 h-6 text-green-500" /> },
     { label: "High Prob. Topics", value: "15", icon: <Target className="w-6 h-6 text-purple-500" /> }
@@ -23,7 +23,7 @@ const Home = ({ setCurrentPage }) => {
             Crack UP B.Ed JEE <span className="text-orange-400">2026</span>
           </h1>
           <p className="text-base md:text-lg lg:text-xl text-primary-100 max-w-2xl mx-auto">
-            Your ultimate 15-day smart preparation platform. Master 300+ high-frequency questions and AI-predicted topics for guaranteed success.
+            Your ultimate 15-day smart preparation platform. Master 1200+ high-frequency questions and AI-predicted topics for guaranteed success.
           </p>
           
           <div className="flex flex-col sm:flex-row flex-wrap justify-center gap-3 md:gap-4 pt-4 md:pt-6">
@@ -78,7 +78,7 @@ const Home = ({ setCurrentPage }) => {
               <BookMarked className="w-32 md:w-48 h-32 md:h-48" />
             </div>
             <h3 className="text-lg md:text-xl font-bold mb-2 md:mb-3">Topic-wise Question Bank</h3>
-            <p className="text-slate-600 dark:text-slate-400 text-sm md:text-base mb-4 md:mb-6 relative z-10">Access 300+ questions from the last 20 years, categorized by subject with detailed explanations.</p>
+            <p className="text-slate-600 dark:text-slate-400 text-sm md:text-base mb-4 md:mb-6 relative z-10">Access 1200+ questions (200 per subject) from the last 20 years, categorized by subject with detailed explanations.</p>
             <button onClick={() => setCurrentPage('questions')} className="text-blue-600 font-semibold flex items-center relative z-10 hover:text-blue-700 text-sm md:text-base">
               Start Practicing <ArrowRight className="ml-1 w-4 h-4" />
             </button>
