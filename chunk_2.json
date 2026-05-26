@@ -1,0 +1,1702 @@
+[
+  {
+    "id": 201,
+    "subject": "Teaching Aptitude",
+    "text": "मॉन्टेसरी पद्धति का मुख्य सिद्धांत क्या है?",
+    "options": {
+      "A": "कठोर अनुशासन",
+      "B": "बालक की स्वतंत्र खोज और आत्मविकास",
+      "C": "शिक्षक का पूर्ण नियंत्रण",
+      "D": "प्रतियोगितामूलक माहौल"
+    },
+    "correctAnswer": "B",
+    "explanation": "मॉन्टेसरी पद्धति में बालक को स्वतंत्रता दी जाती है ताकि वह अपनी गति से सीख सके।",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2025",
+    "isReal": false
+  },
+  {
+    "id": 202,
+    "subject": "Teaching Aptitude",
+    "text": "ब्लूम की टेक्सोनॉमी में कितने स्तर हैं?",
+    "options": {
+      "A": "4 स्तर",
+      "B": "5 स्तर",
+      "C": "6 स्तर",
+      "D": "7 स्तर"
+    },
+    "correctAnswer": "C",
+    "explanation": "संशोधित ब्लूम की टेक्सोनॉमी में 6 स्तर हैं: Remember, Understand, Apply, Analyze, Evaluate, Create।",
+    "frequency": 0,
+    "probability": 85,
+    "sourceYear": "AI Predicted for 2025",
+    "isReal": false
+  },
+  {
+    "id": 203,
+    "subject": "Teaching Aptitude",
+    "text": "NEP 2020 का मुख्य उद्देश्य क्या है?",
+    "options": {
+      "A": "केवल अंग्रेजी शिक्षा",
+      "B": "समग्र विकास और 21वीं सदी के कौशल",
+      "C": "परीक्षा को आसान बनाना",
+      "D": "विषयों की संख्या बढ़ाना"
+    },
+    "correctAnswer": "B",
+    "explanation": "राष्ट्रीय शिक्षा नीति 2020 समग्र विकास, critical thinking, creativity और 21वीं सदी के कौशल पर ध्यान देती है।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2025",
+    "isReal": false
+  },
+  {
+    "id": 204,
+    "subject": "Teaching Aptitude",
+    "text": "समावेशी शिक्षा (Inclusive Education) का अर्थ क्या है?",
+    "options": {
+      "A": "केवल होशियार बच्चों को पढ़ाना",
+      "B": "सभी बच्चों को समान शिक्षा के अवसर",
+      "C": "लड़कियों को बाहर रखना",
+      "D": "विशेष बच्चों को अलग करना"
+    },
+    "correctAnswer": "B",
+    "explanation": "समावेशी शिक्षा का अर्थ है सभी छात्रों, चाहे वे किसी भी पृष्ठभूमि के हों, को समान शिक्षा के अवसर प्रदान करना।",
+    "frequency": 0,
+    "probability": 85,
+    "sourceYear": "AI Predicted for 2025",
+    "isReal": false
+  },
+  {
+    "id": 205,
+    "subject": "Teaching Aptitude",
+    "text": "\"Blended Learning\" में क्या शामिल होता है?",
+    "options": {
+      "A": "केवल ऑनलाइन",
+      "B": "परंपरागत + डिजिटल शिक्षा",
+      "C": "केवल कक्षा शिक्षा",
+      "D": "कोई शिक्षा नहीं"
+    },
+    "correctAnswer": "B",
+    "explanation": "मिश्रित शिक्षा (Blended Learning) परंपरागत कक्षा आधारित और डिजिटल शिक्षा दोनों को संयोजित करती है।",
+    "frequency": 0,
+    "probability": 84,
+    "sourceYear": "AI Predicted for 2025",
+    "isReal": false
+  },
+  {
+    "id": 206,
+    "subject": "Teaching Aptitude",
+    "text": "शिक्षा के प्राथमिक उद्देश्य क्या हैं?",
+    "options": {
+      "A": "केवल ज्ञान प्रदान करना",
+      "B": "सामाजिक और व्यक्तिगत विकास",
+      "C": "नौकरी के लिए तैयारी",
+      "D": "केवल कौशल विकास"
+    },
+    "correctAnswer": "B",
+    "explanation": "शिक्षा का मुख्य उद्देश्य बालक का सर्वांगीण विकास (सामाजिक, व्यक्तिगत, बौद्धिक, नैतिक) करना है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 207,
+    "subject": "Teaching Aptitude",
+    "text": "महात्मा गांधी की शिक्षा दर्शन की मुख्य विशेषता क्या है?",
+    "options": {
+      "A": "दक्षता केंद्रित शिक्षा",
+      "B": "आत्मनिर्भरता और हस्तशिल्प शिक्षा",
+      "C": "प्रतियोगितामूलक शिक्षा",
+      "D": "विज्ञान केंद्रित शिक्षा"
+    },
+    "correctAnswer": "B",
+    "explanation": "गांधी जी \"नई तालीम\" या \"बुनियादी शिक्षा\" की अवधारणा में विश्वास करते थे जो आत्मनिर्भरता पर केंद्रित थी।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 208,
+    "subject": "Teaching Aptitude",
+    "text": "रूसो की शिक्षा पद्धति का मूल सिद्धांत क्या है?",
+    "options": {
+      "A": "प्रकृति के अनुसार शिक्षा",
+      "B": "कठोर अनुशासन",
+      "C": "पुस्तक केंद्रित ज्ञान",
+      "D": "राज्य द्वारा नियंत्रण"
+    },
+    "correctAnswer": "A",
+    "explanation": "रूसो ने \"प्रकृतिवाद\" की अवधारणा दी - बालक की प्राकृतिक प्रवृत्तियों के अनुसार शिक्षा।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 209,
+    "subject": "Teaching Aptitude",
+    "text": "शिक्षा में \"शिक्षार्थी केंद्रित\" दृष्टिकोण का अर्थ क्या है?",
+    "options": {
+      "A": "केवल छात्र को पढ़ाई करने देना",
+      "B": "छात्र की रुचि, योग्यता और गति के अनुसार शिक्षा",
+      "C": "कम पढ़ाई करना",
+      "D": "कोई अनुशासन नहीं"
+    },
+    "correctAnswer": "B",
+    "explanation": "शिक्षार्थी केंद्रित दृष्टिकोण में प्रत्येक छात्र की व्यक्तिगत विशेषताओं को ध्यान में रखा जाता है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 210,
+    "subject": "Teaching Aptitude",
+    "text": "बुनियादी शिक्षा (Basic Education) की अवधारणा के जनक कौन थे? (UP B.Ed 2017, 2021)",
+    "options": {
+      "A": "रवींद्रनाथ टैगोर",
+      "B": "महात्मा गांधी",
+      "C": "डॉ. सर्वपल्ली राधाकृष्णन",
+      "D": "स्वामी विवेकानंद"
+    },
+    "correctAnswer": "B",
+    "explanation": "महात्मा गांधी ने वर्धा योजना (1937) के तहत बुनियादी शिक्षा या नई तालीम की अवधारणा दी थी।",
+    "frequency": 2,
+    "probability": 90,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 211,
+    "subject": "Teaching Aptitude",
+    "text": "किंडरगार्टन की अवधारणा किसने दी?",
+    "options": {
+      "A": "जॉन डीवी",
+      "B": "फ्रेडरिक फ्रोबेल",
+      "C": "मारिया मॉन्टेसरी",
+      "D": "पेस्टालोजी"
+    },
+    "correctAnswer": "B",
+    "explanation": "फ्रोबेल ने \"Kindergarten\" की अवधारणा दी जो बाल विकास पर आधारित थी।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 212,
+    "subject": "Teaching Aptitude",
+    "text": "शिक्षा का सामाजिक उद्देश्य क्या है?",
+    "options": {
+      "A": "केवल व्यक्तिगत लाभ",
+      "B": "समाज के विकास और सांस्कृतिक संरक्षण में योगदान",
+      "C": "धन अर्जन",
+      "D": "अकेले रहना सीखना"
+    },
+    "correctAnswer": "B",
+    "explanation": "शिक्षा का सामाजिक उद्देश्य समाज के विकास, सांस्कृतिक मूल्यों के संरक्षण और सामाजिक परिवर्तन में योगदान देना है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 213,
+    "subject": "Teaching Aptitude",
+    "text": "\"Education is life\" किसका विचार है?",
+    "options": {
+      "A": "जॉन डीवी",
+      "B": "रूसो",
+      "C": "गांधी जी",
+      "D": "स्पेंसर"
+    },
+    "correctAnswer": "A",
+    "explanation": "जॉन डीवी ने कहा कि शिक्षा जीवन के लिए तैयारी नहीं है, बल्कि जीवन ही है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 214,
+    "subject": "Teaching Aptitude",
+    "text": "व्यावसायिक शिक्षा का उद्देश्य क्या है?",
+    "options": {
+      "A": "केवल सैद्धांतिक ज्ञान",
+      "B": "किसी व्यवसाय के लिए व्यावहारिक कौशल विकास",
+      "C": "सामान्य शिक्षा",
+      "D": "केवल पाठ्यपुस्तकें पढ़ना"
+    },
+    "correctAnswer": "B",
+    "explanation": "व्यावसायिक शिक्षा का मुख्य उद्देश्य छात्रों को किसी विशेष व्यवसाय के लिए आवश्यक कौशल और ज्ञान प्रदान करना है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 215,
+    "subject": "Teaching Aptitude",
+    "text": "शिक्षा में \"समग्र विकास\" का क्या अर्थ है?",
+    "options": {
+      "A": "केवल बौद्धिक विकास",
+      "B": "शारीरिक, मानसिक, बौद्धिक, सामाजिक और नैतिक विकास",
+      "C": "केवल व्यावहारिक कौशल",
+      "D": "केवल शारीरिक विकास"
+    },
+    "correctAnswer": "B",
+    "explanation": "समग्र विकास का अर्थ है बालक का सर्वांगीण विकास - सभी पहलुओं में।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 216,
+    "subject": "Teaching Aptitude",
+    "text": "\"Learning by Doing\" किसका सिद्धांत है?",
+    "options": {
+      "A": "जॉन डीवी",
+      "B": "पेस्टालोजी",
+      "C": "फ्रोबेल",
+      "D": "हर्बार्ट"
+    },
+    "correctAnswer": "A",
+    "explanation": "जॉन डीवी ने \"Learning by Doing\" (करके सीखना) का सिद्धांत दिया।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 217,
+    "subject": "Teaching Aptitude",
+    "text": "शिक्षक की प्राथमिक जिम्मेदारी क्या है?",
+    "options": {
+      "A": "केवल पाठ्यक्रम पूरा करना",
+      "B": "छात्रों का सर्वांगीण विकास सुनिश्चित करना",
+      "C": "परीक्षा में अच्छे अंक दिलवाना",
+      "D": "कक्षा में अनुशासन बनाए रखना"
+    },
+    "correctAnswer": "B",
+    "explanation": "शिक्षक की मुख्य जिम्मेदारी छात्र का सर्वांगीण विकास करना है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 218,
+    "subject": "Teaching Aptitude",
+    "text": "\"Maxim of Montessori\" क्या है?",
+    "options": {
+      "A": "\"Help me to do it myself\"",
+      "B": "\"Do as I say\"",
+      "C": "\"Study hard\"",
+      "D": "\"Follow rules strictly\""
+    },
+    "correctAnswer": "A",
+    "explanation": "मॉन्टेसरी का प्रसिद्ध उक्ति है \"Help me to do it myself\" - मुझे यह स्वयं करने में मदद करो।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 219,
+    "subject": "Teaching Aptitude",
+    "text": "राष्ट्रीय शिक्षा नीति 2020 का मुख्य लक्ष्य क्या है?",
+    "options": {
+      "A": "केवल परीक्षा केंद्रित शिक्षा",
+      "B": "समग्र विकास और 21वीं सदी की कौशल पर ध्यान",
+      "C": "रटंत शिक्षा",
+      "D": "इंग्लिश माध्यम की शिक्षा"
+    },
+    "correctAnswer": "B",
+    "explanation": "राष्ट्रीय शिक्षा नीति 2020 समग्र विकास, critical thinking, creativity और 21वीं सदी के कौशल पर ध्यान देती है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 220,
+    "subject": "Teaching Aptitude",
+    "text": "संवेदनशील अवधि (Sensitive Period) का अवधारणा किसने दी?",
+    "options": {
+      "A": "मॉन्टेसरी",
+      "B": "फ्रोबेल",
+      "C": "रूसो",
+      "D": "पेस्टालोजी"
+    },
+    "correctAnswer": "A",
+    "explanation": "मॉन्टेसरी ने कहा कि विकास के विभिन्न चरणों में बालक विशेष सीखने के लिए संवेदनशील होते हैं।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 221,
+    "subject": "Teaching Aptitude",
+    "text": "\"Problem Solving Method\" का उद्देश्य क्या है?",
+    "options": {
+      "A": "छात्र को सीधे उत्तर देना",
+      "B": "छात्र को स्वयं समस्या का समाधान करने के लिए प्रेरित करना",
+      "C": "समय बर्बाद करना",
+      "D": "अनुशासन बनाना"
+    },
+    "correctAnswer": "B",
+    "explanation": "समस्या समाधान विधि में छात्र को समस्या का सामना करने और स्वयं समाधान खोजने के लिए प्रेरित किया जाता है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 222,
+    "subject": "Teaching Aptitude",
+    "text": "B.Ed पाठ्यक्रम का मुख्य उद्देश्य क्या है?",
+    "options": {
+      "A": "केवल विषय का ज्ञान देना",
+      "B": "प्रशिक्षित शिक्षकों का निर्माण करना",
+      "C": "परीक्षा में अच्छे अंक लाना",
+      "D": "डिग्री प्राप्त करना"
+    },
+    "correctAnswer": "B",
+    "explanation": "B.Ed कार्यक्रम का मुख्य उद्देश्य दक्ष और प्रशिक्षित शिक्षकों का निर्माण करना है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 223,
+    "subject": "Teaching Aptitude",
+    "text": "शिक्षण कला के मुख्य सिद्धांत क्या हैं?",
+    "options": {
+      "A": "केवल पाठ पढ़ाना",
+      "B": "ज्ञान संचरण, मनोवैज्ञानिक सिद्धांत, और छात्र केंद्रितता",
+      "C": "कठोर अनुशासन",
+      "D": "कोई सिद्धांत नहीं"
+    },
+    "correctAnswer": "B",
+    "explanation": "शिक्षण कला ज्ञान संचरण, मनोवैज्ञानिक सिद्धांतों और छात्र की व्यक्तिगत विशेषताओं पर आधारित होती है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 224,
+    "subject": "Teaching Aptitude",
+    "text": "\"Constructivism\" की अवधारणा में शिक्षा कैसे होती है?",
+    "options": {
+      "A": "शिक्षक सीधे ज्ञान देता है",
+      "B": "छात्र स्वयं अपने अनुभवों के माध्यम से ज्ञान का निर्माण करता है",
+      "C": "पुस्तकों से रटना",
+      "D": "केवल परीक्षा की तैयारी"
+    },
+    "correctAnswer": "B",
+    "explanation": "निर्माणवाद (Constructivism) में छात्र स्वयं अपने अनुभवों के माध्यम से ज्ञान का निर्माण करता है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 225,
+    "subject": "Teaching Aptitude",
+    "text": "शिक्षा में \"inclusion\" का क्या अर्थ है?",
+    "options": {
+      "A": "सभी छात्रों को बाहर निकालना",
+      "B": "सभी छात्रों को समान रूप से शिक्षा के अवसर प्रदान करना",
+      "C": "विशेष छात्रों को अलग करना",
+      "D": "कमजोर छात्रों को नजरअंदाज करना"
+    },
+    "correctAnswer": "B",
+    "explanation": "समावेशी शिक्षा (Inclusive Education) का अर्थ है सभी छात्रों, चाहे वे किसी भी पृष्ठभूमि के हों, को समान शिक्षा के अवसर प्रदान करना।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 226,
+    "subject": "Teaching Aptitude",
+    "text": "\"Zone of Proximal Development\" का सिद्धांत किसने दिया?",
+    "options": {
+      "A": "पियाजे",
+      "B": "वाइगोत्स्की",
+      "C": "स्किनर",
+      "D": "ब्लूम"
+    },
+    "correctAnswer": "B",
+    "explanation": "वाइगोत्स्की ने \"Zone of Proximal Development\" (ZPD) का सिद्धांत दिया जो बताता है कि छात्र अपनी मौजूदा क्षमता और संभावित क्षमता के बीच सीख सकते हैं।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 227,
+    "subject": "Teaching Aptitude",
+    "text": "शिक्षा में \"नैतिकता\" का महत्व क्या है?",
+    "options": {
+      "A": "कोई महत्व नहीं",
+      "B": "समाज में अच्छे नागरिकों का निर्माण करना",
+      "C": "केवल धर्म सिखाना",
+      "D": "छात्रों को नियम तोड़ने दें"
+    },
+    "correctAnswer": "B",
+    "explanation": "नैतिक शिक्षा समाज में अच्छे, ईमानदार और जिम्मेदार नागरिकों का निर्माण करती है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 228,
+    "subject": "Teaching Aptitude",
+    "text": "\"Bloom's Taxonomy\" में सर्वोच्च स्तर क्या है?",
+    "options": {
+      "A": "Knowledge (ज्ञान)",
+      "B": "Comprehension (समझ)",
+      "C": "Evaluation (मूल्यांकन)",
+      "D": "Application (अनुप्रयोग)"
+    },
+    "correctAnswer": "C",
+    "explanation": "ब्लूम की टेक्सोनॉमी में मूल्यांकन (Evaluation) और सृजन (Create) सर्वोच्च स्तर हैं।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 229,
+    "subject": "Teaching Aptitude",
+    "text": "\"Concept Mapping\" का उद्देश्य क्या है?",
+    "options": {
+      "A": "समय बर्बाद करना",
+      "B": "जटिल विचारों को दृश्य रूप में संगठित करना",
+      "C": "केवल मजा लेना",
+      "D": "परीक्षा में नकल करना"
+    },
+    "correctAnswer": "B",
+    "explanation": "अवधारणा मानचित्रण (Concept Mapping) जटिल विचारों और अवधारणाओं को दृश्य रूप में संगठित करने में मदद करता है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 230,
+    "subject": "Teaching Aptitude",
+    "text": "शिक्षा में \"Feedback\" का क्या महत्व है?",
+    "options": {
+      "A": "छात्र को बुरा महसूस कराना",
+      "B": "छात्र के प्रदर्शन में सुधार के लिए मार्गदर्शन प्रदान करना",
+      "C": "परीक्षा पास करना",
+      "D": "कोई महत्व नहीं"
+    },
+    "correctAnswer": "B",
+    "explanation": "प्रतिक्रिया (Feedback) छात्र के प्रदर्शन में सुधार के लिए महत्वपूर्ण है और उन्हें सही दिशा में मार्गदर्शन देता है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 231,
+    "subject": "Teaching Aptitude",
+    "text": "\"Multiple Intelligences\" की अवधारणा किसने दी?",
+    "options": {
+      "A": "पियाजे",
+      "B": "हॉवर्ड गार्डनर",
+      "C": "वाइगोत्स्की",
+      "D": "स्किनर"
+    },
+    "correctAnswer": "B",
+    "explanation": "हॉवर्ड गार्डनर ने Multiple Intelligences की अवधारणा दी जिसमें कहा गया कि बुद्धि केवल एक नहीं बल्कि कई प्रकार की होती है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 232,
+    "subject": "Teaching Aptitude",
+    "text": "शिक्षा में \"Experiential Learning\" का क्या अर्थ है?",
+    "options": {
+      "A": "केवल सैद्धांतिक ज्ञान",
+      "B": "सीधे अनुभवों के माध्यम से सीखना",
+      "C": "पुस्तकें पढ़ना",
+      "D": "परीक्षा देना"
+    },
+    "correctAnswer": "B",
+    "explanation": "अनुभवजन्य शिक्षा (Experiential Learning) में छात्र सीधे अनुभवों के माध्यम से सीखते हैं।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 233,
+    "subject": "Teaching Aptitude",
+    "text": "\"Differentiated Instruction\" क्या है?",
+    "options": {
+      "A": "सभी को एक जैसे पढ़ाना",
+      "B": "विभिन्न क्षमताओं के छात्रों के लिए अलग-अलग शिक्षण विधियां",
+      "C": "कमजोर छात्रों को पढ़ना बंद करना",
+      "D": "केवल होशियार छात्रों को पढ़ाना"
+    },
+    "correctAnswer": "B",
+    "explanation": "भिन्नकृत शिक्षण (Differentiated Instruction) विभिन्न क्षमताओं और सीखने की शैलियों वाले छात्रों के लिए अलग-अलग शिक्षण विधियां प्रदान करता है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 234,
+    "subject": "Teaching Aptitude",
+    "text": "शिक्षा में \"Critical Thinking\" का विकास कैसे होता है?",
+    "options": {
+      "A": "सीधे उत्तर देना",
+      "B": "प्रश्न पूछना, समस्या समाधान और विश्लेषण के माध्यम से",
+      "C": "केवल परीक्षा देना",
+      "D": "रटना"
+    },
+    "correctAnswer": "B",
+    "explanation": "आलोचनात्मक सोच (Critical Thinking) प्रश्न पूछने, समस्या समाधान और विश्लेषण के माध्यम से विकसित होती है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 235,
+    "subject": "Teaching Aptitude",
+    "text": "\"Bloom's Revised Taxonomy\" में कितने स्तर हैं?",
+    "options": {
+      "A": "4 स्तर",
+      "B": "5 स्तर",
+      "C": "6 स्तर",
+      "D": "7 स्तर"
+    },
+    "correctAnswer": "C",
+    "explanation": "संशोधित ब्लूम की टेक्सोनॉमी में 6 स्तर हैं: Remember, Understand, Apply, Analyze, Evaluate, Create।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 236,
+    "subject": "Teaching Aptitude",
+    "text": "\"Intrinsic Motivation\" का शिक्षा में क्या महत्व है?",
+    "options": {
+      "A": "कोई महत्व नहीं",
+      "B": "छात्र को आंतरिक इच्छा से सीखने में प्रेरित करता है",
+      "C": "केवल परीक्षा में अच्छे अंक",
+      "D": "बाहरी पुरस्कार देना"
+    },
+    "correctAnswer": "B",
+    "explanation": "आंतरिक प्रेरणा (Intrinsic Motivation) छात्र को आंतरिक इच्छा से सीखने में प्रेरित करती है, जो दीर्घकालिक सीखने के लिए बेहतर है।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 237,
+    "subject": "Teaching Aptitude",
+    "text": "\"Scaffolding\" तकनीक का उद्देश्य क्या है?",
+    "options": {
+      "A": "छात्र को कठोर अनुशासन देना",
+      "B": "छात्र को धीरे-धीरे सहायता कम करते हुए स्वतंत्र बनाना",
+      "C": "केवल पाठ पढ़ाना",
+      "D": "परीक्षा में नकल करना"
+    },
+    "correctAnswer": "B",
+    "explanation": "पाड़ (Scaffolding) तकनीक में शिक्षक छात्र को धीरे-धीरे सहायता कम करते हुए स्वतंत्र बनाता है।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 238,
+    "subject": "Teaching Aptitude",
+    "text": "\"Cooperative Learning\" के क्या लाभ हैं?",
+    "options": {
+      "A": "प्रतियोगिता को बढ़ावा देना",
+      "B": "सहयोग, संचार कौशल और सामाजिक विकास",
+      "C": "केवल अकेले काम करना",
+      "D": "शिक्षक की कोई भूमिका नहीं"
+    },
+    "correctAnswer": "B",
+    "explanation": "सहयोगी शिक्षण सहयोग, संचार कौशल और सामाजिक विकास को बढ़ावा देता है।",
+    "frequency": 0,
+    "probability": 85,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 239,
+    "subject": "Teaching Aptitude",
+    "text": "\"Mastery Learning\" में छात्र को क्या मिलता है?",
+    "options": {
+      "A": "तेजी से पास होना",
+      "B": "समय के अनुसार सीखना",
+      "C": "अवधारणा को पूरी तरह समझने तक सीखना",
+      "D": "कोई सहायता नहीं"
+    },
+    "correctAnswer": "C",
+    "explanation": "महारत शिक्षण (Mastery Learning) में छात्र को अवधारणा को पूरी तरह समझने तक पर्याप्त समय और सहायता दी जाती है।",
+    "frequency": 0,
+    "probability": 82,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 240,
+    "subject": "Teaching Aptitude",
+    "text": "\"Self-Efficacy\" का शिक्षा में क्या प्रभाव है?",
+    "options": {
+      "A": "कोई प्रभाव नहीं",
+      "B": "छात्र के आत्मविश्वास और प्रदर्शन को प्रभावित करता है",
+      "C": "केवल परीक्षा के लिए",
+      "D": "बाहरी दबाव"
+    },
+    "correctAnswer": "B",
+    "explanation": "आत्म-प्रभावकारिता (Self-Efficacy) छात्र के आत्मविश्वास, प्रेरणा और समग्र प्रदर्शन को प्रभावित करती है।",
+    "frequency": 0,
+    "probability": 87,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 241,
+    "subject": "Teaching Aptitude",
+    "text": "\"Blended Learning\" में कौन से तत्व शामिल होते हैं?",
+    "options": {
+      "A": "केवल ऑनलाइन शिक्षा",
+      "B": "परंपरागत और डिजिटल शिक्षा का मिश्रण",
+      "C": "केवल कक्षा में पढ़ाई",
+      "D": "कोई संरचना नहीं"
+    },
+    "correctAnswer": "B",
+    "explanation": "मिश्रित शिक्षा (Blended Learning) परंपरागत कक्षा आधारित और डिजिटल शिक्षा दोनों को संयोजित करती है।",
+    "frequency": 0,
+    "probability": 83,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 242,
+    "subject": "Teaching Aptitude",
+    "text": "\"Assessment for Learning\" का उद्देश्य क्या है?",
+    "options": {
+      "A": "केवल अंक देना",
+      "B": "छात्र की प्रगति को समझना और सीखने में सुधार लाना",
+      "C": "छात्र को पास/फेल करना",
+      "D": "शिक्षक की योग्यता मापना"
+    },
+    "correctAnswer": "B",
+    "explanation": "शिक्षण के लिए मूल्यांकन (Assessment for Learning) का उद्देश्य छात्र की प्रगति को समझना और सीखने में सुधार लाना है।",
+    "frequency": 0,
+    "probability": 84,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 243,
+    "subject": "Teaching Aptitude",
+    "text": "\"Growth Mindset\" का विकास कैसे होता है?",
+    "options": {
+      "A": "असफलता को नकारना",
+      "B": "चुनौतियों को अवसर मानना और प्रयास को मूल्य देना",
+      "C": "तुरंत सफलता चाहना",
+      "D": "प्रतियोगिता से बचना"
+    },
+    "correctAnswer": "B",
+    "explanation": "वृद्धि मानसिकता (Growth Mindset) चुनौतियों को अवसर मानने और प्रयास को मूल्य देने से विकसित होती है।",
+    "frequency": 0,
+    "probability": 86,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 244,
+    "subject": "Teaching Aptitude",
+    "text": "\"Classroom Management\" के मुख्य उद्देश्य क्या हैं?",
+    "options": {
+      "A": "केवल अनुशासन",
+      "B": "सकारात्मक शिक्षण वातावरण और प्रभावी शिक्षण",
+      "C": "छात्रों को डराना",
+      "D": "शिक्षक की शक्ति दिखाना"
+    },
+    "correctAnswer": "B",
+    "explanation": "कक्षा प्रबंधन (Classroom Management) एक सकारात्मक, अनुकूल शिक्षण वातावरण बनाने का उद्देश्य रखता है।",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 245,
+    "subject": "Teaching Aptitude",
+    "text": "\"Universal Design for Learning\" (UDL) क्या है?",
+    "options": {
+      "A": "सभी को एक जैसे पढ़ाना",
+      "B": "सभी छात्रों की जरूरतों को पूरा करने के लिए कई तरीके प्रदान करना",
+      "C": "केवल विशेष छात्रों के लिए डिजाइन",
+      "D": "कोई डिजाइन नहीं"
+    },
+    "correctAnswer": "B",
+    "explanation": "सार्वभौमिक शिक्षण डिजाइन (UDL) सभी छात्रों की जरूरतों को पूरा करने के लिए कई तरीके और विकल्प प्रदान करता है।",
+    "frequency": 0,
+    "probability": 85,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 246,
+    "subject": "Teaching Aptitude",
+    "text": "ऑपरेशन ब्लैकबोर्ड कार्यक्रम का संबंध किससे है? (UP B.Ed 2016, 2019)",
+    "options": {
+      "A": "प्राथमिक शिक्षा",
+      "B": "माध्यमिक शिक्षा",
+      "C": "उच्च शिक्षा",
+      "D": "प्रौढ़ शिक्षा"
+    },
+    "correctAnswer": "A",
+    "explanation": "ऑपरेशन ब्लैकबोर्ड 1987 में प्राथमिक विद्यालयों में न्यूनतम आवश्यक सुविधाएं प्रदान करने के लिए शुरू किया गया था।",
+    "frequency": 6,
+    "probability": 92,
+    "sourceYear": "2016, 2019",
+    "isReal": true
+  },
+  {
+    "id": 247,
+    "subject": "Teaching Aptitude",
+    "text": "राष्ट्रीय साक्षरता मिशन की स्थापना कब हुई? (UP B.Ed 2017, 2021)",
+    "options": {
+      "A": "1985",
+      "B": "1986",
+      "C": "1988",
+      "D": "1992"
+    },
+    "correctAnswer": "C",
+    "explanation": "राष्ट्रीय साक्षरता मिशन (NLM) 5 मई 1988 को स्थापित किया गया था।",
+    "frequency": 4,
+    "probability": 85,
+    "sourceYear": "2017, 2021",
+    "isReal": true
+  },
+  {
+    "id": 248,
+    "subject": "Teaching Aptitude",
+    "text": "'त्रि-भाषा सूत्र' (Three-Language Formula) की सिफारिश किस आयोग ने की थी? (UP B.Ed 2018, 2022)",
+    "options": {
+      "A": "राधाकृष्णन आयोग",
+      "B": "मुदालियर आयोग",
+      "C": "कोठारी आयोग",
+      "D": "राष्ट्रीय शिक्षा नीति 1986"
+    },
+    "correctAnswer": "C",
+    "explanation": "कोठारी आयोग (1964-66) ने त्रि-भाषा सूत्र की सिफारिश की थी।",
+    "frequency": 5,
+    "probability": 89,
+    "sourceYear": "2018, 2022",
+    "isReal": true
+  },
+  {
+    "id": 249,
+    "subject": "Teaching Aptitude",
+    "text": "NCERT की स्थापना किस वर्ष हुई थी? (UP B.Ed 2015, 2019, 2023)",
+    "options": {
+      "A": "1956",
+      "B": "1961",
+      "C": "1975",
+      "D": "1986"
+    },
+    "correctAnswer": "B",
+    "explanation": "राष्ट्रीय शैक्षिक अनुसंधान और प्रशिक्षण परिषद (NCERT) की स्थापना 1961 में हुई थी।",
+    "frequency": 7,
+    "probability": 95,
+    "sourceYear": "2015, 2019, 2023",
+    "isReal": true
+  },
+  {
+    "id": 250,
+    "subject": "Teaching Aptitude",
+    "text": "एक प्रभावी शिक्षक का सबसे महत्वपूर्ण गुण क्या माना जाता है?",
+    "options": {
+      "A": "कठोर अनुशासन बनाए रखना",
+      "B": "विषय का गहन ज्ञान और छात्रों को प्रेरित करने की क्षमता",
+      "C": "हमेशा समय पर पाठ्यक्रम पूरा करना",
+      "D": "केवल परीक्षा-उन्मुख पढ़ाना"
+    },
+    "correctAnswer": "B",
+    "explanation": "शिक्षक का प्रभावी होना उसके विषय ज्ञान और छात्रों के संवेगात्मक व शैक्षणिक प्रोत्साहन पर निर्भर करता है।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 251,
+    "subject": "Teaching Aptitude",
+    "text": "बाल-केंद्रित शिक्षा (Student-Centered Education) का मुख्य ध्यान किस पर होता है? (UP B.Ed 2019, 2022)",
+    "options": {
+      "A": "शिक्षक के व्याख्यान पर",
+      "B": "छात्रों की व्यक्तिगत आवश्यकताओं, रुचियों और क्षमताओं पर",
+      "C": "केवल परीक्षा के अंकों पर",
+      "D": "विद्यालय की भौतिक सुविधाओं पर"
+    },
+    "correctAnswer": "B",
+    "explanation": "बाल-केंद्रित शिक्षा में प्रत्येक छात्र की योग्यता, क्षमता, रुचि और सीखने की गति को केंद्र में रखकर शिक्षण किया जाता है।",
+    "frequency": 3,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 252,
+    "subject": "Teaching Aptitude",
+    "text": "शिक्षण सहायक सामग्री (Teaching Aids) का उपयोग मुख्य रूप से किसलिए किया जाता है? (UP B.Ed 2017)",
+    "options": {
+      "A": "कक्षा को सजाने के लिए",
+      "B": "कठिन अवधारणाओं को स्पष्ट और रुचिकर बनाने के लिए",
+      "C": "शिक्षक का श्रम बचाने के लिए",
+      "D": "छात्रों का ध्यान भटकाने के लिए"
+    },
+    "correctAnswer": "B",
+    "explanation": "शिक्षण सहायक सामग्री (जैसे चार्ट, मॉडल, डिजिटल स्क्रीन) अमूर्त और कठिन प्रत्ययों को मूर्त व बोधगम्य बनाती है।",
+    "frequency": 2,
+    "probability": 91,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 253,
+    "subject": "Teaching Aptitude",
+    "text": "सूक्ष्म शिक्षण (Micro-Teaching) का मुख्य उद्देश्य क्या विकसित करना है? (UP B.Ed 2018, 2023)",
+    "options": {
+      "A": "विषय का ज्ञान",
+      "B": "विशेष शिक्षण कौशल",
+      "C": "कक्षा में शांति",
+      "D": "मूल्यांकन क्षमता"
+    },
+    "correctAnswer": "B",
+    "explanation": "सूक्ष्म शिक्षण में भावी शिक्षकों को कम समय में विशिष्ट शिक्षण कौशलों (जैसे- प्रस्तावना कौशल, प्रश्न कौशल) का अभ्यास कराया जाता है।",
+    "frequency": 3,
+    "probability": 94,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 254,
+    "subject": "Teaching Aptitude",
+    "text": "बालक के समाजीकरण (Socialization) की प्राथमिक संस्था कौन सी है?",
+    "options": {
+      "A": "विद्यालय",
+      "B": "परिवार",
+      "C": "मीडिया",
+      "D": "धार्मिक स्थल"
+    },
+    "correctAnswer": "B",
+    "explanation": "परिवार बालक के समाजीकरण का प्राथमिक और सबसे महत्वपूर्ण अनौपचारिक माध्यम है। विद्यालय द्वितीयक संस्था है।",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 255,
+    "subject": "Teaching Aptitude",
+    "text": "यदि कोई छात्र कक्षा में अनुशासनहीन व्यवहार करता है, तो शिक्षक को क्या करना चाहिए? (UP B.Ed 2020, 2022)",
+    "options": {
+      "A": "उसे तुरंत कक्षा से बाहर कर देना चाहिए",
+      "B": "उसके व्यवहार के कारणों को जानने का प्रयास करना चाहिए और मार्गदर्शन देना चाहिए",
+      "C": "उसे कठोर शारीरिक दंड देना चाहिए",
+      "D": "उसके माता-पिता को शिकायत पत्र भेजना चाहिए"
+    },
+    "correctAnswer": "B",
+    "explanation": "आधुनिक शिक्षा मनोविज्ञान मानता है कि समस्यात्मक व्यवहार के कारणों को समझकर उपचारात्मक शिक्षण देना ही सही समाधान है।",
+    "frequency": 3,
+    "probability": 93,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 256,
+    "subject": "Teaching Aptitude",
+    "text": "रचनात्मक मूल्यांकन (Formative Assessment) का मुख्य कार्य क्या है? (UP B.Ed 2021)",
+    "options": {
+      "A": "अंतिम ग्रेड प्रदान करना",
+      "B": "सीखने की प्रक्रिया के दौरान छात्रों की प्रगति की निगरानी करना और तत्काल फीडबैक देना",
+      "C": "छात्रों को पास या फेल घोषित करना",
+      "D": "कक्षा का वर्गीकरण करना"
+    },
+    "correctAnswer": "B",
+    "explanation": "रचनात्मक (निर्माणात्मक) मूल्यांकन शिक्षण अधिगम प्रक्रिया के दौरान छात्रों की कमियों को जानने और उसमें सुधार करने के लिए किया जाता है।",
+    "frequency": 2,
+    "probability": 90,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 257,
+    "subject": "Teaching Aptitude",
+    "text": "शिक्षण की 'परियोजना विधि' (Project Method) के प्रतिपादक कौन हैं? (UP B.Ed 2016, 2020)",
+    "options": {
+      "A": "जॉन डीवी",
+      "B": "विलियम किलपैट्रिक",
+      "C": "फ्रोबेल",
+      "D": "पेस्टालोजी"
+    },
+    "correctAnswer": "B",
+    "explanation": "प्रायोजना विधि (Project Method) जॉन डीवी के व्यावहारिक दर्शन पर आधारित थी, जिसे उनके शिष्य विलियम किलपैट्रिक ने प्रतिपादित किया था।",
+    "frequency": 3,
+    "probability": 92,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 258,
+    "subject": "Teaching Aptitude",
+    "text": "औपचारिक शिक्षा (Formal Education) का मुख्य माध्यम क्या है?",
+    "options": {
+      "A": "परिवार",
+      "B": "विद्यालय और महाविद्यालय",
+      "C": "मित्र मंडली",
+      "D": "सामाजिक उत्सव"
+    },
+    "correctAnswer": "B",
+    "explanation": "विद्यालय, कॉलेज और विश्वविद्यालय औपचारिक शिक्षा के निश्चित स्थान, समय और पाठ्यक्रम-युक्त माध्यम हैं।",
+    "frequency": 0,
+    "probability": 85,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 259,
+    "subject": "Teaching Aptitude",
+    "text": "'पेडागोजी' (Pedagogy) का शाब्दिक अर्थ क्या है? (UP B.Ed 2018)",
+    "options": {
+      "A": "बालक को अनुशासित करना",
+      "B": "शिक्षण की कला और विज्ञान (अध्यापन कार्य)",
+      "C": "विद्यालय का प्रबंधन करना",
+      "D": "परीक्षा का संचालन"
+    },
+    "correctAnswer": "B",
+    "explanation": "पेडागोजी (Pedagogy) अध्यापन कार्य या शिक्षण पद्धतियों के विज्ञान और कला को संदर्भित करता है।",
+    "frequency": 2,
+    "probability": 89,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 260,
+    "subject": "Teaching Aptitude",
+    "text": "शिक्षण-अधिगम प्रक्रिया का सबसे महत्वपूर्ण तत्व कौन सा माना जाता है?",
+    "options": {
+      "A": "सुसज्जित कक्षा",
+      "B": "शिक्षक और छात्र के बीच की अंतःक्रिया",
+      "C": "महंगी पाठ्यपुस्तकें",
+      "D": "प्रशासनिक नियम"
+    },
+    "correctAnswer": "B",
+    "explanation": "शिक्षण एक द्विमुखी या त्रिमुखी प्रक्रिया है जिसमें शिक्षक और शिक्षार्थी के बीच का संवाद (अंतःक्रिया) ही वास्तविक अधिगम लाता है।",
+    "frequency": 0,
+    "probability": 87,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 261,
+    "subject": "Teaching Aptitude",
+    "text": "छात्रों को गृहकार्य (Homework) देने का मुख्य उद्देश्य क्या होता है? (UP B.Ed 2019)",
+    "options": {
+      "A": "उन्हें घर पर व्यस्त रखना",
+      "B": "स्व-अध्ययन (Self-Study) की आदत विकसित करना और ज्ञान का सुदृढ़ीकरण करना",
+      "C": "शिक्षक का समय बचाना",
+      "D": "अभिभावकों को दिखाना की पढ़ाई हो रही है"
+    },
+    "correctAnswer": "B",
+    "explanation": "गृहकार्य का उद्देश्य पढ़ाए गए पाठ को दोहराना, अभ्यास करना तथा छात्रों में स्वाध्याय की प्रवृत्ति पैदा करना है।",
+    "frequency": 2,
+    "probability": 90,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 262,
+    "subject": "Teaching Aptitude",
+    "text": "यदि कक्षा में कोई छात्र अप्रासंगिक प्रश्न पूछता है, तो एक आदर्श शिक्षक के रूप में आपकी क्या प्रतिक्रिया होगी?",
+    "options": {
+      "A": "उसे तुरंत डांट कर बैठा देंगे",
+      "B": "कक्षा के बाद उसके प्रश्न का व्यक्तिगत रूप से उत्तर देंगे या प्यार से समझाएंगे",
+      "C": "उसके प्रश्न की उपेक्षा करेंगे",
+      "D": "उसे कक्षा से बाहर भेज देंगे"
+    },
+    "correctAnswer": "B",
+    "explanation": "जिज्ञासा को दबाना नहीं चाहिए। कक्षा की लय को बनाए रखते हुए बाद में छात्र की जिज्ञासा को शांत करना ही सर्वश्रेष्ठ अध्यापन है।",
+    "frequency": 0,
+    "probability": 86,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 263,
+    "subject": "Teaching Aptitude",
+    "text": "कक्षा संचार (Classroom Communication) में सबसे बड़ी बाधा कौन सी होती है? (UP B.Ed 2021, 2023)",
+    "options": {
+      "A": "चार्ट पेपर का उपयोग",
+      "B": "अत्यधिक शोर और अस्पष्ट भाषा",
+      "C": "रोशनी की व्यवस्था",
+      "D": "कक्षा की बड़ी मेज"
+    },
+    "correctAnswer": "B",
+    "explanation": "शोर (Noise) तथा शिक्षक द्वारा प्रयुक्त क्लिष्ट या अस्पष्ट भाषा संप्रेषण में सबसे बड़ी भौतिक तथा मनोवैज्ञानिक बाधा उत्पन्न करती है।",
+    "frequency": 2,
+    "probability": 93,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 264,
+    "subject": "Teaching Aptitude",
+    "text": "'पाठ्यचर्या' (Curriculum) शब्द का व्यापक अर्थ क्या है? (UP B.Ed 2015)",
+    "options": {
+      "A": "केवल निर्धारित पाठ्यपुस्तकें",
+      "B": "विद्यालय में छात्र को प्राप्त होने वाले सभी अनुभव (सह-शैक्षणिक गतिविधियों सहित)",
+      "C": "वार्षिक परीक्षा कार्यक्रम",
+      "D": "कक्षा की समय सारणी"
+    },
+    "correctAnswer": "B",
+    "explanation": "पाठ्यचर्या (Curriculum) लैटिन शब्द 'Currera' से बना है जिसका अर्थ है 'दौड़ का मैदान'। इसमें कक्षा के अंदर और बाहर की समस्त गतिविधियां शामिल होती हैं।",
+    "frequency": 2,
+    "probability": 89,
+    "sourceYear": "UP B.Ed 2015",
+    "isReal": true
+  },
+  {
+    "id": 265,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2020) बुनियादी शिक्षा योजना (वर्धा योजना 1937) के तहत बुनियादी शिक्षा का मुख्य माध्यम क्या होना चाहिए?",
+    "options": {
+      "A": "राष्ट्रभाषा हिंदी",
+      "B": "मातृभाषा",
+      "C": "अंग्रेजी भाषा",
+      "D": "स्थानीय हस्तशिल्प"
+    },
+    "correctAnswer": "B",
+    "explanation": "महात्मा गांधी की वर्धा योजना (1937) के अनुसार, प्राथमिक शिक्षा का माध्यम बालक की मातृभाषा होना चाहिए ताकि वह स्वाभाविक रूप से सीख सके।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 266,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2018) रवींद्रनाथ टैगोर के शिक्षा दर्शन के अनुसार, शिक्षा का सर्वोत्तम उद्देश्य क्या होना चाहिए?",
+    "options": {
+      "A": "बालक का सर्वांगीण विकास और प्रकृति के साथ तादात्म्य",
+      "B": "केवल बौद्धिक ज्ञान प्राप्त करना",
+      "C": "व्यावसायिक रूप से आत्मनिर्भर बनना",
+      "D": "कठोर अनुशासन का पालन करना"
+    },
+    "correctAnswer": "A",
+    "explanation": "टैगोर के अनुसार शिक्षा का उद्देश्य प्रकृति के साहचर्य में बालक का स्वतंत्र एवं सर्वांगीण (शारीरिक, मानसिक, नैतिक) विकास करना है।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 267,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2021) स्वामी विवेकानंद ने किस प्रकार की शिक्षा पर सर्वाधिक बल दिया?",
+    "options": {
+      "A": "धार्मिक एवं कर्मकांडीय शिक्षा",
+      "B": "केवल पाश्चात्य वैज्ञानिक शिक्षा",
+      "C": "मनुष्य निर्माणकारी शिक्षा (Man-making Education)",
+      "D": "पुस्तकीय ज्ञान आधारित शिक्षा"
+    },
+    "correctAnswer": "C",
+    "explanation": "विवेकानंद जी का मानना था कि शिक्षा ऐसी होनी चाहिए जिससे बालक का चरित्र निर्माण हो, मानसिक शक्ति बढ़े और वह अपने पैरों पर खड़ा हो सके।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 268,
+    "subject": "Teaching Aptitude",
+    "text": "(AI Predicted for 2026) जॉन डीवी के अनुसार, विद्यालय एक ________ संस्थान है और शिक्षा एक ________ प्रक्रिया है।",
+    "options": {
+      "A": "सामाजिक, सामाजिक",
+      "B": "व्यक्तिगत, मनोवैज्ञानिक",
+      "C": "दार्शनिक, नैतिक",
+      "D": "पर्यावरणीय, व्यावहारिक"
+    },
+    "correctAnswer": "A",
+    "explanation": "प्रयोजनवादी विचारक जॉन डीवी के अनुसार विद्यालय समाज का प्रतिनिधि है (सामाजिक संस्थान) और शिक्षा एक सामाजिक प्रक्रिया है जो जीवन पर्यंत चलती है।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 269,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2019) रूसो की प्रसिद्ध पुस्तक 'एमील' (Emile) मुख्य रूप से किस विषय पर आधारित है?",
+    "options": {
+      "A": "राजनीति शास्त्र",
+      "B": "प्राकृतिक एवं बाल-केंद्रित शिक्षा",
+      "C": "समाजशास्त्र",
+      "D": "धर्मशास्त्र"
+    },
+    "correctAnswer": "B",
+    "explanation": "रूसो की पुस्तक 'एमील' बालक की प्राकृतिक प्रवृत्तियों और कृत्रिम सामाजिक बंधनों से मुक्त बाल-केंद्रित शिक्षा का समर्थन करती है।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 270,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2022) फ्रोबेल द्वारा प्रतिपादित 'किंडरगार्टन' (Kindergarten) का शाब्दिक अर्थ क्या है?",
+    "options": {
+      "A": "बच्चों की पाठशाला",
+      "B": "खेल का मैदान",
+      "C": "पुस्तकों का घर",
+      "D": "बच्चों का उद्यान (बगीचा)"
+    },
+    "correctAnswer": "D",
+    "explanation": "किंडरगार्टन एक जर्मन शब्द है जिसका अर्थ है 'बच्चों का बगीचा', जहाँ शिक्षक एक माली की तरह बच्चों रूपी पौधों का विकास करता है।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 271,
+    "subject": "Teaching Aptitude",
+    "text": "(AI Predicted for 2026) मारिया मॉन्टेसरी की शिक्षा पद्धति में ज्ञानेंद्रियों के प्रशिक्षण पर विशेष बल दिया गया है। उनके अनुसार, पढ़ना सीखने से पहले क्या सीखना चाहिए?",
+    "options": {
+      "A": "व्याकरण सीखना",
+      "B": "लिखना सीखना",
+      "C": "गणित सीखना",
+      "D": "चित्रकारी करना"
+    },
+    "correctAnswer": "B",
+    "explanation": "डॉ. मारिया मॉन्टेसरी के अनुसार, बालक में लिखने की क्रिया पढ़ने की क्रिया की तुलना में अधिक सरल और स्वाभाविक होती है, इसलिए लिखना पहले सिखाया जाना चाहिए।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 272,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2023) महात्मा गांधी के शिक्षा दर्शन में '3 Hs' का पूर्ण रूप क्या है?",
+    "options": {
+      "A": "Health, Hygiene, Happiness",
+      "B": "Head, Heart, Hand",
+      "C": "History, Humanity, Honesty",
+      "D": "Hearing, Helping, Healing"
+    },
+    "correctAnswer": "B",
+    "explanation": "गांधी जी के अनुसार 3 Hs का अर्थ है मस्तिष्क (Head-बौद्धिक विकास), हृदय (Heart-नैतिक व आध्यात्मिक विकास), और हाथ (Hand-शारीरिक व व्यावसायिक कौशल)।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 273,
+    "subject": "Teaching Aptitude",
+    "text": "(AI Predicted for 2026) प्रयोजनवाद (Pragmatism) के अनुसार, विद्यालयी पाठ्यक्रम का निर्माण किस मुख्य सिद्धांत पर होना चाहिए?",
+    "options": {
+      "A": "उपयोगिता और तात्कालिक आवश्यकता का सिद्धांत",
+      "B": "कठोर अनुशासन और शास्त्रीय ज्ञान का सिद्धांत",
+      "C": "धार्मिक ग्रंथों के अध्ययन का सिद्धांत",
+      "D": "केवल परीक्षा उत्तीर्ण करने का सिद्धांत"
+    },
+    "correctAnswer": "A",
+    "explanation": "प्रयोजनवाद मानता है कि ज्ञान वही उपयोगी है जो व्यावहारिक जीवन की समस्याओं को हल करने में मदद करे। अतः पाठ्यक्रम उपयोगिता पर आधारित होना चाहिए।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 274,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2017) महर्षि अरविंद घोष के 'एकीकृत शिक्षा' (Integral Education) विचार का मुख्य लक्ष्य क्या है?",
+    "options": {
+      "A": "केवल शारीरिक बल प्राप्त करना",
+      "B": "बालक की चेतना का दिव्य स्तर तक क्रमिक विकास",
+      "C": "पश्चिमी जीवन शैली को अपनाना",
+      "D": "केवल लिपिकीय योग्यता हासिल करना"
+    },
+    "correctAnswer": "B",
+    "explanation": "अरविंद घोष के अनुसार शिक्षा का उद्देश्य मानव का पूर्ण रूपांतरण और चेतना का अतिमानस (Supermind) स्तर तक विकास करना है।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 275,
+    "subject": "Teaching Aptitude",
+    "text": "(AI Predicted for 2026) आदर्शवाद (Idealism) के अनुसार, शिक्षा का अंतिम और सर्वोच्च लक्ष्य क्या माना जाता है?",
+    "options": {
+      "A": "भौतिक सुख-सुविधाओं का अर्जन",
+      "B": "आत्मानुभूति और आध्यात्मिक पूर्णता",
+      "C": "जीविकोपार्जन हेतु कौशल विकास",
+      "D": "वैज्ञानिक अनुसंधानों में सफलता"
+    },
+    "correctAnswer": "B",
+    "explanation": "आदर्शवाद विचारों, मूल्यों और आत्मा को सर्वोपरि मानता है। इसके अनुसार शिक्षा का चरम लक्ष्य सत्यम, शिवम, सुन्दरम की प्राप्ति और आत्मानुभूति है।",
+    "frequency": 0,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 276,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2020) शिक्षा में 'निषेधात्मक शिक्षा' (Negative Education) की अवधारणा के प्रणेता कौन थे?",
+    "options": {
+      "A": "रूसो",
+      "B": "जॉन लॉक",
+      "C": "पेस्टालॉजी",
+      "D": "हर्बर्ट स्पेंसर"
+    },
+    "correctAnswer": "A",
+    "explanation": "रूसो के अनुसार, बालक को बाल्यावस्था में औपचारिक रूप से सत्य या सदाचार की शिक्षा न देकर, उसे केवल भूलों और अवगुणों से बचाना चाहिए। इसे उन्होंने निषेधात्मक शिक्षा कहा।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 277,
+    "subject": "Teaching Aptitude",
+    "text": "(AI Predicted for 2026) यथार्थवाद (Realism) के अनुसार, निम्नलिखित में से कौन सी शिक्षण विधि सर्वोत्तम है?",
+    "options": {
+      "A": "व्याख्यान विधि",
+      "B": "वाद-विवाद विधि",
+      "C": "निरीक्षण, प्रयोग और स्व-अनुभव विधि",
+      "D": "कंठस्थीकरण विधि"
+    },
+    "correctAnswer": "C",
+    "explanation": "यथार्थवाद प्रत्यक्ष जगत को सत्य मानता है। इसलिए यह प्रेक्षण, वैज्ञानिक प्रयोगों और प्रत्यक्ष ज्ञानेंद्रिय अनुभवों को सर्वोत्तम शिक्षण विधि मानता है।",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 278,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2021) सुकरात की प्रसिद्ध शिक्षण विधि को किस नाम से जाना जाता है?",
+    "options": {
+      "A": "प्रश्नोत्तर या द्वंद्वात्मक विधि",
+      "B": "प्रयोगशाला विधि",
+      "C": "खेल विधि",
+      "D": "योजना विधि"
+    },
+    "correctAnswer": "A",
+    "explanation": "सुकरात ने ज्ञान की खोज के लिए प्रश्नोत्तर विधि का विकास किया, जिसे सुकराती संवाद या द्वंद्वात्मक विधि (Dialectic Method) कहा जाता है।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 279,
+    "subject": "Teaching Aptitude",
+    "text": "(AI Predicted for 2026) प्रकृतिवाद (Naturalism) के अनुसार, कक्षा शिक्षण में शिक्षक की क्या भूमिका होती है?",
+    "options": {
+      "A": "एक कठोर अनुशासनकर्ता और शासक",
+      "B": "एक मूक दर्शक और केवल मार्गदर्शक (सुविधाप्रदाता)",
+      "C": "एकमात्र ज्ञान का स्रोत",
+      "D": "परीक्षक और मूल्यांकनकर्ता"
+    },
+    "correctAnswer": "B",
+    "explanation": "प्रकृतिवाद बालक की स्वतंत्रता का पक्षधर है। इसमें शिक्षक का स्थान पृष्ठभूमि में होता है; वह केवल एक अनुकूल वातावरण तैयार करने वाला और मार्गदर्शक होता है।",
+    "frequency": 0,
+    "probability": 94,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 280,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2022) शिक्षण की 'ह्यूरिस्टिक विधि' (Heuristic Method) के जनक कौन हैं?",
+    "options": {
+      "A": "एच. ई. आर्मस्ट्रांग",
+      "B": "जॉन डीवी",
+      "C": "किलपैट्रिक",
+      "D": "फ्रोबेल"
+    },
+    "correctAnswer": "A",
+    "explanation": "ह्यूरिस्टिक विधि (खोज विधि) के प्रतिपादक प्रोफेसर एच. ई. आर्मस्ट्रांग हैं। इसमें बालक को एक खोजकर्ता के रूप में कार्य करने का अवसर दिया जाता है।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 281,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2019) 'प्रायोजना विधि' (Project Method) मूल रूप से किसके विचारों पर आधारित है और इसे किसने विकसित किया?",
+    "options": {
+      "A": "पेस्टालॉजी और फ्रोबेल",
+      "B": "जॉन डीवी के विचार और विलियम किलपैट्रिक द्वारा विकास",
+      "C": "सुकरात और प्लेटो",
+      "D": "स्किनर और थॉर्नडाइक"
+    },
+    "correctAnswer": "B",
+    "explanation": "प्रजैकट विधि का आधार जॉन डीवी का प्रयोजनवाद है, तथा इसे व्यावहारिक रूप देने का श्रेय उनके शिष्य विलियम किलपैट्रिक को जाता है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 282,
+    "subject": "Teaching Aptitude",
+    "text": "(AI Predicted for 2026) 'सूक्ष्म शिक्षण' (Micro-teaching) चक्र की कुल सामान्य अवधि कितनी होती है?",
+    "options": {
+      "A": "30 मिनट",
+      "B": "36 मिनट",
+      "C": "45 मिनट",
+      "D": "50 मिनट"
+    },
+    "correctAnswer": "B",
+    "explanation": "भारतीय प्रतिमान (NCERT) के अनुसार सूक्ष्म शिक्षण चक्र की कुल अवधि 36 मिनट होती है (शिक्षण: 6, प्रतिपुष्टि: 6, पुनः योजना: 12, पुनः शिक्षण: 6, पुनः प्रतिपुष्टि: 6)।",
+    "frequency": 0,
+    "probability": 95,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 283,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2020) शिक्षण के 'ज्ञानात्मक', 'भावात्मक' और 'क्रियात्मक' पक्षों का वर्गीकरण किसने प्रस्तुत किया था?",
+    "options": {
+      "A": "बेंजामिन ब्लूम और उनके सहयोगी",
+      "B": "बी. एफ. स्किनर",
+      "C": "जीन पियाजे",
+      "D": "अल्बर्ट बांडुरा"
+    },
+    "correctAnswer": "A",
+    "explanation": "बेंजामिन ब्लूम ने 1956 में शैक्षिक उद्देश्यों का वर्गीकरण (Taxonomy of Educational Objectives) तीन क्षेत्रों में किया था।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 284,
+    "subject": "Teaching Aptitude",
+    "text": "(AI Predicted for 2026) 'उलटी कक्षा' या 'फ्लिप्ड क्लासरूम' (Flipped Classroom) शिक्षण पद्धति की मुख्य विशेषता क्या है?",
+    "options": {
+      "A": "कक्षा में छात्र बेंच पर उल्टे बैठते हैं",
+      "B": "सैद्धांतिक अध्ययन छात्र घर पर वीडियो/डिजिटल माध्यम से करते हैं और कक्षा में गृहकार्य/व्यावहारिक अभ्यास करते हैं",
+      "C": "शिक्षक के बिना केवल कंप्यूटर द्वारा संचालित कक्षा",
+      "D": "केवल परीक्षा के दिन ही शिक्षण कार्य होना"
+    },
+    "correctAnswer": "B",
+    "explanation": "फ्लिप्ड क्लासरूम में शिक्षण का पारंपरिक क्रम उलट जाता है। छात्र पहले घर पर पाठ्य सामग्री पढ़/देख लेते हैं, और स्कूल में चर्चा या समस्या समाधान करते हैं।",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 285,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2018) शिक्षण के किस स्तर को 'स्मृति स्तर' (Memory Level) कहा जाता है और इसके प्रस्तावक कौन थे?",
+    "options": {
+      "A": "हर्बर्ट द्वारा प्रतिपादित स्तर, जो केवल सूचनाओं को रटने पर बल देता है",
+      "B": "मॉरिसन द्वारा प्रतिपादित स्तर, जो समझ पर बल देता है",
+      "C": "हंट द्वारा प्रतिपादित स्तर, जो चिंतन पर बल देता है",
+      "D": "ब्रूनर द्वारा प्रतिपादित स्तर, जो खोज पर बल देता है"
+    },
+    "correctAnswer": "A",
+    "explanation": "शिक्षण के तीन स्तर हैं: स्मृति स्तर (हर्बर्ट), अवबोध स्तर (मॉरिसन), और चिंतन स्तर (हंट)। स्मृति स्तर प्राथमिक स्तर है जो तथ्यों को याद रखने पर बल देता है।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 286,
+    "subject": "Teaching Aptitude",
+    "text": "(AI Predicted for 2026) 'अवबोध स्तर' (Understanding Level) के शिक्षण मॉडल में कौन से पाँच सोपान शामिल हैं?",
+    "options": {
+      "A": "स्मृति, चिंतन, प्रयोग, अभ्यास, मूल्यांकन",
+      "B": "खोज, प्रस्तुतीकरण, आत्मसातीकरण, संगठन, वाचन (अभिव्यक्तिकरण)",
+      "C": "योजना, अध्यापन, मूल्यांकन, सुधार, पुनरावृत्ति",
+      "D": "प्रेरणा, ध्यान, अवधारण, पुनरुत्पादन, सुदृढ़ीकरण"
+    },
+    "correctAnswer": "B",
+    "explanation": "मॉरिसन के अवबोध स्तर के शिक्षण प्रतिमान में पाँच पद हैं: अन्वेषण (Exploration), प्रस्तुतीकरण (Presentation), आत्मसातीकरण (Assimilation), संगठन (Organization), और वाचन (Recitation)।",
+    "frequency": 0,
+    "probability": 87,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 287,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2021) शिक्षण की 'आगमन विधि' (Inductive Method) का सही क्रम क्या है?",
+    "options": {
+      "A": "नियम -> उदाहरण -> सत्यापन -> निष्कर्ष",
+      "B": "उदाहरण -> निरीक्षण -> सामान्यीकरण -> परीक्षण/सत्यापन",
+      "C": "निष्कर्ष -> नियम -> उदाहरण -> प्रयोग",
+      "D": "तथ्य याद करना -> परीक्षा -> परिणाम -> विस्मरण"
+    },
+    "correctAnswer": "B",
+    "explanation": "आगमन विधि विशिष्ट से सामान्य की ओर चलती है। इसमें पहले छात्रों के समक्ष अनेक विशिष्ट उदाहरण प्रस्तुत किए जाते हैं, फिर उनका निरीक्षण कर सामान्य नियम निकाला जाता है।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 288,
+    "subject": "Teaching Aptitude",
+    "text": "(AI Predicted for 2026) 'निगमन विधि' (Deductive Method) के संबंध में कौन सा कथन सत्य है?",
+    "options": {
+      "A": "यह विधि सामान्य से विशिष्ट और नियम से उदाहरण की ओर चलती है",
+      "B": "यह विधि बालकों में खोज की प्रवृत्ति विकसित करती है",
+      "C": "यह विधि प्राथमिक कक्षाओं के लिए सर्वाधिक उपयुक्त है",
+      "D": "इसमें किसी पूर्व निर्धारित नियम की आवश्यकता नहीं होती"
+    },
+    "correctAnswer": "A",
+    "explanation": "निगमन विधि में शिक्षक पहले नियम या सूत्र बताता है और फिर उदाहरणों द्वारा उसे स्पष्ट या सत्यापित करता है। यह सामान्य से विशिष्ट की ओर चलती है।",
+    "frequency": 0,
+    "probability": 94,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 289,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2023) शिक्षण में 'सहसंबंध का सिद्धांत' (Principle of Correlation) क्या दर्शाता है?",
+    "options": {
+      "A": "विभिन्न विषयों को एक-दूसरे से जोड़कर पढ़ाना",
+      "B": "केवल गृहकार्य और कक्षा कार्य में संबंध",
+      "C": "शिक्षकों और अभिभावकों के बीच मधुर संबंध",
+      "D": "विद्यालय और खेल के मैदान में संबंध"
+    },
+    "correctAnswer": "A",
+    "explanation": "सहसंबंध का अर्थ है कि पढ़ाए जाने वाले विषयों को जीवन की वास्तविकताओं तथा अन्य विषयों के साथ एकीकृत करके पढ़ाया जाए ताकि अधिगम सार्थक हो सके।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 290,
+    "subject": "Teaching Aptitude",
+    "text": "(AI Predicted for 2026) 'डालटन योजना' (Dalton Plan) नामक शिक्षण पद्धति की खोज किसने की थी?",
+    "options": {
+      "A": "हेलन पार्कहर्स्ट",
+      "B": "मारिया मॉन्टेसरी",
+      "C": "JOHN DEWEY",
+      "D": "एडवर्ड थॉर्नडाइक"
+    },
+    "correctAnswer": "A",
+    "explanation": "कुमारी हेलन पार्कहर्स्ट ने 1920 में अमेरिका के डालटन नामक स्थान पर प्रयोगशाला पद्धति के रूप में 'डालटन योजना' का प्रतिपादन किया, जिसमें छात्र बिना समय सारिणी के स्वतंत्र कार्य करते हैं।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 291,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2020) 'मस्तिष्क उद्वेलन' या 'बुद्धि-मंथन' (Brainstorming) विधि का मुख्य उद्देश्य क्या विकसित करना है?",
+    "options": {
+      "A": "केवल रटने की क्षमता",
+      "B": "सृजनात्मकता एवं नवीन विचारों का उत्पादन",
+      "C": "कक्षा में शांत रहने की आदत",
+      "D": "तीव्र गति से लिखने की क्षमता"
+    },
+    "correctAnswer": "B",
+    "explanation": "ब्रेनस्टॉर्मिंग विधि (ऑसबॉर्न द्वारा विकसित) छात्रों के मस्तिष्क को सक्रिय कर किसी समस्या पर नए, मौलिक और सृजनात्मक विचार उत्पन्न करने के लिए प्रेरित करती है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 292,
+    "subject": "Teaching Aptitude",
+    "text": "(AI Predicted for 2026) सूक्ष्म शिक्षण (Micro-teaching) के अंतर्गत 'पुनः पाठ योजना' (Re-planning) के लिए कितना समय निर्धारित है?",
+    "options": {
+      "A": "6 मिनट",
+      "B": "10 मिनट",
+      "C": "12 मिनट",
+      "D": "15 मिनट"
+    },
+    "correctAnswer": "C",
+    "explanation": "NCERT के 36 मिनट के सूक्ष्म शिक्षण प्रतिमान में पुनः योजना (Re-plan) बनाने के लिए सबसे अधिक 12 मिनट का समय दिया जाता है।",
+    "frequency": 0,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 293,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2022) 'क्रियाशीलता के सिद्धांत' (Principle of Activity) के अनुसार सीखने की प्रक्रिया पर क्या प्रभाव पड़ता है?",
+    "options": {
+      "A": "बालक शारीरिक या मानसिक रूप से सक्रिय रहकर ज्ञान को अधिक समय तक याद रखता है",
+      "B": "बालक जल्दी थक जाता है",
+      "C": "कक्षा में बहुत अधिक शोर होता है",
+      "D": "शिक्षक का कार्यभार बढ़ जाता है"
+    },
+    "correctAnswer": "A",
+    "explanation": "कर करके सीखने (Learning by doing) से प्राप्त ज्ञान स्थायी और व्यावहारिक होता है। बालक जब स्वयं क्रियाशील होता है तो उसकी सभी इंद्रियाँ सक्रिय होती हैं।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 294,
+    "subject": "Teaching Aptitude",
+    "text": "(AI Predicted for 2026) पाठ योजना (Lesson Plan) के निर्माण में 'पंचपदीय प्रणाली' (Five-Step System) का प्रतिपादन किसने किया था?",
+    "options": {
+      "A": "जॉन हर्बर्ट",
+      "B": "बेंजामिन ब्लूम",
+      "C": "विलियम किलपैट्रिक",
+      "D": "जीन पियाजे"
+    },
+    "correctAnswer": "A",
+    "explanation": "जर्मन शिक्षाशास्त्री हर्बर्ट ने पाठ योजना निर्माण के पाँच सोपान बताए: प्रस्तावना, प्रस्तुतीकरण, तुलना/सहसंबंध, सामान्यीकरण और अनुप्रयोग। इसे हर्बर्ट की पंचपदी कहते हैं।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 295,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2021) यदि कोई छात्र आपकी कक्षा में लगातार देर से आता है, तो एक शिक्षक के रूप में आपकी क्या प्रतिक्रिया होगी?",
+    "options": {
+      "A": "उसे कक्षा से बाहर निकाल देंगे और स्कूल में प्रवेश बंद कर देंगे",
+      "B": "देर से आने के कारणों को जानने का प्रयास करेंगे और उसका समाधान करेंगे",
+      "C": "उसे कठोर शारीरिक दंड देंगे",
+      "D": "अभिभावकों को बुलाकर उसकी शिकायत करेंगे और डांटेंगे"
+    },
+    "correctAnswer": "B",
+    "explanation": "आधुनिक बाल-केंद्रित शिक्षा में शिक्षक की भूमिका सुधारात्मक और उपचारात्मक होती है। समस्या के पीछे के कारणों का पता लगाना आवश्यक है।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 296,
+    "subject": "Teaching Aptitude",
+    "text": "(AI Predicted for 2026) कक्षा अनुशासन बनाए रखने का सबसे प्रभावी तरीका निम्नलिखित में से क्या है?",
+    "options": {
+      "A": "अनुशासनहीन छात्रों को तुरंत विद्यालय से निष्कासित करना",
+      "B": "शिक्षण को अत्यधिक रोचक, व्यावहारिक और छात्र-केंद्रित बनाना",
+      "C": "कक्षा में हमेशा भय का माहौल बनाए रखना",
+      "D": "कक्षा मॉनिटर को असीमित अधिकार देना"
+    },
+    "correctAnswer": "B",
+    "explanation": "यदि शिक्षण रुचिकर और छात्रों की आवश्यकताओं के अनुकूल होगा, तो छात्र अध्यापन में व्यस्त रहेंगे और अनुशासनहीनता की संभावना न्यूनतम होगी।",
+    "frequency": 0,
+    "probability": 94,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 297,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2017) कक्षा में कुछ छात्र बार-बार आपस में बातचीत कर रहे हैं। इस स्थिति में शिक्षक को क्या करना चाहिए?",
+    "options": {
+      "A": "उन्हें बातचीत करने दें और अपना पढ़ाना जारी रखें",
+      "B": "उन्हें चेतावनी दें, आगे बैठने को कहें और पाठ में शामिल होने के लिए प्रश्न पूछें",
+      "C": "उन्हें कक्षा के बाहर धूप में खड़ा कर दें",
+      "D": "उनका नाम बोर्ड पर लिखकर अपमानित करें"
+    },
+    "correctAnswer": "B",
+    "explanation": "शिक्षक को छात्रों का ध्यान भटकाए बिना उन्हें शिक्षण में शामिल करने के लिए सक्रिय करना चाहिए। उन्हें आगे बैठाना और प्रश्न पूछना ध्यान आकर्षित करने का सौम्य तरीका है।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 298,
+    "subject": "Teaching Aptitude",
+    "text": "(AI Predicted for 2026) लोकतांत्रिक कक्षा वातावरण (Democratic Classroom Environment) की क्या पहचान है?",
+    "options": {
+      "A": "शिक्षक ही नियम बनाता है और छात्रों को बिना प्रश्न किए मानना पड़ता है",
+      "B": "छात्रों को अपने विचार व्यक्त करने, प्रश्न पूछने और सामूहिक निर्णय लेने की स्वतंत्रता होती है",
+      "C": "कक्षा में पूरी तरह शोर और अव्यवस्था होती है",
+      "D": "शिक्षक कक्षा में अनुपस्थित रहता है"
+    },
+    "correctAnswer": "B",
+    "explanation": "लोकतांत्रिक माहौल में समानता, स्वतंत्रता और आपसी संवाद को बढ़ावा दिया जाता है, जिससे छात्रों में आत्मविश्वास और सहयोग की भावना का विकास होता है।",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 299,
+    "subject": "Teaching Aptitude",
+    "text": "(UP B.Ed 2019) परीक्षा में बड़े पैमाने पर छात्रों द्वारा नकल करने की कोशिश की जाती है। वीक्षक (Invigilator) के रूप में आपकी क्या भूमिका होगी?",
+    "options": {
+      "A": "नकल करने वाले छात्रों से पैसे लेकर उन्हें छोड़ देंगे",
+      "B": "परीक्षा की शुचिता बनाए रखने के लिए नियमों के अनुसार निष्पक्ष कार्रवाई करेंगे",
+      "C": "स्वयं बाहर चले जाएंगे ताकि छात्र आसानी से नकल कर सकें",
+      "D": "छात्रों को डराने के लिए हाथापाई पर उतर आएंगे"
+    },
+    "correctAnswer": "B",
+    "explanation": "एक शिक्षक को नैतिक रूप से सुदृढ़ होना चाहिए और परीक्षा की विश्वसनीयता बनाए रखने के लिए बिना किसी पक्षपात के नियमों के अनुरूप कार्रवाई करनी चाहिए।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 300,
+    "subject": "Teaching Aptitude",
+    "text": "(AI Predicted for 2026) यदि आपकी कक्षा का कोई प्रतिभाशाली छात्र बार-बार कक्षा में उबासी (उबना) लेता है, तो इसका क्या कारण हो सकता है?",
+    "options": {
+      "A": "छात्र बहुत आलसी और मंदबुद्धि है",
+      "B": "कक्षा शिक्षण का स्तर उसकी योग्यता के अनुकूल नहीं है और पाठ चुनौतीपूर्ण नहीं है",
+      "C": "वह रात भर सोता नहीं है",
+      "D": "उसे विद्यालय में रहना पसंद नहीं है"
+    },
+    "correctAnswer": "B",
+    "explanation": "प्रतिभाशाली बालकों को यदि उनकी क्षमता के अनुसार चुनौतीपूर्ण कार्य या पाठ्य सामग्री न मिले, तो वे जल्दी ऊब जाते हैं और कक्षा में रुचि खो देते हैं।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  }
+]

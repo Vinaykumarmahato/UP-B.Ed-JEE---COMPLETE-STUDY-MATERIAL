@@ -1,0 +1,852 @@
+[
+  {
+    "id": 51,
+    "subject": "General Knowledge",
+    "text": "भारतीय संविधान के किस भाग में मौलिक अधिकारों का वर्णन है? (UP B.Ed 2015, 2021)",
+    "options": {
+      "A": "भाग I",
+      "B": "भाग II",
+      "C": "भाग III",
+      "D": "भाग IV"
+    },
+    "correctAnswer": "C",
+    "explanation": "मौलिक अधिकारों का वर्णन संविधान के भाग III में अनुच्छेद 12 से 35 तक है। इसे भारत का मैग्नाकार्टा भी कहा जाता है।",
+    "frequency": 4,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 52,
+    "subject": "General Knowledge",
+    "text": "भारत में 'शिक्षा का अधिकार अधिनियम' (RTE Act) किस वर्ष लागू हुआ? (UP B.Ed 2017, 2020)",
+    "options": {
+      "A": "2005",
+      "B": "2009",
+      "C": "2010",
+      "D": "2012"
+    },
+    "correctAnswer": "C",
+    "explanation": "शिक्षा का अधिकार अधिनियम 2009 में संसद द्वारा पारित किया गया था, लेकिन यह पूरे देश में 1 अप्रैल 2010 से लागू हुआ।",
+    "frequency": 3,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 53,
+    "subject": "General Knowledge",
+    "text": "उत्तर प्रदेश का उच्च न्यायालय कहाँ स्थित है? (UP B.Ed 2016, 2021)",
+    "options": {
+      "A": "लखनऊ",
+      "B": "प्रयागराज (इलाहाबाद)",
+      "C": "कानपुर",
+      "D": "वाराणसी"
+    },
+    "correctAnswer": "B",
+    "explanation": "उत्तर प्रदेश का उच्च न्यायालय प्रयागराज (इलाहाबाद) में स्थित है। इसकी एक खंडपीठ लखनऊ में है।",
+    "frequency": 2,
+    "probability": 92,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 54,
+    "subject": "General Knowledge",
+    "text": "स्वतंत्र भारत की पहली महिला राज्यपाल कौन थीं? (UP B.Ed 2016, 2021)",
+    "options": {
+      "A": "सुचेता कृपलानी",
+      "B": "सरोजिनी नायडू",
+      "C": "इंदिरा गांधी",
+      "D": "विजयलक्ष्मी पंडित"
+    },
+    "correctAnswer": "B",
+    "explanation": "सरोजिनी नायडू स्वतंत्र भारत की पहली महिला राज्यपाल थीं। उन्होंने उत्तर प्रदेश के राज्यपाल के रूप में कार्य किया।",
+    "frequency": 3,
+    "probability": 94,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 55,
+    "subject": "General Knowledge",
+    "text": "भारत की पहली महिला मुख्यमंत्री कौन थीं? (UP B.Ed 2018)",
+    "options": {
+      "A": "मायावती",
+      "B": "सुचेता कृपलानी",
+      "C": "जयललिता",
+      "D": "ममता बनर्जी"
+    },
+    "correctAnswer": "B",
+    "explanation": "सुचेता कृपलानी उत्तर प्रदेश की और भारत की पहली महिला मुख्यमंत्री बनीं (1963-1967)।",
+    "frequency": 2,
+    "probability": 90,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 56,
+    "subject": "General Knowledge",
+    "text": "भारत में 'हरित क्रांति' के जनक के रूप में किसे जाना जाता है? (UP B.Ed 2015, 2022)",
+    "options": {
+      "A": "वर्गिज कुरियन",
+      "B": "एम. एस. स्वामीनाथन",
+      "C": "सैम पित्रोदा",
+      "D": "डॉ. होमी जहांगीर भाभा"
+    },
+    "correctAnswer": "B",
+    "explanation": "डॉ. एम. एस. स्वामीनाथन को भारत में हरित क्रांति (Green Revolution) का जनक माना जाता है। डॉ. वर्गिज कुरियन श्वेत क्रांति के जनक हैं।",
+    "frequency": 4,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 57,
+    "subject": "General Knowledge",
+    "text": "सौरमंडल का सबसे बड़ा ग्रह कौन सा है?",
+    "options": {
+      "A": "पृथ्वी",
+      "B": "मंगल",
+      "C": "बृहस्पति",
+      "D": "शनि"
+    },
+    "correctAnswer": "C",
+    "explanation": "बृहस्पति (Jupiter) सौरमंडल का सबसे बड़ा ग्रह है।",
+    "frequency": 0,
+    "probability": 85,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 58,
+    "subject": "General Knowledge",
+    "text": "विटामिन सी की कमी से कौन सा रोग होता है? (UP B.Ed 2019)",
+    "options": {
+      "A": "रतौंधी",
+      "B": "बेरी-बेरी",
+      "C": "स्कर्वी",
+      "D": "सूखा रोग (रिकेट्स)"
+    },
+    "correctAnswer": "C",
+    "explanation": "विटामिन सी की कमी से स्कर्वी (Scurvy) रोग होता है। रतौंधी विटामिन ए की कमी से और बेरी-बेरी विटामिन बी की कमी से होता है।",
+    "frequency": 2,
+    "probability": 88,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 59,
+    "subject": "General Knowledge",
+    "text": "दिल्ली से पहले भारत की राजधानी क्या थी? (UP B.Ed 2014, 2020)",
+    "options": {
+      "A": "मुंबई",
+      "B": "कोलकाता",
+      "C": "मद्रास",
+      "D": "इलाहाबाद"
+    },
+    "correctAnswer": "B",
+    "explanation": "वर्ष 1911 तक भारत की राजधानी कोलकाता (Calcutta) थी। 1911 में जॉर्ज पंचम के दिल्ली दरबार के दौरान इसे दिल्ली स्थानांतरित करने की घोषणा की गई थी।",
+    "frequency": 3,
+    "probability": 91,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 60,
+    "subject": "General Knowledge",
+    "text": "महात्मा गांधी ने असहयोग आंदोलन किस वर्ष शुरू किया था? (UP B.Ed 2017, 2023)",
+    "options": {
+      "A": "1915",
+      "B": "1920",
+      "C": "1930",
+      "D": "1942"
+    },
+    "correctAnswer": "B",
+    "explanation": "असहयोग आंदोलन (Non-Cooperation Movement) महात्मा गांधी के नेतृत्व में 1920 में शुरू किया गया था। सविनय अवज्ञा आंदोलन 1930 में और भारत छोड़ो आंदोलन 1942 में शुरू हुआ था।",
+    "frequency": 3,
+    "probability": 94,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 61,
+    "subject": "General Knowledge",
+    "text": "प्रसिद्ध पुस्तक 'गीतांजलि' के लेखक कौन हैं?",
+    "options": {
+      "A": "बंकिम चंद्र चटर्जी",
+      "B": "रवींद्रनाथ टैगोर",
+      "C": "मुंशी प्रेमचंद",
+      "D": "महादेवी वर्मा"
+    },
+    "correctAnswer": "B",
+    "explanation": "गीतांजलि के लेखक रवींद्रनाथ टैगोर हैं। इस कृति के लिए उन्हें 1913 में साहित्य का नोबेल पुरस्कार मिला था, वह नोबेल पुरस्कार पाने वाले पहले एशियाई थे।",
+    "frequency": 0,
+    "probability": 85,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 62,
+    "subject": "General Knowledge",
+    "text": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) का मुख्यालय कहाँ स्थित है? (UP B.Ed 2021)",
+    "options": {
+      "A": "नई दिल्ली",
+      "B": "बेंगलुरु",
+      "C": "श्रीहरिकोटा",
+      "D": "मुंबई"
+    },
+    "correctAnswer": "B",
+    "explanation": "ISRO का मुख्यालय बेंगलुरु, कर्नाटक में स्थित है। इसकी स्थापना 15 अगस्त 1969 को हुई थी।",
+    "frequency": 2,
+    "probability": 93,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 63,
+    "subject": "General Knowledge",
+    "text": "भारत का प्रथम कृत्रिम उपग्रह कौन सा था? (UP B.Ed 2018)",
+    "options": {
+      "A": "भास्कर",
+      "B": "आर्यभट्ट",
+      "C": "रोहिणी",
+      "D": "एडुसैट"
+    },
+    "correctAnswer": "B",
+    "explanation": "भारत का पहला उपग्रह 'आर्यभट्ट' था, जिसे 19 अप्रैल 1975 को सोवियत संघ के रॉकेट की मदद से लॉन्च किया गया था।",
+    "frequency": 2,
+    "probability": 89,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 64,
+    "subject": "General Knowledge",
+    "text": "कंप्यूटर का मस्तिष्क किसे कहा जाता है?",
+    "options": {
+      "A": "रैम (RAM)",
+      "B": "रॉम (ROM)",
+      "C": "सीपीयू (CPU)",
+      "D": "हार्ड डिस्क"
+    },
+    "correctAnswer": "C",
+    "explanation": "सीपीयू (Central Processing Unit) को कंप्यूटर का मस्तिष्क (Brain of Computer) कहा जाता है।",
+    "frequency": 0,
+    "probability": 87,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 65,
+    "subject": "General Knowledge",
+    "text": "'प्रकाश वर्ष' (Light Year) किसकी इकाई है? (UP B.Ed 2016, 2022)",
+    "options": {
+      "A": "समय",
+      "B": "दूरी",
+      "C": "प्रकाश की तीव्रता",
+      "D": "गति"
+    },
+    "correctAnswer": "B",
+    "explanation": "प्रकाश वर्ष दूरी (Distance) मापने की इकाई है। एक प्रकाश वर्ष वह दूरी है जो प्रकाश एक वर्ष में तय करता है।",
+    "frequency": 3,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 66,
+    "subject": "General Knowledge",
+    "text": "काजीरंगा राष्ट्रीय उद्यान किसके लिए प्रसिद्ध है? (UP B.Ed 2015, 2020)",
+    "options": {
+      "A": "एक सींग वाला गैंडा",
+      "B": "बंगाल टाइगर",
+      "C": "एशियाई शेर",
+      "D": "हाथी"
+    },
+    "correctAnswer": "A",
+    "explanation": "काजीरंगा राष्ट्रीय उद्यान असम में स्थित है और यह विशेष रूप से एक सींग वाले गैंडे (One-horned Rhinoceros) के लिए प्रसिद्ध है।",
+    "frequency": 3,
+    "probability": 94,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 67,
+    "subject": "General Knowledge",
+    "text": "भारत में सिलिकॉन वैली (Silicon Valley of India) किस शहर को कहा जाता है?",
+    "options": {
+      "A": "हैदराबाद",
+      "B": "पुणे",
+      "C": "बेंगलुरु",
+      "D": "चेन्नई"
+    },
+    "correctAnswer": "C",
+    "explanation": "बेंगलुरु को भारत की आईटी राजधानी या सिलिकॉन वैली कहा जाता है क्योंकि यह प्रमुख आईटी कंपनियों का हब है।",
+    "frequency": 0,
+    "probability": 86,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 68,
+    "subject": "General Knowledge",
+    "text": "सौरमंडल का सबसे गर्म और चमकीला ग्रह कौन सा है? (UP B.Ed 2019, 2023)",
+    "options": {
+      "A": "बुध",
+      "B": "शुक्र",
+      "C": "मंगल",
+      "D": "बृहस्पति"
+    },
+    "correctAnswer": "B",
+    "explanation": "शुक्र (Venus) सौरमंडल का सबसे गर्म और चमकीला ग्रह है। सघन वायुमंडल और ग्रीनहाउस प्रभाव के कारण यह बुध से भी गर्म है।",
+    "frequency": 3,
+    "probability": 93,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 69,
+    "subject": "General Knowledge",
+    "text": "विश्व स्वास्थ्य संगठन (WHO) का मुख्यालय कहाँ स्थित है? (UP B.Ed 2017, 2021)",
+    "options": {
+      "A": "न्यू यॉर्क",
+      "B": "पेरिस",
+      "C": "जेनेवा",
+      "D": "लंदन"
+    },
+    "correctAnswer": "C",
+    "explanation": "WHO (World Health Organization) का मुख्यालय जेनेवा, स्विट्जरलैंड में स्थित है। इसकी स्थापना 7 अप्रैल 1948 को हुई थी।",
+    "frequency": 3,
+    "probability": 90,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 70,
+    "subject": "General Knowledge",
+    "text": "कार्बन का सबसे शुद्ध रूप कौन सा है?",
+    "options": {
+      "A": "कोयला",
+      "B": "ग्रेफाइट",
+      "C": "हीरा",
+      "D": "चारकोल"
+    },
+    "correctAnswer": "C",
+    "explanation": "हीरा (Diamond) कार्बन का सबसे शुद्ध तथा सबसे कठोर अपररूप (Allotrope) है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 71,
+    "subject": "General Knowledge",
+    "text": "सुंदरवन डेल्टा किस राज्य में स्थित है? (UP B.Ed 2016, 2022)",
+    "options": {
+      "A": "ओडिशा",
+      "B": "पश्चिम बंगाल",
+      "C": "असम",
+      "D": "आंध्र प्रदेश"
+    },
+    "correctAnswer": "B",
+    "explanation": "सुंदरवन डेल्टा पश्चिम बंगाल (और बांग्लादेश) में गंगा-ब्रह्मपुत्र नदियों के मुहाने पर स्थित है। यह मैंग्रोव वनों के लिए प्रसिद्ध है।",
+    "frequency": 2,
+    "probability": 91,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 72,
+    "subject": "General Knowledge",
+    "text": "प्रसिद्ध स्मारक 'ताजमहल' का निर्माण किस मुगल शासक ने करवाया था?",
+    "options": {
+      "A": "अकबर",
+      "B": "शाहजहाँ",
+      "C": "जहाँगीर",
+      "D": "औरंगज़ेब"
+    },
+    "correctAnswer": "B",
+    "explanation": "ताजमहल का निर्माण शाहजहाँ ने अपनी बेगम मुमताज़ महल की याद में आगरा में यमुना नदी के तट पर करवाया था।",
+    "frequency": 0,
+    "probability": 85,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 73,
+    "subject": "General Knowledge",
+    "text": "भारत में कंचनजंगा पर्वत चोटी कहाँ स्थित है? (UP B.Ed 2018)",
+    "options": {
+      "A": "उत्तराखंड",
+      "B": "सिक्किम",
+      "C": "हिमाचल प्रदेश",
+      "D": "जम्मू कश्मीर"
+    },
+    "correctAnswer": "B",
+    "explanation": "कंचनजंगा भारत की सबसे ऊँची चोटियों में से एक है (जो पूरी तरह से भारत में है), और यह सिक्किम राज्य में नेपाल की सीमा पर स्थित है।",
+    "frequency": 2,
+    "probability": 89,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 74,
+    "subject": "General Knowledge",
+    "text": "जापान की मुद्रा का क्या नाम है? (UP B.Ed 2017, 2021)",
+    "options": {
+      "A": "डॉलर",
+      "B": "युआन",
+      "C": "येन",
+      "D": "टका"
+    },
+    "correctAnswer": "C",
+    "explanation": "जापान की मुद्रा येन (Yen) है। युआन चीन की तथा टका बांग्लादेश की मुद्रा है।",
+    "frequency": 3,
+    "probability": 90,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 75,
+    "subject": "General Knowledge",
+    "text": "विश्व पृथ्वी दिवस (World Earth Day) कब मनाया जाता है? (UP B.Ed 2020, 2023)",
+    "options": {
+      "A": "22 मार्च",
+      "B": "22 अप्रैल",
+      "C": "5 जून",
+      "D": "16 सितंबर"
+    },
+    "correctAnswer": "B",
+    "explanation": "विश्व पृथ्वी दिवस 22 अप्रैल को मनाया जाता है। 22 मार्च को विश्व जल दिवस और 5 जून को विश्व पर्यावरण दिवस मनाया जाता है।",
+    "frequency": 3,
+    "probability": 94,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 76,
+    "subject": "General Knowledge",
+    "text": "भारत में राष्ट्रीय शिक्षक दिवस कब मनाया जाता है?",
+    "options": {
+      "A": "5 सितंबर",
+      "B": "14 नवंबर",
+      "C": "5 अक्टूबर",
+      "D": "11 नवंबर"
+    },
+    "correctAnswer": "A",
+    "explanation": "डॉ. सर्वपल्ली राधाकृष्णन के जन्मदिवस के अवसर पर भारत में हर साल 5 सितंबर को राष्ट्रीय शिक्षक दिवस मनाया जाता है।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 77,
+    "subject": "General Knowledge",
+    "text": "अंतरराष्ट्रीय मानव अधिकार दिवस (Human Rights Day) कब मनाया जाता है? (UP B.Ed 2019, 2022)",
+    "options": {
+      "A": "24 अक्टूबर",
+      "B": "10 दिसंबर",
+      "C": "1 दिसंबर",
+      "D": "8 मार्च"
+    },
+    "correctAnswer": "B",
+    "explanation": "मानव अधिकार दिवस प्रतिवर्ष 10 दिसंबर को मनाया जाता है। 24 अक्टूबर को संयुक्त राष्ट्र दिवस और 8 मार्च को महिला दिवस मनाया जाता है।",
+    "frequency": 3,
+    "probability": 93,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 78,
+    "subject": "General Knowledge",
+    "text": "भारतीय संविधान का मुख्य प्रारूपकार (Chief Architect) किसे माना जाता है?",
+    "options": {
+      "A": "डॉ. राजेन्द्र प्रसाद",
+      "B": "पंडित जवाहरलाल नेहरू",
+      "C": "डॉ. बी. आर. अम्बेडकर",
+      "D": "सरदार वल्लभभाई पटेल"
+    },
+    "correctAnswer": "C",
+    "explanation": "डॉ. बी. आर. अम्बेडकर संविधान की प्रारूप समिति (Drafting Committee) के अध्यक्ष थे और उन्हें भारतीय संविधान का जनक माना जाता है।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 79,
+    "subject": "General Knowledge",
+    "text": "कथकली किस राज्य का प्रसिद्ध शास्त्रीय नृत्य है? (UP B.Ed 2018, 2023)",
+    "options": {
+      "A": "तमिलनाडु",
+      "B": "केरल",
+      "C": "आंध्र प्रदेश",
+      "D": "कर्नाटक"
+    },
+    "correctAnswer": "B",
+    "explanation": "कथकली केरल का शास्त्रीय नृत्य है। भरतनाट्यम तमिलनाडु का और कुचिपुड़ी आंध्र प्रदेश का शास्त्रीय नृत्य है।",
+    "frequency": 3,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 80,
+    "subject": "General Knowledge",
+    "text": "नोबेल पुरस्कार जीतने वाले प्रथम भारतीय कौन थे? (UP B.Ed 2015, 2021)",
+    "options": {
+      "A": "सी. वी. रमन",
+      "B": "रवींद्रनाथ टैगोर",
+      "C": "मदर टेरेसा",
+      "D": "हरगोविंद खुराना"
+    },
+    "correctAnswer": "B",
+    "explanation": "रवींद्रनाथ टैगोर को 1913 में उनकी साहित्य कृति 'गीतांजलि' के लिए नोबेल पुरस्कार दिया गया था। वह भारत और एशिया के पहले नोबेल पुरस्कार विजेता थे।",
+    "frequency": 3,
+    "probability": 92,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "उत्तर प्रदेश का राजकीय पक्षी कौन सा है? (UP B.Ed 2020)",
+    "options": {
+      "A": "मोर",
+      "B": "सारस (क्रौंच)",
+      "C": "कोयल",
+      "D": "तोता"
+    },
+    "correctAnswer": "B",
+    "explanation": "उत्तर प्रदेश का राजकीय पक्षी सारस (क्रौंच) है। राजकीय पशु बारहसिंगा, राजकीय वृक्ष अशोक और राजकीय पुष्प पलाश है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true,
+    "id": 81
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "उत्तर प्रदेश में कुल कितने मंडल (Divisions) हैं? (UP B.Ed 2019)",
+    "options": {
+      "A": "18",
+      "B": "75",
+      "C": "80",
+      "D": "22"
+    },
+    "correctAnswer": "A",
+    "explanation": "उत्तर प्रदेश में कुल 18 मंडल और 75 जिले हैं। सबसे नवीन मंडल अलीगढ़ है।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true,
+    "id": 82
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "उत्तर प्रदेश के प्रथम मुख्यमंत्री कौन थे? (UP B.Ed 2018)",
+    "options": {
+      "A": "चौधरी चरण सिंह",
+      "B": "गोविंद वल्लभ पंत",
+      "C": "सुचेता कृपलानी",
+      "D": "चंद्र भानु गुप्त"
+    },
+    "correctAnswer": "B",
+    "explanation": "उत्तर प्रदेश के प्रथम मुख्यमंत्री पंडित गोविंद वल्लभ पंत थे (1947-1954)।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true,
+    "id": 83
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "उत्तर प्रदेश में प्रथम महिला मुख्यमंत्री कौन बनीं? (UP B.Ed 2021)",
+    "options": {
+      "A": "सरोजिनी नायडू",
+      "B": "सुचेता कृपलानी",
+      "C": "मायावती",
+      "D": "आनंदीबेन पटेल"
+    },
+    "correctAnswer": "B",
+    "explanation": "सुचेता कृपलानी उत्तर प्रदेश (और भारत के किसी भी राज्य) की प्रथम महिला मुख्यमंत्री थीं (1963-1967)।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true,
+    "id": 84
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "दुधवा राष्ट्रीय उद्यान उत्तर प्रदेश के किस जिले में स्थित है? (UP B.Ed 2022)",
+    "options": {
+      "A": "लखीमपुर खीरी",
+      "B": "पीलीभीत",
+      "C": "सोनभद्र",
+      "D": "बहराइच"
+    },
+    "correctAnswer": "A",
+    "explanation": "दुधवा राष्ट्रीय उद्यान उत्तर प्रदेश के लखीमपुर खीरी जिले में स्थित है। यह यूपी का एकमात्र राष्ट्रीय उद्यान है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true,
+    "id": 85
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "उत्तर प्रदेश का राजकीय पुष्प कौन सा है? (UP B.Ed 2023)",
+    "options": {
+      "A": "कमल",
+      "B": "पलाश (टेसू)",
+      "C": "गुलाब",
+      "D": "चमेली"
+    },
+    "correctAnswer": "B",
+    "explanation": "उत्तर प्रदेश का राजकीय पुष्प पलाश (टेसू) है, जिसे 2011 में स्वीकृत किया गया था।",
+    "frequency": 1,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true,
+    "id": 86
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "उत्तर प्रदेश के किस जिले को 'इत्र नगरी' (City of Perfumes) के नाम से जाना जाता है? (UP B.Ed 2017)",
+    "options": {
+      "A": "लखनऊ",
+      "B": "कन्नौज",
+      "C": "जौनपुर",
+      "D": "अलीगढ़"
+    },
+    "correctAnswer": "B",
+    "explanation": "कन्नौज को इत्र (परफ्यूम) के निर्माण के लिए दुनिया भर में जाना जाता है, इसलिए इसे इत्र नगरी कहा जाता है।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true,
+    "id": 87
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "उत्तर प्रदेश में विधानसभा की कुल कितनी सीटें हैं? (UP B.Ed 2022)",
+    "options": {
+      "A": "403",
+      "B": "80",
+      "C": "100",
+      "D": "404"
+    },
+    "correctAnswer": "A",
+    "explanation": "उत्तर प्रदेश विधानसभा में कुल 403 निर्वाचित सीटें हैं। विधान परिषद में 100 सीटें हैं।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true,
+    "id": 88
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "काशी विश्वनाथ मंदिर उत्तर प्रदेश के किस शहर में स्थित है? (UP B.Ed 2021)",
+    "options": {
+      "A": "अयोध्या",
+      "B": "वाराणसी",
+      "C": "प्रयागराज",
+      "D": "मथुरा"
+    },
+    "correctAnswer": "B",
+    "explanation": "काशी विश्वनाथ मंदिर वाराणसी में गंगा नदी के तट पर स्थित भगवान शिव का एक प्रसिद्ध मंदिर है।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true,
+    "id": 89
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "उत्तर प्रदेश का राजकीय वृक्ष कौन सा है?",
+    "options": {
+      "A": "बरगद",
+      "B": "पीपल",
+      "C": "अशोक",
+      "D": "नीम"
+    },
+    "correctAnswer": "C",
+    "explanation": "उत्तर प्रदेश का राजकीय वृक्ष अशोक (Sita Ashok) है।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 90
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "उत्तर प्रदेश में प्रथम विश्वविद्यालय (इलाहाबाद विश्वविद्यालय) की स्थापना कब हुई थी?",
+    "options": {
+      "A": "1887 ई.",
+      "B": "1916 ई.",
+      "C": "1921 ई.",
+      "D": "1857 ई."
+    },
+    "correctAnswer": "A",
+    "explanation": "इलाहाबाद विश्वविद्यालय की स्थापना 23 सितंबर 1887 को हुई थी। इसे 'पूर्व का ऑक्सफोर्ड' भी कहा जाता है।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 91
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "कथक नृत्य का जन्म भारत के किस राज्य में हुआ था? (UP B.Ed 2016)",
+    "options": {
+      "A": "केरल",
+      "B": "उत्तर प्रदेश",
+      "C": "तमिलनाडु",
+      "D": "आंध्र प्रदेश"
+    },
+    "correctAnswer": "B",
+    "explanation": "शास्त्रीय नृत्य कथक (Kathak) का उद्भव उत्तर प्रदेश में हुआ था। पंडित बिरजू महाराज इसके प्रसिद्ध कलाकार थे।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2016",
+    "isReal": true,
+    "id": 92
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "उत्तर प्रदेश का सबसे बड़ा जिला (क्षेत्रफल की दृष्टि से) कौन सा है?",
+    "options": {
+      "A": "लखीमपुर खीरी",
+      "B": "हापुड़",
+      "C": "सोनभद्र",
+      "D": "प्रयागराज"
+    },
+    "correctAnswer": "A",
+    "explanation": "क्षेत्रफल की दृष्टि से लखीमपुर खीरी (7680 वर्ग किमी) उत्तर प्रदेश का सबसे बड़ा जिला है, जबकि हापुड़ सबसे छोटा जिला है।",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 93
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "उत्तर प्रदेश की सीमा कितने राज्यों (केंद्र शासित प्रदेश सहित) से मिलती है?",
+    "options": {
+      "A": "8",
+      "B": "9",
+      "C": "7",
+      "D": "10"
+    },
+    "correctAnswer": "B",
+    "explanation": "उत्तर प्रदेश की सीमा कुल 9 राज्यों/यूटी (8 राज्य: उत्तराखंड, हिमाचल प्रदेश, हरियाणा, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, बिहार और 1 केंद्र शासित प्रदेश: दिल्ली) से मिलती है।",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 94
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "उत्तर प्रदेश में चमड़ा उद्योग का मुख्य केंद्र कौन सा है? (UP B.Ed 2019)",
+    "options": {
+      "A": "कानपुर",
+      "B": "लखनऊ",
+      "C": "आगरा और कानपुर",
+      "D": "मेरठ"
+    },
+    "correctAnswer": "C",
+    "explanation": "उत्तर प्रदेश में कानपुर और आगरा चमड़ा उद्योग के प्रमुख केंद्र हैं। कानपुर को 'उत्तर भारत का मैनचेस्टर' भी कहा जाता है।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true,
+    "id": 95
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारतीय संविधान की प्रारूप समिति (Drafting Committee) के अध्यक्ष कौन थे? (UP B.Ed 2020)",
+    "options": {
+      "A": "डॉ. राजेन्द्र प्रसाद",
+      "B": "डॉ. बी.आर. अम्बेडकर",
+      "C": "जवाहरलाल नेहरू",
+      "D": "सरदार वल्लभभाई पटेल"
+    },
+    "correctAnswer": "B",
+    "explanation": "संविधान सभा की प्रारूप समिति के अध्यक्ष डॉ. भीमराव अम्बेडकर थे। इस समिति में कुल 7 सदस्य थे।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true,
+    "id": 96
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "संविधान सभा ने राष्ट्रीय ध्वज (Tricolor) को कब अपनाया था? (UP B.Ed 2018)",
+    "options": {
+      "A": "22 जुलाई 1947",
+      "B": "15 अगस्त 1947",
+      "C": "26 जनवरी 1950",
+      "D": "24 जनवरी 1950"
+    },
+    "correctAnswer": "A",
+    "explanation": "संविधान सभा द्वारा 22 जुलाई 1947 को राष्ट्रीय ध्वज (तिरंगा) को अपनाया गया था।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true,
+    "id": 97
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "संविधान के किस अनुच्छेद के तहत भारत में राष्ट्रीय आपातकाल (National Emergency) घोषित किया जा सकता है? (UP B.Ed 2021)",
+    "options": {
+      "A": "अनुच्छेद 352",
+      "B": "अनुच्छेद 356",
+      "C": "अनुच्छेद 360",
+      "D": "अनुच्छेद 368"
+    },
+    "correctAnswer": "A",
+    "explanation": "अनुच्छेद 352 के तहत राष्ट्रीय आपातकाल, अनुच्छेद 356 के तहत राष्ट्रपति शासन, और अनुच्छेद 360 के तहत वित्तीय आपातकाल लगाया जाता है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true,
+    "id": 98
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "मूल कर्तव्यों (Fundamental Duties) को किस देश के संविधान से लिया गया है? (UP B.Ed 2019)",
+    "options": {
+      "A": "अमेरिका",
+      "B": "सोवियत संघ (USSR)",
+      "C": "आयरलैंड",
+      "D": "ऑस्ट्रेलिया"
+    },
+    "correctAnswer": "B",
+    "explanation": "मौलिक कर्तव्यों को 42वें संविधान संशोधन (1976) द्वारा स्वर्ण सिंह समिति की सिफारिश पर सोवियत संघ (रूस) के संविधान से लिया गया था।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true,
+    "id": 99
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भाषाई आधार पर गठित होने वाला भारत का पहला राज्य कौन सा था? (UP B.Ed 2015)",
+    "options": {
+      "A": "आंध्र प्रदेश",
+      "B": "गुजरात",
+      "C": "पंजाब",
+      "D": "महाराष्ट्र"
+    },
+    "correctAnswer": "A",
+    "explanation": "1 अक्टूबर 1953 को भाषाई आधार पर आंध्र प्रदेश का गठन किया गया था।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2015",
+    "isReal": true,
+    "id": 100
+  }
+]

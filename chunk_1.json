@@ -1,0 +1,1702 @@
+[
+  {
+    "subject": "General Knowledge",
+    "text": "भारतीय संविधान में वर्तमान में कुल कितनी अनुसूचियां (Schedules) हैं? (UP B.Ed 2022)",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "14"
+    },
+    "correctAnswer": "C",
+    "explanation": "मूल संविधान में 8 अनुसूचियां थीं, लेकिन वर्तमान में अनुसूचियों की कुल संख्या 12 है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true,
+    "id": 101
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारत के राष्ट्रपति को पद की शपथ कौन दिलाता है? (UP B.Ed 2020)",
+    "options": {
+      "A": "प्रधानमंत्री",
+      "B": "उपराष्ट्रपति",
+      "C": "भारत के मुख्य न्यायाधीश (CJI)",
+      "D": "लोकसभा अध्यक्ष"
+    },
+    "correctAnswer": "C",
+    "explanation": "भारत के राष्ट्रपति को उनके पद की शपथ भारत के मुख्य न्यायाधीश (CJI) दिलाते हैं।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true,
+    "id": 102
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "पंचायती राज व्यवस्था का त्रि-स्तरीय ढांचा किस समिति की सिफारिश पर आधारित था? (UP B.Ed 2017)",
+    "options": {
+      "A": "अशोक मेहता समिति",
+      "B": "बलवंत राय मेहता समिति",
+      "C": "एल.एम. सिंघवी समिति",
+      "D": "सरकारी आयोग"
+    },
+    "correctAnswer": "B",
+    "explanation": "बलवंत राय मेहता समिति (1957) ने त्रि-स्तरीय पंचायती राज व्यवस्था (ग्राम, ब्लॉक, जिला) की सिफारिश की थी।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true,
+    "id": 103
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "लोकसभा का सदस्य बनने के लिए न्यूनतम आयु सीमा क्या है? (UP B.Ed 2021)",
+    "options": {
+      "A": "18 वर्ष",
+      "B": "21 वर्ष",
+      "C": "25 वर्ष",
+      "D": "30 वर्ष"
+    },
+    "correctAnswer": "C",
+    "explanation": "लोकसभा के लिए न्यूनतम आयु 25 वर्ष है, जबकि राज्यसभा के लिए 30 वर्ष और राष्ट्रपति/उपराष्ट्रपति पद के लिए 35 वर्ष है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true,
+    "id": 104
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारतीय संविधान का कौन सा अनुच्छेद 'समानता का अधिकार' प्रदान करता है?",
+    "options": {
+      "A": "अनुच्छेद 14 से 18",
+      "B": "अनुच्छेद 19 से 22",
+      "C": "अनुच्छेद 23-24",
+      "D": "अनुच्छेद 25-28"
+    },
+    "correctAnswer": "A",
+    "explanation": "अनुच्छेद 14 से 18 तक समानता का अधिकार दिया गया है। अनुच्छेद 14 विधि के समक्ष समता सुनिश्चित करता है।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 105
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "संविधान के किस अनुच्छेद को डॉ. बी.आर. अम्बेडकर ने 'संविधान का हृदय और आत्मा' कहा था?",
+    "options": {
+      "A": "अनुच्छेद 19",
+      "B": "अनुच्छेद 21",
+      "C": "अनुच्छेद 32",
+      "D": "अनुच्छेद 44"
+    },
+    "correctAnswer": "C",
+    "explanation": "अनुच्छेद 32 (संवैधानिक उपचारों का अधिकार) को अम्बेडकर ने संविधान का हृदय और आत्मा कहा था।",
+    "frequency": 0,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 106
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "राज्यसभा के पदेन सभापति (Ex-officio Chairman) कौन होते हैं?",
+    "options": {
+      "A": "राष्ट्रपति",
+      "B": "उपराष्ट्रपति",
+      "C": "प्रधानमंत्री",
+      "D": "लोकसभा अध्यक्ष"
+    },
+    "correctAnswer": "B",
+    "explanation": "भारत के उपराष्ट्रपति राज्यसभा के पदेन सभापति होते हैं। वे राज्यसभा के सदस्य नहीं होते।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 107
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारतीय संविधान में एकल नागरिकता (Single Citizenship) की अवधारणा कहां से ली गई है?",
+    "options": {
+      "A": "ब्रिटेन",
+      "B": "अमेरिका",
+      "C": "कनाडा",
+      "D": "फ्रांस"
+    },
+    "correctAnswer": "A",
+    "explanation": "भारत में एकल नागरिकता की व्यवस्था ब्रिटेन के संविधान से प्रेरित होकर अपनाई गई है।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 108
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "सूचना का अधिकार (RTI Act) किस वर्ष लागू किया गया था?",
+    "options": {
+      "A": "2002 ई.",
+      "B": "2005 ई.",
+      "C": "2007 ई.",
+      "D": "2010 ई."
+    },
+    "correctAnswer": "B",
+    "explanation": "सूचना का अधिकार (RTI) अधिनियम 12 अक्टूबर 2005 को पूरे देश में लागू किया गया था।",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 109
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "संविधान के किस संशोधन द्वारा 'संपत्ति के अधिकार' (Right to Property) को मौलिक अधिकारों की सूची से हटा दिया गया?",
+    "options": {
+      "A": "42वां संशोधन",
+      "B": "44वां संशोधन",
+      "C": "52वां संशोधन",
+      "D": "86वां संशोधन"
+    },
+    "correctAnswer": "B",
+    "explanation": "44वें संविधान संशोधन (1978) द्वारा संपत्ति के अधिकार को हटाकर अनुच्छेद 300A के तहत कानूनी अधिकार बना दिया गया।",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 110
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "सिंधु घाटी सभ्यता का प्रमुख बंदरगाह नगर कौन सा था? (UP B.Ed 2018)",
+    "options": {
+      "A": "कालीबंगा",
+      "B": "लोथल",
+      "C": "रोपड़",
+      "D": "मोहनजोदड़ो"
+    },
+    "correctAnswer": "B",
+    "explanation": "लोथल (गुजरात में भोगवा नदी के तट पर) सिंधु घाटी सभ्यता का एक प्रमुख बंदरगाह और व्यापारिक केंद्र था।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true,
+    "id": 111
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "गौतम बुद्ध ने अपना प्रथम उपदेश (धर्मचक्रप्रवर्तन) कहाँ दिया था? (UP B.Ed 2020)",
+    "options": {
+      "A": "बोधगया",
+      "B": "सारनाथ",
+      "C": "कुशीनगर",
+      "D": "लुम्बिनी"
+    },
+    "correctAnswer": "B",
+    "explanation": "बुद्ध ने ज्ञान प्राप्ति के बाद वाराणसी के निकट सारनाथ में अपना प्रथम उपदेश पाँच ब्राह्मण सन्यासियों को दिया था।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true,
+    "id": 112
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "मौर्य वंश के संस्थापक कौन थे? (UP B.Ed 2019)",
+    "options": {
+      "A": "चंद्रगुप्त मौर्य",
+      "B": "बिंदुसार",
+      "C": "अशोक",
+      "D": "चंद्रगुप्त द्वितीय"
+    },
+    "correctAnswer": "A",
+    "explanation": "मौर्य साम्राज्य की स्थापना चंद्रगुप्त मौर्य ने 322 ईसा पूर्व में अपने गुरु चाणक्य की सहायता से की थी।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true,
+    "id": 113
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "पानीपत का प्रथम युद्ध किस वर्ष लड़ा गया था? (UP B.Ed 2021)",
+    "options": {
+      "A": "1526 ई.",
+      "B": "1556 ई.",
+      "C": "1761 ई.",
+      "D": "1576 ई."
+    },
+    "correctAnswer": "A",
+    "explanation": "21 अप्रैल 1526 को पानीपत का प्रथम युद्ध बाबर और इब्राहिम लोदी के बीच हुआ, जिसमें मुगल साम्राज्य की नींव पड़ी।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true,
+    "id": 114
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "अकबरनामा की रचना थी? (UP B.Ed 2016)",
+    "options": {
+      "A": "बीरबल",
+      "B": "अबुल फजल",
+      "C": "फैजी",
+      "D": "तानसेन"
+    },
+    "correctAnswer": "B",
+    "explanation": "अकबरनामा और आइन-ए-अकबरी की रचना अकबर के नवरत्नों में से एक अबुल फजल ने की थी।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2016",
+    "isReal": true,
+    "id": 115
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारत में ईस्ट इंडिया कंपनी की स्थापना कब हुई थी? (UP B.Ed 2017)",
+    "options": {
+      "A": "1600 ई.",
+      "B": "1605 ई.",
+      "C": "1608 ई.",
+      "D": "1612 ई."
+    },
+    "correctAnswer": "A",
+    "explanation": "31 दिसंबर 1600 को इंग्लैंड की महारानी एलिजाबेथ प्रथम के चार्टर द्वारा ईस्ट इंडिया कंपनी को व्यापार का अधिकार मिला।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true,
+    "id": 116
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "1857 के विद्रोह की शुरुआत कहाँ से हुई थी? (UP B.Ed 2022)",
+    "options": {
+      "A": "दिल्ली",
+      "B": "मेरठ",
+      "C": "बैरेकपुर",
+      "D": "कानपुर"
+    },
+    "correctAnswer": "B",
+    "explanation": "1857 के महासंग्राम की औपचारिक शुरुआत 10 मई 1857 को मेरठ छावनी से हुई थी। मंगल पांडे ने बैरकपुर में विद्रोह किया था।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true,
+    "id": 117
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारतीय राष्ट्रीय कांग्रेस (INC) की स्थापना कब और किसने की थी? (UP B.Ed 2020)",
+    "options": {
+      "A": "1885 ई., ए.ओ. ह्यूम",
+      "B": "1885 ई., डब्ल्यू.सी. बनर्जी",
+      "C": "1886 ई., दादाभाई नौरोजी",
+      "D": "1890 ई., महात्मा गांधी"
+    },
+    "correctAnswer": "A",
+    "explanation": "कांग्रेस की स्थापना 28 दिसंबर 1885 को बंबई में ए.ओ. ह्यूम द्वारा की गई थी। इसके पहले अध्यक्ष व्योमेश चंद्र बनर्जी थे।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true,
+    "id": 118
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "बंगाल का विभाजन किस वायसराय के काल में हुआ था? (UP B.Ed 2015)",
+    "options": {
+      "A": "लॉर्ड कर्जन",
+      "B": "लॉर्ड माउंटबेटन",
+      "C": "लॉर्ड डलहौजी",
+      "D": "लॉर्ड रिपन"
+    },
+    "correctAnswer": "A",
+    "explanation": "लॉर्ड कर्जन द्वारा 1905 में बंगाल विभाजन की घोषणा की गई थी, जिसे बाद में 1911 में वापस ले लिया गया।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2015",
+    "isReal": true,
+    "id": 119
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "महात्मा गांधी ने प्रसिद्ध 'दांडी मार्च' की शुरुआत कब की थी? (UP B.Ed 2021)",
+    "options": {
+      "A": "12 मार्च 1930",
+      "B": "6 अप्रैल 1930",
+      "C": "15 अगस्त 1942",
+      "D": "26 जनवरी 1930"
+    },
+    "correctAnswer": "A",
+    "explanation": "गांधी जी ने 12 मार्च 1930 को साबरमती आश्रम से दांडी मार्च शुरू किया और 6 अप्रैल 1930 को नमक कानून तोड़ा।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true,
+    "id": 120
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "जालियांवाला बाग हत्याकांड कब घटित हुआ था? (UP B.Ed 2019)",
+    "options": {
+      "A": "13 अप्रैल 1919",
+      "B": "13 अप्रैल 1920",
+      "C": "5 फरवरी 1922",
+      "D": "23 मार्च 1931"
+    },
+    "correctAnswer": "A",
+    "explanation": "13 अप्रैल 1919 को अमृतसर के जालियांवाला बाग में शांतिपूर्ण सभा कर रहे लोगों पर जनरल डायर के आदेश से अंधाधुंध गोलियां चलाई गईं।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true,
+    "id": 121
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "वेदों की ओर लौटो (Return to Vedas) का नारा किसने दिया था? (UP B.Ed 2018)",
+    "options": {
+      "A": "स्वामी विवेकानंद",
+      "B": "दयानंद सरस्वती",
+      "C": "राजा राममोहन राय",
+      "D": "रामकृष्ण परमहंस"
+    },
+    "correctAnswer": "B",
+    "explanation": "आर्य समाज (स्थापना 1875) के संस्थापक स्वामी दयानंद सरस्वती ने 'वेदों की ओर लौटो' का आह्वान किया था।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true,
+    "id": 122
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारत का नेपोलियन (Napoleon of India) किसे कहा जाता है? (UP B.Ed 2020)",
+    "options": {
+      "A": "चंद्रगुप्त मौर्य",
+      "B": "समुद्रगुप्त",
+      "C": "कनिष्क",
+      "D": "हर्षवर्द्धन"
+    },
+    "correctAnswer": "B",
+    "explanation": "इतिहासकार वी. ए. स्मिथ ने गुप्त शासक समुद्रगुप्त को उसकी सैन्य विजयों के कारण 'भारत का नेपोलियन' कहा था।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true,
+    "id": 123
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "प्रसिद्ध चीनी यात्री ह्वेनसांग (Hiuen Tsang) किसके शासनकाल में भारत आया था? (UP B.Ed 2017)",
+    "options": {
+      "A": "चंद्रगुप्त द्वितीय",
+      "B": "हर्षवर्धन",
+      "C": "कनिष्क",
+      "D": "अशोक"
+    },
+    "correctAnswer": "B",
+    "explanation": "ह्वेनसांग हर्षवर्धन के शासनकाल में (629-645 ई.) भारत आया था। फाह्यान चंद्रगुप्त द्वितीय के समय आया था।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true,
+    "id": 124
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "गदर पार्टी के संस्थापक कौन थे? (UP B.Ed 2021)",
+    "options": {
+      "A": "लाला हरदयाल",
+      "B": "भगत सिंह",
+      "C": "चंद्रशेखर आजाद",
+      "D": "सुभाष चंद्र बोस"
+    },
+    "correctAnswer": "A",
+    "explanation": "सैन फ्रांसिस्को (अमेरिका) में 1913 में गदर पार्टी की स्थापना लाला हरदयाल और सोहन सिंह भकना ने की थी।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true,
+    "id": 125
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "असहयोग आंदोलन (Non-Cooperation Movement) किस वर्ष वापस ले लिया गया था?",
+    "options": {
+      "A": "1920 ई.",
+      "B": "1922 ई.",
+      "C": "1930 ई.",
+      "D": "1942 ई."
+    },
+    "correctAnswer": "B",
+    "explanation": "5 फरवरी 1922 को हुए 'चौरी-चौरा कांड' से आहत होकर महात्मा गांधी ने 12 फरवरी 1922 को असहयोग आंदोलन वापस ले लिया।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 126
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "ऋग्वेद में कुल कितने मंडल और सूक्त हैं?",
+    "options": {
+      "A": "10 मंडल, 1028 सूक्त",
+      "B": "8 मंडल, 1018 सूक्त",
+      "C": "12 मंडल, 1000 सूक्त",
+      "D": "10 मंडल, 1000 सूक्त"
+    },
+    "correctAnswer": "A",
+    "explanation": "सबसे प्राचीन वेद ऋग्वेद में कुल 10 मंडल और 1028 सूक्त हैं।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 127
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "अष्टाध्यायी की रचना किसने की थी?",
+    "options": {
+      "A": "पतंजलि",
+      "B": "पाणिनि",
+      "C": "कालिदास",
+      "D": "कौटिल्य"
+    },
+    "correctAnswer": "B",
+    "explanation": "अष्टाध्यायी संस्कृत व्याकरण का एक प्रसिद्ध ग्रंथ है, जिसकी रचना महर्षि पाणिनि ने की थी।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 128
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "दिल्ली सल्तनत की पहली महिला शासिका कौन थीं? (UP B.Ed 2016)",
+    "options": {
+      "A": "रजिया सुल्तान",
+      "B": "नूरजहाँ",
+      "C": "मुमताज महल",
+      "D": "चाँद बीबी"
+    },
+    "correctAnswer": "A",
+    "explanation": "इल्तुतमिश की बेटी रजिया सुल्तान दिल्ली सल्तनत और भारत की पहली महिला मुस्लिम शासिका थी (1236-1240 ई.)।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2016",
+    "isReal": true,
+    "id": 129
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "स्वराज मेरा जन्मसिद्ध अधिकार है और मैं इसे लेकर रहूँगा, यह कथन किसका है?",
+    "options": {
+      "A": "बाल गंगाधर तिलक",
+      "B": "गोपाल कृष्ण गोखले",
+      "C": "लाला लाजपत राय",
+      "D": "विपिन चंद्र पाल"
+    },
+    "correctAnswer": "A",
+    "explanation": "बाल गंगाधर तिलक (लोकमान्य) ने कांग्रेस के लखनऊ अधिवेशन (1916) में यह प्रसिद्ध नारा दिया था।",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 130
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "क्षेत्रफल की दृष्टि से भारत का विश्व में कौन सा स्थान है? (UP B.Ed 2020)",
+    "options": {
+      "A": "पांचवां",
+      "B": "छठा",
+      "C": "सातवां",
+      "D": "आठवां"
+    },
+    "correctAnswer": "C",
+    "explanation": "क्षेत्रफल के आधार पर भारत विश्व का 7वां सबसे बड़ा देश है (प्रथम स्थान पर रूस है)। भारत का क्षेत्रफल विश्व के कुल क्षेत्रफल का 2.42% है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true,
+    "id": 131
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारत की सबसे लंबी नदी कौन सी है? (UP B.Ed 2018)",
+    "options": {
+      "A": "ब्रह्मपुत्र",
+      "B": "गंगा",
+      "C": "गोदावरी",
+      "D": "सिंधु"
+    },
+    "correctAnswer": "B",
+    "explanation": "गंगा भारत की सबसे लंबी नदी है, जिसकी लंबाई लगभग 2525 किमी है। गोदावरी को दक्षिण गंगा भी कहा जाता है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true,
+    "id": 132
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "कर्क रेखा (Tropic of Cancer) भारत के कितने राज्यों से होकर गुजरती है? (UP B.Ed 2021)",
+    "options": {
+      "A": "6 राज्यों से",
+      "B": "7 राज्यों से",
+      "C": "8 राज्यों से",
+      "D": "9 राज्यों से"
+    },
+    "correctAnswer": "C",
+    "explanation": "कर्क रेखा (23.5° N) भारत के आठ राज्यों (गुजरात, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा, मिज़ोरम) से होकर गुजरती है।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true,
+    "id": 133
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारत की सबसे ऊंची चोटी (Highest Peak) कौन सी है? (UP B.Ed 2019)",
+    "options": {
+      "A": "कंचनजंगा",
+      "B": "गॉडविन ऑस्टिन (K2)",
+      "C": "नंदा देवी",
+      "D": "एवरेस्ट"
+    },
+    "correctAnswer": "B",
+    "explanation": "गॉडविन ऑस्टिन (K2) भारत की सबसे ऊंची चोटी है जो पीओके में काराकोरम श्रेणी में है। पूर्णतः भारत की भूमि पर कंचनजंगा है।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true,
+    "id": 134
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "सुंदरवन डेल्टा का निर्माण करने वाली प्रमुख नदियाँ कौन सी हैं? (UP B.Ed 2022)",
+    "options": {
+      "A": "गंगा और ब्रह्मपुत्र",
+      "B": "सिंधु और झेलम",
+      "C": "कृष्णा और कावेरी",
+      "D": "नर्मदा और तापी"
+    },
+    "correctAnswer": "A",
+    "explanation": "गंगा और ब्रह्मपुत्र नदियाँ बंगाल की खाड़ी में गिरने से पहले विश्व के सबसे बड़े डेल्टा 'सुंदरवन डेल्टा' का निर्माण करती हैं।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true,
+    "id": 135
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "साइलेंट वैली (शांत घाटी) राष्ट्रीय उद्यान भारत के किस राज्य में स्थित है? (UP B.Ed 2020)",
+    "options": {
+      "A": "केरल",
+      "B": "कर्नाटक",
+      "C": "उत्तराखंड",
+      "D": "असम"
+    },
+    "correctAnswer": "A",
+    "explanation": "साइलेंट वैली केरल के पलक्कड़ जिले में नीलगिरि पहाड़ियों में स्थित जैव विविधता से समृद्ध वर्षावन है।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true,
+    "id": 136
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारत में 'लाल मिट्टी' (Red Soil) का सर्वाधिक विस्तार किस राज्य में पाया जाता है?",
+    "options": {
+      "A": "उत्तर प्रदेश",
+      "B": "तमिलनाडु",
+      "C": "महाराष्ट्र",
+      "D": "राजस्थान"
+    },
+    "correctAnswer": "B",
+    "explanation": "लाल मिट्टी का सर्वाधिक विस्तार तमिलनाडु, आंध्र प्रदेश और कर्नाटक के क्षेत्रों में पाया जाता है। काली मिट्टी महाराष्ट्र में अधिक मिलती है।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 137
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "काजीरंगा राष्ट्रीय उद्यान किस जानवर के संरक्षण के लिए प्रसिद्ध है? (UP B.Ed 2017)",
+    "options": {
+      "A": "बंगाल टाइगर",
+      "B": "एक सींग वाला गैंडा",
+      "C": "एशियाई शेर",
+      "D": "हाथी"
+    },
+    "correctAnswer": "B",
+    "explanation": "असम में स्थित काजीरंगा राष्ट्रीय उद्यान दुनिया के दो-तिहाई एक सींग वाले गैंडों (One-horned Rhinoceros) का घर है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true,
+    "id": 138
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारत का सबसे दक्षिणी बिंदु (Southernmost Point) कौन सा है?",
+    "options": {
+      "A": "इंदिरा पॉइंट",
+      "B": "इंदिरा कोल",
+      "C": "कन्याकुमारी",
+      "D": "किबिथू"
+    },
+    "correctAnswer": "A",
+    "explanation": "भारत का सबसे दक्षिणी बिंदु इंदिरा पॉइंट (ग्रेट निकोबार द्वीप पर) है। सबसे उत्तरी बिंदु इंदिरा कोल है।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 139
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "चिल्का झील भारत के किस राज्य में स्थित खारे पानी की सबसे बड़ी लैगून झील है? (UP B.Ed 2021)",
+    "options": {
+      "A": "ओडिशा",
+      "B": "आंध्र प्रदेश",
+      "C": "तमिलनाडु",
+      "D": "केरल"
+    },
+    "correctAnswer": "A",
+    "explanation": "ओडिशा की चिल्का झील भारत की सबसे बड़ी और विश्व की दूसरी सबसे बड़ी खारे पानी की लैगून झील है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true,
+    "id": 140
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "वायुमंडल की सबसे निचली परत को क्या कहा जाता है? (UP B.Ed 2016)",
+    "options": {
+      "A": "समताप मंडल",
+      "B": "क्षोभमंडल (Troposphere)",
+      "C": "मध्यमंडल",
+      "D": "आयन मंडल"
+    },
+    "correctAnswer": "B",
+    "explanation": "क्षोभमंडल वायुमंडल की सबसे निचली और सघन परत है, जहाँ मौसम संबंधी सभी घटनाएँ (बादल, वर्षा, तूफान) घटित होती हैं।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2016",
+    "isReal": true,
+    "id": 141
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "स्वेज नहर (Suez Canal) किन दो सागरों को जोड़ती है?",
+    "options": {
+      "A": "भूमध्य सागर और लाल सागर",
+      "B": "प्रशांत महासागर और अटलांटिक महासागर",
+      "C": "अरब सागर और लाल सागर",
+      "D": "भूमध्य सागर और काला सागर"
+    },
+    "correctAnswer": "A",
+    "explanation": "स्वेज नहर मिस्र में स्थित एक कृत्रिम जलमार्ग है जो भूमध्य सागर को लाल सागर से जोड़ती है।",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 142
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भाखड़ा नांगल परियोजना किस नदी पर निर्मित है? (UP B.Ed 2019)",
+    "options": {
+      "A": "सतलुज नदी",
+      "B": "महानदी",
+      "C": "भागीरथी नदी",
+      "D": "नर्मदा नदी"
+    },
+    "correctAnswer": "A",
+    "explanation": "भाखड़ा नांगल बांध सतलुज नदी पर पंजाब और हिमाचल प्रदेश में स्थित है। हीराकुंड बांध महानदी पर है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true,
+    "id": 143
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारत के किस राज्य को 'मसालों का बगीचा' (Garden of Spices) कहा जाता है?",
+    "options": {
+      "A": "कर्नाटक",
+      "B": "केरल",
+      "C": "तमिलनाडु",
+      "D": "आंध्र प्रदेश"
+    },
+    "correctAnswer": "B",
+    "explanation": "केरल मसालों के उत्पादन, विशेषकर काली मिर्च, इलायची के लिए प्रसिद्ध होने के कारण मसालों का बगीचा कहलाता है।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 144
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "प्रकाश वर्ष (Light Year) किसका मात्रक होता है? (UP B.Ed 2020)",
+    "options": {
+      "A": "समय का",
+      "B": "दूरी का",
+      "C": "प्रकाश की तीव्रता का",
+      "D": "वेग का"
+    },
+    "correctAnswer": "B",
+    "explanation": "प्रकाश वर्ष दूरी का मात्रक है। एक वर्ष में प्रकाश द्वारा तय की गई दूरी को एक प्रकाश वर्ष कहते हैं। (1 प्रकाश वर्ष = 9.46 × 10^15 मीटर)।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true,
+    "id": 145
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "मानव शरीर की सबसे बड़ी ग्रंथि (Largest Gland) कौन सी है? (UP B.Ed 2018)",
+    "options": {
+      "A": "अग्न्याशय (Pancreas)",
+      "B": "यकृत (Liver)",
+      "C": "थायरॉयड",
+      "D": "पीयूष ग्रंथि"
+    },
+    "correctAnswer": "B",
+    "explanation": "यकृत (लिवर) मानव शरीर की सबसे बड़ी ग्रंथि है। जबकि पीयूष ग्रंथि (पिट्यूटरी) सबसे छोटी अंतःस्रावी ग्रंथि है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true,
+    "id": 146
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "विटामिन सी (Vitamin C) का रासायनिक नाम क्या है? (UP B.Ed 2021)",
+    "options": {
+      "A": "रेटिनॉल",
+      "B": "एस्कॉर्बिक एसिड",
+      "C": "कैल्सिफेरॉल",
+      "D": "टोकोफेरॉल"
+    },
+    "correctAnswer": "B",
+    "explanation": "विटामिन सी का रासायनिक नाम एस्कॉर्बिक एसिड है। इसकी कमी से स्कर्वी रोग होता है। खट्टे फलों में यह प्रचुर मात्रा में पाया जाता है।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true,
+    "id": 147
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "दूध के खट्टे होने का क्या कारण होता है? (UP B.Ed 2019)",
+    "options": {
+      "A": "लैक्टोबैसिलस जीवाणु",
+      "B": "वायरस",
+      "C": "कवक",
+      "D": "खमीर (यीस्ट)"
+    },
+    "correctAnswer": "A",
+    "explanation": "दूध में मौजूद लैक्टोज शर्करा को लैक्टोबैसिलस बैक्टीरिया लैक्टिक एसिड में बदल देता है, जिससे दूध खट्टा होकर दही बन जाता है।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true,
+    "id": 148
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "मानव रक्त का पीएच (pH) मान कितना होता है? (UP B.Ed 2022)",
+    "options": {
+      "A": "6.0",
+      "B": "7.4",
+      "C": "8.0",
+      "D": "5.5"
+    },
+    "correctAnswer": "B",
+    "explanation": "मानव रक्त का pH मान लगभग 7.4 होता है, जो हल्का क्षारीय (Slightly Alkaline) प्रकृति का होता है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true,
+    "id": 149
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "ध्वनि की गति (Speed of Sound) सर्वाधिक किस माध्यम में होती है? (UP B.Ed 2017)",
+    "options": {
+      "A": "ठोस (इस्पात)",
+      "B": "द्रव (जल)",
+      "C": "गैस (हवा)",
+      "D": "निर्वात (Vacuum)"
+    },
+    "correctAnswer": "A",
+    "explanation": "ध्वनि तरंगें अनुदैर्ध्य तरंगें होती हैं। इनकी गति ठोस माध्यमों में सबसे तेज, फिर द्रवों में और सबसे कम गैसों में होती है। निर्वात में ध्वनि गमन नहीं कर सकती।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true,
+    "id": 150
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "फलों को कृत्रिम रूप से पकाने के लिए किस गैस का उपयोग किया जाता है? (UP B.Ed 2021)",
+    "options": {
+      "A": "मीथेन",
+      "B": "एसिटिलीन",
+      "C": "इथेन",
+      "D": "कार्बन डाइऑक्साइड"
+    },
+    "correctAnswer": "B",
+    "explanation": "फलों को पकाने के लिए एथिलीन (प्राकृतिक पादप हार्मोन) या एसिटिलीन गैस (कैल्शियम कार्बाइड से उत्पन्न) का उपयोग किया जाता है।",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true,
+    "id": 151
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "सोना (Gold) का रासायनिक प्रतीक (Chemical Symbol) क्या है?",
+    "options": {
+      "A": "Ag",
+      "B": "Au",
+      "C": "Fe",
+      "D": "Pb"
+    },
+    "correctAnswer": "B",
+    "explanation": "सोने का प्रतीक Au (लैटिन नाम Aurum) है। चांदी का Ag (Argentum), लोहे का Fe (Ferrum) और सीसे का Pb (Plumbum) है।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 152
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "कार्य का एस.आई. (SI) मात्रक क्या है?",
+    "options": {
+      "A": "न्यूटन",
+      "B": "जूल",
+      "C": "वाट",
+      "D": "पास्कल"
+    },
+    "correctAnswer": "B",
+    "explanation": "कार्य और ऊर्जा का SI मात्रक जूल (Joule) होता है। बल का न्यूटन, शक्ति का वाट और दाब का पास्कल होता है।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 153
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "किस विटामिन की कमी के कारण रक्त का थक्का (Blood Clotting) नहीं बनता है? (UP B.Ed 2020)",
+    "options": {
+      "A": "विटामिन A",
+      "B": "विटामिन K",
+      "C": "विटामिन D",
+      "D": "विटामिन E"
+    },
+    "correctAnswer": "B",
+    "explanation": "विटामिन K यकृत में प्रोथ्रोम्बिन के निर्माण के लिए आवश्यक है, जो रक्त का थक्का जमाने में मदद करता है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true,
+    "id": 154
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "निकट दृष्टि दोष (Myopia) को दूर करने के लिए किस लेंस का प्रयोग किया जाता है?",
+    "options": {
+      "A": "उत्तल लेंस (Convex)",
+      "B": "अवलत लेंस (Concave)",
+      "C": "द्विफोकसी लेंस",
+      "D": "बेलनाकार लेंस"
+    },
+    "correctAnswer": "B",
+    "explanation": "निकट दृष्टि दोष (मायोपिया) से पीड़ित व्यक्ति पास की वस्तु देख सकता है परंतु दूर की नहीं। इसके निवारण के लिए अवतल लेंस (Concave Lens) का प्रयोग होता है।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 155
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "एलपीजी (LPG - Liquefied Petroleum Gas) का मुख्य घटक क्या है?",
+    "options": {
+      "A": "मीथेन और इथेन",
+      "B": "प्रोपेन और ब्यूटेन",
+      "C": "हाइड्रोजन",
+      "D": "कार्बन मोनोऑक्साइड"
+    },
+    "correctAnswer": "B",
+    "explanation": "रसोई गैस (LPG) में मुख्य रूप से ब्यूटेन और प्रोपेन गैसों का मिश्रण होता है। इसमें गंध के लिए एथिल मरकैप्टन मिलाया जाता है।",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 156
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "हंसाने वाली गैस (Laughing Gas) का रासायनिक नाम क्या है? (UP B.Ed 2016)",
+    "options": {
+      "A": "नाइट्रस ऑक्साइड (N2O)",
+      "B": "nitrogen dioxide",
+      "C": "nitric oxide",
+      "D": "ammonia"
+    },
+    "correctAnswer": "A",
+    "explanation": "नाइट्रस ऑक्साइड (N2O) को लाफिंग गैस कहा जाता है। इसकी खोज जोसेफ प्रीस्टले ने की थी।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2016",
+    "isReal": true,
+    "id": 157
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "पानी का अधिकतम घनत्व (Maximum Density) किस तापमान पर होता है?",
+    "options": {
+      "A": "0°C",
+      "B": "4°C",
+      "C": "100°C",
+      "D": "-4°C"
+    },
+    "correctAnswer": "B",
+    "explanation": "जल का घनत्व 4 डिग्री सेल्सियस (4°C) पर अधिकतम होता है तथा इसका आयतन न्यूनतम होता है।",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 158
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "आनुवंशिकी के जनक (Father of Genetics) किसे कहा जाता है?",
+    "options": {
+      "A": "चार्ल्स डार्विन",
+      "B": "ग्रेगर जॉन मेंडल",
+      "C": "लैमार्क",
+      "D": "अरस्तू"
+    },
+    "correctAnswer": "B",
+    "explanation": "ग्रेगर जॉन मेंडल ने मटर के पौधों पर प्रयोग कर आनुवंशिकी के बुनियादी नियम प्रतिपादित किए थे, इसलिए उन्हें आनुवंशिकी का जनक कहा जाता है।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 159
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारत में जीएसटी (GST - Goods and Services Tax) कब लागू किया गया था? (UP B.Ed 2021)",
+    "options": {
+      "A": "1 अप्रैल 2017",
+      "B": "1 जुलाई 2017",
+      "C": "15 अगस्त 2016",
+      "D": "26 जनवरी 2018"
+    },
+    "correctAnswer": "B",
+    "explanation": "भारत में वस्तु एवं सेवा कर (GST) 1 जुलाई 2017 से लागू हुआ। यह एक अप्रत्यक्ष कर है, जिसे 101वें संविधान संशोधन द्वारा लाया गया।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true,
+    "id": 160
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारतीय रिजर्व बैंक (RBI) का राष्ट्रीयकरण किस वर्ष किया गया था? (UP B.Ed 2018)",
+    "options": {
+      "A": "1935 ई.",
+      "B": "1949 ई.",
+      "C": "1955 ई.",
+      "D": "1969 ई."
+    },
+    "correctAnswer": "B",
+    "explanation": "आरबीआई की स्थापना 1 अप्रैल 1935 को हुई थी और इसका राष्ट्रीयकरण 1 जनवरी 1949 को किया गया था।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true,
+    "id": 161
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "नीति आयोग (NITI Aayog) के पदेन अध्यक्ष कौन होते हैं? (UP B.Ed 2020)",
+    "options": {
+      "A": "वित्त मंत्री",
+      "B": "राष्ट्रपति",
+      "C": "प्रधानमंत्री",
+      "D": "उपराष्ट्रपति"
+    },
+    "correctAnswer": "C",
+    "explanation": "नीति आयोग (National Institution for Transforming India) की स्थापना 1 जनवरी 2015 को योजना आयोग के स्थान पर की गई थी। इसके पदेन अध्यक्ष भारत के प्रधानमंत्री होते हैं।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true,
+    "id": 162
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारत में योजना आयोग की स्थापना किस वर्ष की गई थी? (UP B.Ed 2017)",
+    "options": {
+      "A": "1947 ई.",
+      "B": "1950 ई.",
+      "C": "1952 ई.",
+      "D": "1956 ई."
+    },
+    "correctAnswer": "B",
+    "explanation": "योजना आयोग का गठन 15 मार्च 1950 को एक गैर-संवैधानिक परामर्शदात्री निकाय के रूप में हुआ था, जिसे अब नीति आयोग द्वारा प्रतिस्थापित किया जा चुका है।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true,
+    "id": 163
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारत में 'हरित क्रांति' (Green Revolution) के जनक कौन माने जाते हैं? (UP B.Ed 2022)",
+    "options": {
+      "A": "डॉ. वर्गीज कुरियन",
+      "B": "डॉ. एम.एस. स्वामीनाथन",
+      "C": "नॉर्मन बोरलॉग",
+      "D": "सैम पित्रोदा"
+    },
+    "correctAnswer": "B",
+    "explanation": "भारत में एम.एस. स्वामीनाथन को हरित क्रांति का जनक माना जाता है (विश्व स्तर पर नॉर्मन बोरलॉग को)। वर्गीज कुरियन भारत में श्वेत क्रांति (दूध उत्पादन) के जनक हैं।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true,
+    "id": 164
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारत की अर्थव्यवस्था कैसी अर्थव्यवस्था है?",
+    "options": {
+      "A": "समाजवादी",
+      "B": "पूंजीवादी",
+      "C": "मिश्रित अर्थव्यवस्था",
+      "D": "साम्यवादी"
+    },
+    "correctAnswer": "C",
+    "explanation": "भारत में सार्वजनिक क्षेत्र और निजी क्षेत्र दोनों का सह-अस्तित्व है, इसलिए इसे मिश्रित अर्थव्यवस्था (Mixed Economy) कहा जाता है।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 165
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "किस पंचवर्षीय योजना (Five Year Plan) के दौरान भारत में 'गरीबी हटाओ' का नारा दिया गया था?",
+    "options": {
+      "A": "तीसरी योजना",
+      "B": "चौथी योजना",
+      "C": "पांचवीं योजना",
+      "D": "छठी योजना"
+    },
+    "correctAnswer": "C",
+    "explanation": "पांचवीं पंचवर्षीय योजना (1974-1978) के दौरान इंदिरा गांधी द्वारा 'गरीबी हटाओ' (Garibi Hatao) का नारा दिया गया था।",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 166
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारत में राष्ट्रीय आय (National Income) का आकलन सबसे पहले किसने किया था? (UP B.Ed 2019)",
+    "options": {
+      "A": "दादाभाई नौरोजी",
+      "B": "आर.सी. दत्त",
+      "C": "वी.के.आर.वी. राव",
+      "D": "जवाहरलाल नेहरू"
+    },
+    "correctAnswer": "A",
+    "explanation": "दादाभाई नौरोजी ('ग्रैंड ओल्ड मैन ऑफ इंडिया') ने 1867-68 में अपनी पुस्तक 'पावर्टी एंड अन-ब्रिटिश रूल इन इंडिया' में भारत की राष्ट्रीय आय का पहला आकलन पेश किया था।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true,
+    "id": 167
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "₹1 के नोट पर किसके हस्ताक्षर होते हैं?",
+    "options": {
+      "A": "आरबीआई गवर्नर",
+      "B": "वित्त सचिव (Finance Secretary)",
+      "C": "वित्त मंत्री",
+      "D": "राष्ट्रपति"
+    },
+    "correctAnswer": "B",
+    "explanation": "₹1 के नोट को छोड़कर अन्य सभी भारतीय मुद्रा नोटों पर आरबीआई गवर्नर के हस्ताक्षर होते हैं, जबकि ₹1 के नोट पर भारत सरकार के वित्त सचिव के हस्ताक्षर होते हैं।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 168
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारत में कृषि क्षेत्र में किस प्रकार की बेरोजगारी (Unemployment) सर्वाधिक पाई जाती है?",
+    "options": {
+      "A": "मौसमी बेरोजगारी",
+      "B": "प्रच्छन्न (अदृश्य) बेरोजगारी",
+      "C": "संरचनात्मक बेरोजगारी",
+      "D": "स्वैच्छिक बेरोजगारी"
+    },
+    "correctAnswer": "B",
+    "explanation": "प्रच्छन्न या छिपी हुई बेरोजगारी (Disguised Unemployment) वह स्थिति है जहाँ किसी कार्य में आवश्यकता से अधिक लोग लगे होते हैं, और उनकी सीमांत उत्पादकता शून्य होती है।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 169
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "राजीव गांधी खेल रत्न पुरस्कार (अब मेजर ध्यानचंद खेल रत्न पुरस्कार) प्राप्त करने वाले पहले खिलाड़ी कौन थे? (UP B.Ed 2020)",
+    "options": {
+      "A": "सचिन तेंदुलकर",
+      "B": "विश्वनाथन आनंद",
+      "C": "कपिल देव",
+      "D": "लिम्बा राम"
+    },
+    "correctAnswer": "B",
+    "explanation": "शतरंज के ग्रैंडमास्टर विश्वनाथन आनंद को वर्ष 1991-92 में पहला राजीव गांधी खेल रत्न पुरस्कार दिया गया था। अब इसका नाम 'मेजर ध्यानचंद खेल रत्न पुरस्कार' है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true,
+    "id": 170
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "डेविस कप (Davis Cup) का संबंध किस खेल से है? (UP B.Ed 2018)",
+    "options": {
+      "A": "फुटबॉल",
+      "B": "लौन टेनिस",
+      "C": "बैडमिंटन",
+      "D": "गोल्फ"
+    },
+    "correctAnswer": "B",
+    "explanation": "डेविस कप पुरुषों का एक अंतरराष्ट्रीय टेनिस टूर्नामेंट है। फुटबॉल से संबंधित प्रमुख कप डूरंड कप और सुब्रतो कप हैं।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true,
+    "id": 171
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "भारत का राष्ट्रीय खेल दिवस (National Sports Day) प्रतिवर्ष किस तिथि को मनाया जाता है? (UP B.Ed 2021)",
+    "options": {
+      "A": "15 अगस्त",
+      "B": "29 अगस्त",
+      "C": "26 जनवरी",
+      "D": "5 सितंबर"
+    },
+    "correctAnswer": "B",
+    "explanation": "हॉकी के जादूगर मेजर ध्यानचंद के जन्मदिवस के उपलक्ष्य में प्रत्येक वर्ष 29 अगस्त को राष्ट्रीय खेल दिवस मनाया जाता है।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true,
+    "id": 172
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "डूरंड कप (Durand Cup) किस खेल से संबंधित सबसे पुराना टूर्नामेंट है? (UP B.Ed 2019)",
+    "options": {
+      "A": "क्रिकेट",
+      "B": "फुटबॉल",
+      "C": "हॉकी",
+      "D": "टेबल टेनिस"
+    },
+    "correctAnswer": "B",
+    "explanation": "डूरंड कप एशिया का सबसे पुराना और दुनिया का तीसरा सबसे पुराना फुटबॉल टूर्नामेंट है, जिसकी शुरुआत 1888 में शिमला में हुई थी।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true,
+    "id": 173
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "थॉमस कप (Thomas Cup) का संबंध किस खेल से है? (UP B.Ed 2022)",
+    "options": {
+      "A": "बैडमिंटन",
+      "B": "टेबल टेनिस",
+      "C": "लौन टेनिस",
+      "D": "शतरंज"
+    },
+    "correctAnswer": "A",
+    "explanation": "थॉमस कप बैडमिंटन खेल से संबंधित एक प्रमुख अंतरराष्ट्रीय पुरुष टीम चैंपियनशिप है। महिलाओं के लिए उबर कप होता है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true,
+    "id": 174
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "क्रिकेट के भगवान कहे जाने वाले सचिन तेंदुलकर ने अपना 100वां अंतरराष्ट्रीय शतक किस देश के खिलाफ लगाया था?",
+    "options": {
+      "A": "ऑस्ट्रेलिया",
+      "B": "बांग्लादेश",
+      "C": "पाकिस्तान",
+      "D": "श्रीलंका"
+    },
+    "correctAnswer": "B",
+    "explanation": "सचिन तेंदुलकर ने 16 मार्च 2012 को एशिया कप के दौरान बांग्लादेश के खिलाफ अपना 100वां अंतरराष्ट्रीय शतक बनाया था।",
+    "frequency": 0,
+    "probability": 85,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 175
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "ओलंपिक खेलों की शुरुआत प्राचीन काल में कहाँ से हुई थी?",
+    "options": {
+      "A": "रोम (इटली)",
+      "B": "एथेंस (ग्रीस)",
+      "C": "पेरिस (फ्रांस)",
+      "D": "लंदन (यूके)"
+    },
+    "correctAnswer": "B",
+    "explanation": "प्राचीन ओलंपिक खेलों की शुरुआत 776 ईसा पूर्व में ग्रीस (यूनान) के शहर एथेंस (ओलंपिया) से हुई थी। आधुनिक ओलंपिक भी 1896 में एथेंस से शुरू हुए।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 176
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "बुल फाइटिंग (सांडों की लड़ाई) किस देश का राष्ट्रीय खेल है?",
+    "options": {
+      "A": "स्पेन",
+      "B": "कनाडा",
+      "C": "जापान",
+      "D": "स्कॉटलैंड"
+    },
+    "correctAnswer": "A",
+    "explanation": "बुल फाइटिंग स्पेन का प्रसिद्ध और पारंपरिक राष्ट्रीय खेल है।",
+    "frequency": 0,
+    "probability": 86,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 177
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "रणजी ट्रॉफी (Ranji Trophy) का संबंध किस खेल से है? (UP B.Ed 2016)",
+    "options": {
+      "A": "फुटबॉल",
+      "B": "हॉकी",
+      "C": "क्रिकेट",
+      "D": "कबड्डी"
+    },
+    "correctAnswer": "C",
+    "explanation": "रणजी ट्रॉफी भारत की एक प्रमुख घरेलू प्रथम श्रेणी क्रिकेट चैंपियनशिप है, जो 1934 से खेली जा रही है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2016",
+    "isReal": true,
+    "id": 178
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "आईपीएल (IPL) का पहला संस्करण (2008) किस टीम ने जीता था?",
+    "options": {
+      "A": "चेन्नई सुपर किंग्स",
+      "B": "राजस्थान रॉयल्स",
+      "C": "मुंबई इंडियंस",
+      "D": "कोलकाता नाइट राइडर्स"
+    },
+    "correctAnswer": "B",
+    "explanation": "आईपीएल का पहला सीजन 2008 में शेन वॉर्न की कप्तानी में राजस्थान रॉयल्स ने चेन्नई सुपर किंग्स को हराकर जीता था।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 179
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "पंचतंत्र के लेखक कौन हैं? (UP B.Ed 2020)",
+    "options": {
+      "A": "कालिदास",
+      "B": "विष्णु शर्मा",
+      "C": "तुलसीदास",
+      "D": "कबीरदास"
+    },
+    "correctAnswer": "B",
+    "explanation": "संस्कृत नीति-कथाओं का संग्रह 'पंचतंत्र' पंडित विष्णु शर्मा द्वारा रचित है।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true,
+    "id": 180
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "'डिस्कवरी ऑफ इंडिया' (भारत की खोज) पुस्तक के लेखक कौन हैं? (UP B.Ed 2018)",
+    "options": {
+      "A": "महात्मा गांधी",
+      "B": "जवाहरलाल नेहरू",
+      "C": "सुभाष चंद्र बोस",
+      "D": "रवींद्रनाथ टैगोर"
+    },
+    "correctAnswer": "B",
+    "explanation": "'डिस्कवरी ऑफ इंडिया' की रचना भारत के पहले प्रधानमंत्री जवाहरलाल नेहरू ने अहमदनगर किला जेल में बंद रहने के दौरान की थी।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true,
+    "id": 181
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "'माई एक्सपेरिमेंट विद ट्रुथ' (सत्य के साथ मेरे प्रयोग) किसकी आत्मकथा है? (UP B.Ed 2021)",
+    "options": {
+      "A": "जवाहरलाल नेहरू",
+      "B": "महात्मा गांधी",
+      "C": "डॉ. बी.आर. अम्बेडकर",
+      "D": "एपीजे अब्दुल कलाम"
+    },
+    "correctAnswer": "B",
+    "explanation": "'माई एक्सपेरिमेंट विद ट्रुथ' राष्ट्रपिता महात्मा गांधी की मूल रूप से गुजराती भाषा में लिखी गई आत्मकथा है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true,
+    "id": 182
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "'गोदान' और 'गबन' उपन्यास के लेखक कौन हैं? (UP B.Ed 2019)",
+    "options": {
+      "A": "मुंशी प्रेमचंद",
+      "B": "महादेवी वर्मा",
+      "C": "हरिवंश राय बच्चन",
+      "D": "रामधारी सिंह दिनकर"
+    },
+    "correctAnswer": "A",
+    "explanation": "मुंशी प्रेमचंद ('उपन्यास सम्राट') ने गोदान, गबन, कर्मभूमि, रंगभूमि जैसी कालजयी कृतियों की रचना की है।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true,
+    "id": 183
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "प्रसिद्ध पुस्तक 'गीतांजलि' के लेखक कौन हैं, जिसके लिए उन्हें नोबेल पुरस्कार मिला था? (UP B.Ed 2015)",
+    "options": {
+      "A": "बंकिम चंद्र चटर्जी",
+      "B": "रवींद्रनाथ टैगोर",
+      "C": "सरोजिनी नायडू",
+      "D": "अरविंद घोष"
+    },
+    "correctAnswer": "B",
+    "explanation": "रवींद्रनाथ टैगोर को वर्ष 1913 में उनके कविता संग्रह 'गीतांजलि' के लिए साहित्य का नोबेल पुरस्कार मिला। वे नोबेल पुरस्कार पाने वाले पहले एशियाई थे।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2015",
+    "isReal": true,
+    "id": 184
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "'विंग्स ऑफ फायर' (WINGS OF FIRE) किसकी आत्मकथा है? (UP B.Ed 2022)",
+    "options": {
+      "A": "डॉ. एपीजे अब्दुल कलाम",
+      "B": "प्रणब मुखर्जी",
+      "C": "अटल बिहारी वाजपेयी",
+      "D": "मनमोहन सिंह"
+    },
+    "correctAnswer": "A",
+    "explanation": "'विंग्स ऑफ फायर' भारत के पूर्व राष्ट्रपति और मिसाइल मैन डॉ. एपीजे अब्दुल कलाम की प्रसिद्ध आत्मकथा है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true,
+    "id": 185
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "'मेघदूत' और 'अभिज्ञानशाकुंतलम' किसकी प्रसिद्ध संस्कृत रचनाएँ हैं?",
+    "options": {
+      "A": "भारवि",
+      "B": "कालिदास",
+      "C": "भवभूति",
+      "D": "बाणभट्ट"
+    },
+    "correctAnswer": "B",
+    "explanation": "महाकवि कालिदास चंद्रगुप्त द्वितीय के दरबारी कवि थे, जिन्होंने मेघदूत, रघुवंश, अभिज्ञानशाकुंतलम आदि की रचना की।",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 186
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "'अर्थशास्त्र' नामक प्रसिद्ध पुस्तक के लेखक कौन थे? (UP B.Ed 2017)",
+    "options": {
+      "A": "चाणक्य (कौटिल्य)",
+      "B": "चंद्रगुप्त मौर्य",
+      "C": "मेगस्थनीज",
+      "D": "सेल्युकस"
+    },
+    "correctAnswer": "A",
+    "explanation": "चाणक्य (कौटिल्य / विष्णुगुप्त) ने राजनीति और प्रशासन पर आधारित प्रसिद्ध पुस्तक 'अर्थशास्त्र' की रचना की थी। मेगस्थनीज ने 'इंडिका' लिखी थी।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true,
+    "id": 187
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "'आनंदमठ' उपन्यास के लेखक कौन हैं, जिसमें हमारा राष्ट्रीय गीत 'वन्दे मातरम्' संकलित है?",
+    "options": {
+      "A": "रवींद्रनाथ टैगोर",
+      "B": "बंकिम चंद्र चटर्जी",
+      "C": "शरतचंद्र चट्टोपाध्याय",
+      "D": "बिपिन चंद्र पाल"
+    },
+    "correctAnswer": "B",
+    "explanation": "बंकिम चंद्र चटर्जी ने 1882 में 'आनंदमठ' उपन्यास लिखा था, जो संन्यासी विद्रोह पर आधारित है।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 188
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "'अष्टाध्यायी' के रचनाकार कौन हैं?",
+    "options": {
+      "A": "कात्यायन",
+      "B": "पतंजलि",
+      "C": "पाणिनि",
+      "D": "भतृहरि"
+    },
+    "correctAnswer": "C",
+    "explanation": "पाणिनि को संस्कृत व्याकरण का जनक माना जाता है। उनकी रचना 'अष्टाध्यायी' संस्कृत व्याकरण की पहली प्रामाणिक पुस्तक है।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 189
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "विश्व पर्यावरण दिवस (World Environment Day) प्रतिवर्ष किस तिथि को मनाया जाता है? (UP B.Ed 2020)",
+    "options": {
+      "A": "5 जून",
+      "B": "22 अप्रैल",
+      "C": "16 सितंबर",
+      "D": "11 जुलाई"
+    },
+    "correctAnswer": "A",
+    "explanation": "प्रत्येक वर्ष 5 जून को विश्व पर्यावरण दिवस मनाया जाता है। 22 अप्रैल को पृथ्वी दिवस और 16 सितंबर को ओजोन परत संरक्षण दिवस मनाया जाता है।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true,
+    "id": 190
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "मानवाधिकार दिवस (Human Rights Day) कब मनाया जाता है? (UP B.Ed 2018)",
+    "options": {
+      "A": "10 दिसंबर",
+      "B": "24 अक्टूबर",
+      "C": "8 मार्च",
+      "D": "1 दिसंबर"
+    },
+    "correctAnswer": "A",
+    "explanation": "मानवाधिकारों की सार्वभौमिक घोषणा को अपनाने के उपलक्ष्य में प्रत्येक वर्ष 10 दिसंबर को मानवाधिकार दिवस मनाया जाता है। 1 दिसंबर को एड्स दिवस मनाया जाता है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true,
+    "id": 191
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "अंतरराष्ट्रीय महिला दिवस (International Women's Day) किस तिथि को मनाया जाता है? (UP B.Ed 2021)",
+    "options": {
+      "A": "8 मार्च",
+      "B": "13 फरवरी",
+      "C": "24 जनवरी",
+      "D": "5 जून"
+    },
+    "correctAnswer": "A",
+    "explanation": "महिलाओं के अधिकारों और लैंगिक समानता के लिए प्रतिवर्ष 8 मार्च को अंतरराष्ट्रीय महिला दिवस मनाया जाता है। 13 फरवरी को राष्ट्रीय महिला दिवस (सरोजिनी नायडू जन्मदिवस) मनाया जाता है।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true,
+    "id": 192
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "नोबेल पुरस्कार प्राप्त करने वाले प्रथम भारतीय कौन थे? (UP B.Ed 2016)",
+    "options": {
+      "A": "सी.वी. रमन",
+      "B": "रवींद्रनाथ टैगोर",
+      "C": "हरगोविंद खुराना",
+      "D": "मदर टेरेसा"
+    },
+    "correctAnswer": "B",
+    "explanation": "रवींद्रनाथ टैगोर को 1913 में साहित्य के नोबेल पुरस्कार से सम्मानित किया गया था, वे प्रथम भारतीय और प्रथम एशियाई नोबेल पुरस्कार विजेता थे।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2016",
+    "isReal": true,
+    "id": 193
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "ओजोन परत संरक्षण दिवस (Ozone Day) कब मनाया जाता है? (UP B.Ed 2022)",
+    "options": {
+      "A": "16 सितंबर",
+      "B": "5 जून",
+      "C": "22 मार्च",
+      "D": "28 फरवरी"
+    },
+    "correctAnswer": "A",
+    "explanation": "16 सितंबर को मांट्रियल प्रोटोकॉल की याद में ओजोन परत संरक्षण दिवस मनाया जाता है। 28 फरवरी को राष्ट्रीय विज्ञान दिवस मनाया जाता है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true,
+    "id": 194
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "संयुक्त राष्ट्र संघ (UN) की स्थापना कब हुई थी? (UP B.Ed 2019)",
+    "options": {
+      "A": "24 अक्टूबर 1945",
+      "B": "15 अगस्त 1947",
+      "C": "26 जनवरी 1950",
+      "D": "10 दिसंबर 1948"
+    },
+    "correctAnswer": "A",
+    "explanation": "द्वितीय विश्व युद्ध के बाद शांति स्थापना के उद्देश्य से 24 अक्टूबर 1945 को संयुक्त राष्ट्र संघ (UN) का गठन किया गया था, इसका मुख्यालय न्यूयॉर्क में है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true,
+    "id": 195
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "बिहू (Bihu) भारत के किस राज्य का प्रमुख लोक नृत्य/उत्सव है? (UP B.Ed 2017)",
+    "options": {
+      "A": "असम",
+      "B": "ओडिशा",
+      "C": "केरल",
+      "D": "पश्चिम बंगाल"
+    },
+    "correctAnswer": "A",
+    "explanation": "बिहू असम राज्य का सबसे महत्वपूर्ण लोक नृत्य और सांस्कृतिक उत्सव है, जो वर्ष में तीन बार मनाया जाता है।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true,
+    "id": 196
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "विश्व स्वास्थ्य संगठन (WHO) का मुख्यालय कहाँ स्थित है?",
+    "options": {
+      "A": "न्यूयॉर्क",
+      "B": "जिनेवा (स्विट्जरलैंड)",
+      "C": "पेरिस",
+      "D": "रोम"
+    },
+    "correctAnswer": "B",
+    "explanation": "विश्व स्वास्थ्य संगठन (WHO) की स्थापना 7 अप्रैल 1948 को हुई थी और इसका मुख्यालय जिनेवा, स्विट्जरलैंड में स्थित है।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 197
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "राष्ट्रीय मतदाता दिवस (National Voters' Day) कब मनाया जाता है?",
+    "options": {
+      "A": "25 जनवरी",
+      "B": "26 जनवरी",
+      "C": "25 दिसंबर",
+      "D": "15 जनवरी"
+    },
+    "correctAnswer": "A",
+    "explanation": "भारतीय निर्वाचन आयोग की स्थापना के उपलक्ष्य में प्रत्येक वर्ष 25 जनवरी को राष्ट्रीय मतदाता दिवस मनाया जाता है।",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 198
+  },
+  {
+    "subject": "General Knowledge",
+    "text": "विश्व जनसंख्या दिवस (World Population Day) कब मनाया जाता है?",
+    "options": {
+      "A": "11 जुलाई",
+      "B": "11 जून",
+      "C": "5 सितंबर",
+      "D": "1 दिसंबर"
+    },
+    "correctAnswer": "A",
+    "explanation": "विश्व भर में जनसंख्या नियंत्रण और जागरूकता बढ़ाने के लिए प्रतिवर्ष 11 जुलाई को विश्व जनसंख्या दिवस मनाया जाता है।",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false,
+    "id": 199
+  },
+  {
+    "id": 200,
+    "subject": "Teaching Aptitude",
+    "text": "गांधी जी की शिक्षा दर्शन का नाम क्या है?",
+    "options": {
+      "A": "वैज्ञानिक शिक्षा",
+      "B": "नई तालीम (Nai Talim)",
+      "C": "आधुनिक शिक्षा",
+      "D": "पारंपरिक शिक्षा"
+    },
+    "correctAnswer": "B",
+    "explanation": "गांधी जी 'नई तालीम' या 'बुनियादी शिक्षा' की अवधारणा में विश्वास करते थे जो आत्मनिर्भरता पर केंद्रित थी।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2025",
+    "isReal": false
+  }
+]

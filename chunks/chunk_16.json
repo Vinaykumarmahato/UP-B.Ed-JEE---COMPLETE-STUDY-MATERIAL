@@ -1,0 +1,852 @@
+[
+  {
+    "id": 801,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: Copper is ___ useful metal. (UP B.Ed 2019)",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "correctAnswer": "A",
+    "explanation": "Although 'useful' starts with a vowel letter 'u', it starts with a consonant sound /juː/. Therefore, 'a' is the correct article.",
+    "frequency": 3,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 802,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: ___ Ganga is a sacred river. (UP B.Ed 2020)",
+    "options": {
+      "A": "A",
+      "B": "An",
+      "C": "The",
+      "D": "No article"
+    },
+    "correctAnswer": "C",
+    "explanation": "We use the definite article 'The' before the names of rivers, seas, oceans, and mountain ranges. Hence, 'The Ganga' is correct.",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 803,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: He is ___ honorable man. (UP B.Ed 2021)",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "correctAnswer": "B",
+    "explanation": "The word 'honorable' starts with a silent 'h', so the initial sound is a vowel /ɒ/. Therefore, we use the indefinite article 'an'.",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 804,
+    "subject": "English Grammar",
+    "text": "Choose the correct articles to fill in the blanks: French is ___ language of ___ people of France.",
+    "options": {
+      "A": "the, a",
+      "B": "a, the",
+      "C": "the, the",
+      "D": "a, a"
+    },
+    "correctAnswer": "C",
+    "explanation": "'French is the language (particular language) of the people of France (particular population).' Both nouns are specific, requiring 'the'.",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 805,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: The guide knows ___ way. (UP B.Ed 2018)",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "correctAnswer": "C",
+    "explanation": "'Way' refers to the specific route that the guide knows to lead the tourists. Thus, the definite article 'the' is correct.",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 806,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: Sri Lanka is ___ island in the Indian Ocean.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "correctAnswer": "B",
+    "explanation": "The noun 'island' starts with the vowel sound /aɪ/, so the indefinite article 'an' is appropriate here.",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 807,
+    "subject": "English Grammar",
+    "text": "Identify the correct article to fill in the blank: She returned after ___ hour.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "correctAnswer": "B",
+    "explanation": "In 'hour', the letter 'h' is silent, and it starts with the vowel sound /aʊ/. Hence, 'an' is correct.",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 808,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: Honest men speak ___ truth. (UP B.Ed 2023)",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "correctAnswer": "C",
+    "explanation": "The idiom/phrase is 'speak the truth' where 'truth' is treated as a specific and unique concept.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 809,
+    "subject": "English Grammar",
+    "text": "Choose the correct article: I first saw him ___ year ago.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "correctAnswer": "A",
+    "explanation": "The word 'year' starts with the consonant sound /j/ (as in 'yacht'). Therefore, the correct indefinite article is 'a'.",
+    "frequency": 0,
+    "probability": 85,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 810,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: ___ Sun shines brightly.",
+    "options": {
+      "A": "A",
+      "B": "An",
+      "C": "The",
+      "D": "No article"
+    },
+    "correctAnswer": "C",
+    "explanation": "The definite article 'The' is used before nouns that are unique or one of their kind, such as the Sun, Moon, Earth.",
+    "frequency": 0,
+    "probability": 94,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 811,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: I bought ___ horse, ___ ox, and ___ buffalo. (UP B.Ed 2017)",
+    "options": {
+      "A": "a, an, a",
+      "B": "an, a, an",
+      "C": "a, a, a",
+      "D": "the, the, the"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Horse' starts with consonant /h/, 'ox' starts with vowel sound /ɒ/, and 'buffalo' starts with consonant /b/. Hence, 'a, an, a' is correct.",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 812,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: Wisdom is ___ gift of heaven.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "correctAnswer": "C",
+    "explanation": "When an abstract noun is qualified by a descriptive phrase (like 'of heaven'), it takes the definite article 'the'.",
+    "frequency": 0,
+    "probability": 87,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 813,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: He hopes to join ___ university soon.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "correctAnswer": "A",
+    "explanation": "'University' begins with the consonant sound /juː/, requiring the indefinite article 'a'.",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 814,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: The teacher was angry ___ his behavior. (UP B.Ed 2021)",
+    "options": {
+      "A": "with",
+      "B": "at",
+      "C": "on",
+      "D": "to"
+    },
+    "correctAnswer": "B",
+    "explanation": "We are angry 'with' a person, but angry 'at' someone's behavior, conduct, or a situation.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 815,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: He has been suffering ___ fever since yesterday. (UP B.Ed 2020)",
+    "options": {
+      "A": "from",
+      "B": "with",
+      "C": "by",
+      "D": "of"
+    },
+    "correctAnswer": "A",
+    "explanation": "The verb 'suffer' is followed by the preposition 'from' when denoting an illness or disease.",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 816,
+    "subject": "English Grammar",
+    "text": "Choose the correct preposition: She is proficient ___ English. (UP B.Ed 2019)",
+    "options": {
+      "A": "at",
+      "B": "in",
+      "C": "with",
+      "D": "on"
+    },
+    "correctAnswer": "B",
+    "explanation": "The adjective 'proficient' takes the preposition 'in' when expressing competence in a subject, language, or skill.",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 817,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: The old man died ___ cholera. (UP B.Ed 2022)",
+    "options": {
+      "A": "from",
+      "B": "by",
+      "C": "of",
+      "D": "with"
+    },
+    "correctAnswer": "C",
+    "explanation": "'Die of' is used when a person dies directly of a disease, hunger, thirst, or old age.",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 818,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: Please abstain ___ evil habits. (UP B.Ed 2023)",
+    "options": {
+      "A": "to",
+      "B": "from",
+      "C": "with",
+      "D": "in"
+    },
+    "correctAnswer": "B",
+    "explanation": "The verb 'abstain' is always followed by the preposition 'from' (abstain from voting, smoking, evil habits, etc.).",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 819,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: He is fond ___ music.",
+    "options": {
+      "A": "to",
+      "B": "of",
+      "C": "for",
+      "D": "with"
+    },
+    "correctAnswer": "B",
+    "explanation": "The adjective 'fond' takes the fixed preposition 'of' to mean having a liking for something.",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 820,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: The dog ran ___ the road. (UP B.Ed 2018)",
+    "options": {
+      "A": "across",
+      "B": "through",
+      "C": "by",
+      "D": "in"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Across' means from one side to the other, which fits the movement of running from one side of the road to another.",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 821,
+    "subject": "English Grammar",
+    "text": "Choose the correct preposition: We must adapt ourselves ___ changing circumstances.",
+    "options": {
+      "A": "to",
+      "B": "with",
+      "C": "in",
+      "D": "for"
+    },
+    "correctAnswer": "A",
+    "explanation": "The reflexive verb 'adapt (oneself)' takes the preposition 'to' when adjusting to new environments or situations.",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 822,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: He was accused ___ theft.",
+    "options": {
+      "A": "of",
+      "B": "for",
+      "C": "with",
+      "D": "by"
+    },
+    "correctAnswer": "A",
+    "explanation": "The verb 'accuse' is followed by 'of' to denote the crime or charge (accused of murder/theft).",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 823,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: I am senior ___ him by two years.",
+    "options": {
+      "A": "than",
+      "B": "to",
+      "C": "from",
+      "D": "over"
+    },
+    "correctAnswer": "B",
+    "explanation": "Latin comparative adjectives ending in '-ior' (senior, junior, superior, inferior, prior) are followed by 'to' instead of 'than'.",
+    "frequency": 0,
+    "probability": 94,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 824,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: Do not interfere ___ my private affairs. (UP B.Ed 2017)",
+    "options": {
+      "A": "in",
+      "B": "with",
+      "C": "into",
+      "D": "at"
+    },
+    "correctAnswer": "A",
+    "explanation": "We say 'interfere in' (a matter/affair) when involving ourselves in something without invitation, and 'interfere with' when obstructing something.",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 825,
+    "subject": "English Grammar",
+    "text": "Choose the correct preposition: The plane flew ___ the clouds.",
+    "options": {
+      "A": "above",
+      "B": "over",
+      "C": "on",
+      "D": "up"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Above' is used when something is at a higher level than another thing, which fits flying higher than a layer of clouds.",
+    "frequency": 0,
+    "probability": 86,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 826,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: She has been waiting for you ___ three hours.",
+    "options": {
+      "A": "since",
+      "B": "for",
+      "C": "from",
+      "D": "during"
+    },
+    "correctAnswer": "B",
+    "explanation": "'For' is used to show a duration of time (three hours), whereas 'since' denotes a specific starting point in the past.",
+    "frequency": 0,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 827,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: Divide the apples ___ the two brothers.",
+    "options": {
+      "A": "between",
+      "B": "among",
+      "C": "with",
+      "D": "to"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Between' is used for sharing or distributing between two people or things, while 'among' is used for more than two.",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 828,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: The hunter aimed ___ the bird. (UP B.Ed 2024)",
+    "options": {
+      "A": "at",
+      "B": "on",
+      "C": "to",
+      "D": "against"
+    },
+    "correctAnswer": "A",
+    "explanation": "The verb 'aim' takes the preposition 'at' to point towards a target.",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2024",
+    "isReal": true
+  },
+  {
+    "id": 829,
+    "subject": "English Grammar",
+    "text": "Choose the correct verb form: She ___ in Delhi for ten years before moving to Mumbai.",
+    "options": {
+      "A": "lived",
+      "B": "has lived",
+      "C": "had lived",
+      "D": "lives"
+    },
+    "correctAnswer": "C",
+    "explanation": "The Past Perfect tense ('had lived') is used to describe an action that was completed before another action in the past (moving to Mumbai).",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 830,
+    "subject": "English Grammar",
+    "text": "Fill in the blank with the correct tense: If you ___ hard, you will pass the exam. (UP B.Ed 2022)",
+    "options": {
+      "A": "work",
+      "B": "worked",
+      "C": "will work",
+      "D": "had worked"
+    },
+    "correctAnswer": "A",
+    "explanation": "In the first conditional (possible future condition), the conditional clause uses Simple Present ('work'), and the main clause uses Simple Future.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 831,
+    "subject": "English Grammar",
+    "text": "Choose the correct form of verb: Water ___ at 100 degrees Celsius. (UP B.Ed 2018)",
+    "options": {
+      "A": "boil",
+      "B": "boils",
+      "C": "boiled",
+      "D": "is boiling"
+    },
+    "correctAnswer": "B",
+    "explanation": "Scientific facts, general truths, and habits are always expressed in the Simple Present tense ('boils' for singular 'Water').",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 832,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: When I reached the station, the train ___.",
+    "options": {
+      "A": "left",
+      "B": "had left",
+      "C": "was leaving",
+      "D": "has left"
+    },
+    "correctAnswer": "B",
+    "explanation": "When two past actions are related, the one that happened first is in the Past Perfect ('had left') and the second is in Simple Past ('reached').",
+    "frequency": 0,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 833,
+    "subject": "English Grammar",
+    "text": "Identify the tense of the given sentence: 'They have been playing since morning.' (UP B.Ed 2020)",
+    "options": {
+      "A": "Present Continuous",
+      "B": "Present Perfect",
+      "C": "Present Perfect Continuous",
+      "D": "Past Perfect Continuous"
+    },
+    "correctAnswer": "C",
+    "explanation": "The structure 'have/has + been + verb-ing' represents the Present Perfect Continuous tense, describing an action that started in the past and is still ongoing.",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 834,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: I ___ him since we graduated.",
+    "options": {
+      "A": "did not see",
+      "B": "haven't seen",
+      "C": "hadn't seen",
+      "D": "am not seeing"
+    },
+    "correctAnswer": "B",
+    "explanation": "The word 'since' indicates a period of time from the past up to the present. The Present Perfect tense ('haven't seen') is required here.",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 835,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: We ___ a movie when the power went out.",
+    "options": {
+      "A": "watched",
+      "B": "were watching",
+      "C": "had watched",
+      "D": "watch"
+    },
+    "correctAnswer": "B",
+    "explanation": "An ongoing action in the past is interrupted by another action (Simple Past). The ongoing action should be in Past Continuous ('were watching').",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 836,
+    "subject": "English Grammar",
+    "text": "Choose the correct verb form: By this time next year, I ___ my degree. (UP B.Ed 2021)",
+    "options": {
+      "A": "will complete",
+      "B": "will have completed",
+      "C": "shall complete",
+      "D": "am completing"
+    },
+    "correctAnswer": "B",
+    "explanation": "The phrase 'By this time next year' implies a deadline in the future, which requires the Future Perfect tense ('will have completed').",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 837,
+    "subject": "English Grammar",
+    "text": "Choose the correct option: She usually ___ tea, but today she is drinking coffee.",
+    "options": {
+      "A": "drink",
+      "B": "drinks",
+      "C": "drank",
+      "D": "is drinking"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Usually' signals a habitual action, which requires the Simple Present tense ('drinks' for third-person singular 'She').",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 838,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: My mother ___ the dinner before my father arrived.",
+    "options": {
+      "A": "had cooked",
+      "B": "cooked",
+      "C": "has cooked",
+      "D": "was cooking"
+    },
+    "correctAnswer": "A",
+    "explanation": "The action of cooking occurred before the father's arrival in the past. Therefore, the first action must be in Past Perfect ('had cooked').",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 839,
+    "subject": "English Grammar",
+    "text": "Choose the correct sentence: (UP B.Ed 2019)",
+    "options": {
+      "A": "He is having many friends.",
+      "B": "He has many friends.",
+      "C": "He has had many friends.",
+      "D": "He having many friends."
+    },
+    "correctAnswer": "B",
+    "explanation": "Verbs of possession like 'have' are stative and cannot be used in continuous tenses. 'He has many friends' is correct.",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 840,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: I wish I ___ a king. (UP B.Ed 2023)",
+    "options": {
+      "A": "was",
+      "B": "were",
+      "C": "am",
+      "D": "would be"
+    },
+    "correctAnswer": "B",
+    "explanation": "In hypothetical wishes and imaginary/subjunctive structures, 'were' is used for all subject pronouns (I, he, she, they).",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 841,
+    "subject": "English Grammar",
+    "text": "Choose the correct verb form: They ___ to the zoo last Sunday.",
+    "options": {
+      "A": "go",
+      "B": "gone",
+      "C": "went",
+      "D": "were going"
+    },
+    "correctAnswer": "C",
+    "explanation": "'Last Sunday' is a past time indicator. The Simple Past tense ('went') is used for actions completed at a specific past time.",
+    "frequency": 0,
+    "probability": 86,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 842,
+    "subject": "English Grammar",
+    "text": "Choose the correct verb form: It ___ since last night. (UP B.Ed 2017)",
+    "options": {
+      "A": "rains",
+      "B": "is raining",
+      "C": "has been raining",
+      "D": "was raining"
+    },
+    "correctAnswer": "C",
+    "explanation": "Since the action started in the past (last night) and is still continuing, and a duration/point of time is mentioned ('since'), we use Present Perfect Continuous.",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 843,
+    "subject": "English Grammar",
+    "text": "Choose the correct option: I ___ my homework yet.",
+    "options": {
+      "A": "did not finish",
+      "B": "have not finished",
+      "C": "had not finished",
+      "D": "do not finish"
+    },
+    "correctAnswer": "B",
+    "explanation": "The adverb 'yet' is commonly used with negative sentences in the Present Perfect tense ('have not finished').",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 844,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: If I had known you were coming, I ___ you at the airport. (UP B.Ed 2022)",
+    "options": {
+      "A": "would meet",
+      "B": "would have met",
+      "C": "will meet",
+      "D": "had met"
+    },
+    "correctAnswer": "B",
+    "explanation": "This is a Third Conditional sentence representing an imaginary past condition. Structure: If + Past Perfect, would have + Past Participle.",
+    "frequency": 3,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 845,
+    "subject": "English Grammar",
+    "text": "Complete the sentence: If it rains, the match ___ called off. (UP B.Ed 2020)",
+    "options": {
+      "A": "would be",
+      "B": "will be",
+      "C": "would have been",
+      "D": "was"
+    },
+    "correctAnswer": "B",
+    "explanation": "This is a First Conditional sentence representing a real future possibility. Structure: If + Simple Present, Simple Future ('will be').",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 846,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: If I ___ you, I would accept the offer.",
+    "options": {
+      "A": "am",
+      "B": "was",
+      "C": "were",
+      "D": "be"
+    },
+    "correctAnswer": "C",
+    "explanation": "This is a Second Conditional sentence representing an imaginary present/future condition. Subjunctive 'were' is used in the 'if' clause.",
+    "frequency": 0,
+    "probability": 94,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 847,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: If she had studied harder, she ___ the test.",
+    "options": {
+      "A": "would pass",
+      "B": "would have passed",
+      "C": "will pass",
+      "D": "passed"
+    },
+    "correctAnswer": "B",
+    "explanation": "Third Conditional sentence structure requires 'would have + past participle' in the main clause because the 'if' clause is in the past perfect tense.",
+    "frequency": 0,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 848,
+    "subject": "English Grammar",
+    "text": "Complete the conditional sentence: If you heat ice, it ___.",
+    "options": {
+      "A": "melts",
+      "B": "will melt",
+      "C": "would melt",
+      "D": "melted"
+    },
+    "correctAnswer": "A",
+    "explanation": "This is a Zero Conditional sentence representing a general truth or physical law. Both clauses use Simple Present tense.",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 849,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: Unless you ___ harder, you will not succeed.",
+    "options": {
+      "A": "will work",
+      "B": "work",
+      "C": "worked",
+      "D": "would work"
+    },
+    "correctAnswer": "B",
+    "explanation": "The conditional clause with 'unless' takes Simple Present ('work') to refer to a future condition. Simple Future is not used inside conditional clauses.",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 850,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: If he ___ earlier, he would have caught the bus. (UP B.Ed 2019)",
+    "options": {
+      "A": "comes",
+      "B": "came",
+      "C": "had come",
+      "D": "has come"
+    },
+    "correctAnswer": "C",
+    "explanation": "The main clause has 'would have caught' (Third Conditional), which dictates that the 'if' clause must have Past Perfect tense ('had come').",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  }
+]

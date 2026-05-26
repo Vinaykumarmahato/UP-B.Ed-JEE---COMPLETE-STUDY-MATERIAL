@@ -1,0 +1,852 @@
+[
+  {
+    "id": 851,
+    "subject": "English Grammar",
+    "text": "Choose the correct sentence structure: If I won the lottery, I ___ buy a new house.",
+    "options": {
+      "A": "will",
+      "B": "would",
+      "C": "would have",
+      "D": "can"
+    },
+    "correctAnswer": "B",
+    "explanation": "Second Conditional sentence represents a hypothetical condition. Structure: If + Simple Past ('won'), would + base verb.",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 852,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: Had I known the truth, I ___ differently. (UP B.Ed 2021)",
+    "options": {
+      "A": "would act",
+      "B": "would have acted",
+      "C": "will act",
+      "D": "acted"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Had I known' is an inverted Third Conditional clause. It requires 'would have + past participle' in the main clause.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 853,
+    "subject": "English Grammar",
+    "text": "Complete the sentence: If you don't hurry, we ___ miss the train.",
+    "options": {
+      "A": "would",
+      "B": "will",
+      "C": "might have",
+      "D": "would have"
+    },
+    "correctAnswer": "B",
+    "explanation": "First Conditional: real future possibility. If + Simple Present ('don't hurry'), Simple Future ('will miss').",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 854,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: If the water reaches 100 degrees, it ___.",
+    "options": {
+      "A": "boils",
+      "B": "will boil",
+      "C": "boiled",
+      "D": "would boil"
+    },
+    "correctAnswer": "A",
+    "explanation": "Zero Conditional represents scientific fact. Both parts of the sentence take the Simple Present tense.",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 855,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: If they had invited me, I ___ the party. (UP B.Ed 2023)",
+    "options": {
+      "A": "would attend",
+      "B": "would have attended",
+      "C": "will attend",
+      "D": "attended"
+    },
+    "correctAnswer": "B",
+    "explanation": "This is a third conditional sentence. If + Past Perfect ('had invited'), would have + Past Participle ('would have attended').",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 856,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: If he ___ here, he would solve this problem.",
+    "options": {
+      "A": "is",
+      "B": "was",
+      "C": "were",
+      "D": "are"
+    },
+    "correctAnswer": "C",
+    "explanation": "Second Conditional: hypothetical situation. Subjunctive 'were' is used in the conditional clause for singular subjects too.",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 857,
+    "subject": "English Grammar",
+    "text": "Complete the sentence: I would help you if I ___ money.",
+    "options": {
+      "A": "have",
+      "B": "had",
+      "C": "had had",
+      "D": "will have"
+    },
+    "correctAnswer": "B",
+    "explanation": "Second Conditional: structure is 'would + verb' in main clause, Simple Past ('had') in the 'if' clause.",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 858,
+    "subject": "English Grammar",
+    "text": "Choose the correct passive voice: 'The boy killed the snake.' (UP B.Ed 2021)",
+    "options": {
+      "A": "The snake is killed by the boy.",
+      "B": "The snake was killed by the boy.",
+      "C": "The snake was kill by the boy.",
+      "D": "The snake had killed by the boy."
+    },
+    "correctAnswer": "B",
+    "explanation": "The active sentence is in Simple Past. The passive structure is: object ('The snake') + was/were + past participle ('killed') + by + subject.",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 859,
+    "subject": "English Grammar",
+    "text": "Choose the correct passive voice: 'She is writing a letter.' (UP B.Ed 2022)",
+    "options": {
+      "A": "A letter is written by her.",
+      "B": "A letter is being written by her.",
+      "C": "A letter was written by her.",
+      "D": "A letter was being written by her."
+    },
+    "correctAnswer": "B",
+    "explanation": "The active sentence is in Present Continuous. Passive structure: object + is/am/are + being + past participle ('is being written').",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 860,
+    "subject": "English Grammar",
+    "text": "Choose the correct active voice of: 'The gate was opened by the watchman.' (UP B.Ed 2019)",
+    "options": {
+      "A": "The watchman opens the gate.",
+      "B": "The watchman opened the gate.",
+      "C": "The watchman is opening the gate.",
+      "D": "The watchman has opened the gate."
+    },
+    "correctAnswer": "B",
+    "explanation": "Passive voice 'was opened' (Simple Past) changes to active voice in Simple Past 'opened'.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 861,
+    "subject": "English Grammar",
+    "text": "Choose the correct passive voice: 'Who wrote this book?' (UP B.Ed 2020)",
+    "options": {
+      "A": "By whom this book was written?",
+      "B": "By whom was this book written?",
+      "C": "Who was written this book by?",
+      "D": "By who was this book written?"
+    },
+    "correctAnswer": "B",
+    "explanation": "Interrogative sentences starting with 'Who' change to passive with 'By whom' followed by verb-subject inversion ('was this book written?').",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 862,
+    "subject": "English Grammar",
+    "text": "Choose the correct passive voice: 'Close the door.' (UP B.Ed 2018)",
+    "options": {
+      "A": "Let the door be closed.",
+      "B": "The door should close.",
+      "C": "You are asked to close door.",
+      "D": "Let door close."
+    },
+    "correctAnswer": "A",
+    "explanation": "Imperative sentences representing orders/requests are converted to passive using the formula: Let + subject + be + past participle.",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 863,
+    "subject": "English Grammar",
+    "text": "Choose the correct passive voice: 'They have built a new house.'",
+    "options": {
+      "A": "A new house was built by them.",
+      "B": "A new house has been built by them.",
+      "C": "A new house is built by them.",
+      "D": "A new house had been built by them."
+    },
+    "correctAnswer": "B",
+    "explanation": "Present Perfect active ('have built') is converted to passive using 'has/have been + past participle' ('has been built').",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 864,
+    "subject": "English Grammar",
+    "text": "Choose the correct passive voice: 'People speak English all over the world.'",
+    "options": {
+      "A": "English was spoken all over the world.",
+      "B": "English is spoken all over the world.",
+      "C": "English is being spoken all over the world.",
+      "D": "English has been spoken all over the world."
+    },
+    "correctAnswer": "B",
+    "explanation": "Simple Present active ('speak') is converted to passive using 'is/am/are + past participle' ('is spoken'). The vague agent 'by people' is omitted.",
+    "frequency": 0,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 865,
+    "subject": "English Grammar",
+    "text": "Choose the correct passive voice: 'He will finish the work tomorrow.'",
+    "options": {
+      "A": "The work will be finished by him tomorrow.",
+      "B": "The work would be finished by him tomorrow.",
+      "C": "The work will have been finished by him tomorrow.",
+      "D": "The work is finished by him tomorrow."
+    },
+    "correctAnswer": "A",
+    "explanation": "Simple Future active ('will finish') changes to passive using 'will be + past participle' ('will be finished').",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 866,
+    "subject": "English Grammar",
+    "text": "Choose the correct active voice of: 'Our team was defeated by the rivals.'",
+    "options": {
+      "A": "The rivals defeat our team.",
+      "B": "The rivals defeated our team.",
+      "C": "The rivals were defeating our team.",
+      "D": "The rivals have defeated our team."
+    },
+    "correctAnswer": "B",
+    "explanation": "Simple Past passive ('was defeated') converts to active voice in Simple Past ('defeated').",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 867,
+    "subject": "English Grammar",
+    "text": "Choose the correct passive voice: 'Do they teach English here?' (UP B.Ed 2023)",
+    "options": {
+      "A": "Is English taught here by them?",
+      "B": "Was English taught here by them?",
+      "C": "Is English being taught here?",
+      "D": "Has English been taught here?"
+    },
+    "correctAnswer": "A",
+    "explanation": "Simple Present interrogative ('Do they teach') becomes 'Is + subject + past participle' ('Is English taught').",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 868,
+    "subject": "English Grammar",
+    "text": "Choose the correct passive voice: 'Post this letter.'",
+    "options": {
+      "A": "Let this letter post.",
+      "B": "Let this letter be posted.",
+      "C": "This letter must be posted.",
+      "D": "You should post this letter."
+    },
+    "correctAnswer": "B",
+    "explanation": "Imperative sentences in the active voice change to passive using the format: Let + subject + be + past participle.",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 869,
+    "subject": "English Grammar",
+    "text": "Choose the correct passive voice: 'Someone has stolen my pen.' (UP B.Ed 2017)",
+    "options": {
+      "A": "My pen was stolen.",
+      "B": "My pen has been stolen.",
+      "C": "My pen had been stolen.",
+      "D": "My pen is stolen."
+    },
+    "correctAnswer": "B",
+    "explanation": "Present Perfect active ('has stolen') changes to passive using 'has/have been + past participle' ('has been stolen'). Indefinite pronouns like 'someone' are omitted.",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 870,
+    "subject": "English Grammar",
+    "text": "Choose the correct passive voice: 'We are observing the situation.'",
+    "options": {
+      "A": "The situation was observed by us.",
+      "B": "The situation is being observed by us.",
+      "C": "The situation has been observed by us.",
+      "D": "The situation is observed by us."
+    },
+    "correctAnswer": "B",
+    "explanation": "Present Continuous active ('are observing') changes to passive using 'is/am/are + being + past participle' ('is being observed').",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 871,
+    "subject": "English Grammar",
+    "text": "Choose the correct active voice: 'The window has been broken by John.'",
+    "options": {
+      "A": "John broke the window.",
+      "B": "John has broken the window.",
+      "C": "John had broken the window.",
+      "D": "John breaks the window."
+    },
+    "correctAnswer": "B",
+    "explanation": "Present Perfect passive ('has been broken') reverts to Present Perfect active ('has broken').",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 872,
+    "subject": "English Grammar",
+    "text": "Choose the correct passive voice: 'Please help me.' (UP B.Ed 2024)",
+    "options": {
+      "A": "Let me be helped.",
+      "B": "You are requested to help me.",
+      "C": "I should be helped.",
+      "D": "You are ordered to help me."
+    },
+    "correctAnswer": "B",
+    "explanation": "Imperative sentences requesting something (usually containing 'Please') are changed to passive using 'You are requested to + base verb'.",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2024",
+    "isReal": true
+  },
+  {
+    "id": 873,
+    "subject": "English Grammar",
+    "text": "Choose the correct indirect speech: He said, 'I am unwell.' (UP B.Ed 2021)",
+    "options": {
+      "A": "He said that he was unwell.",
+      "B": "He said that he is unwell.",
+      "C": "He told that he was unwell.",
+      "D": "He said that I was unwell."
+    },
+    "correctAnswer": "A",
+    "explanation": "The reporting verb 'said' remains 'said' (not 'told' because there is no direct object). The pronoun 'I' changes to 'he', and 'am' (Present) changes to 'was' (Past).",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 874,
+    "subject": "English Grammar",
+    "text": "Choose the correct indirect speech: The teacher said to the students, 'The sun rises in the east.' (UP B.Ed 2022)",
+    "options": {
+      "A": "The teacher told the students that the sun rose in the east.",
+      "B": "The teacher told the students that the sun rises in the east.",
+      "C": "The teacher said to the students that the sun rises in the east.",
+      "D": "The teacher asked the students that the sun rises in the east."
+    },
+    "correctAnswer": "B",
+    "explanation": "When direct speech contains a universal truth or scientific fact, the tense of the verb does not change in indirect speech. 'said to' changes to 'told'.",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 875,
+    "subject": "English Grammar",
+    "text": "Choose the correct indirect speech: She said, 'What a beautiful scene!' (UP B.Ed 2019)",
+    "options": {
+      "A": "She exclaimed with joy that it was a very beautiful scene.",
+      "B": "She said that it was a beautiful scene.",
+      "C": "She exclaimed that what a beautiful scene it was.",
+      "D": "She wondered at the beautiful scene."
+    },
+    "correctAnswer": "A",
+    "explanation": "Exclamatory sentences are changed to indirect speech using 'exclaimed with joy/grief/wonder'. The sentence becomes assertive, and the exclamation mark is removed.",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 876,
+    "subject": "English Grammar",
+    "text": "Choose the correct indirect speech: He said to me, 'Where are you going?' (UP B.Ed 2020)",
+    "options": {
+      "A": "He asked me where I was going.",
+      "B": "He asked me where was I going.",
+      "C": "He told me where I was going.",
+      "D": "He inquired of me where I am going."
+    },
+    "correctAnswer": "A",
+    "explanation": "In indirect speech, interrogatives use 'asked' as the reporting verb, and the sentence word order changes from question (verb-subject) to statement (subject-verb).",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 877,
+    "subject": "English Grammar",
+    "text": "Choose the correct indirect speech: Ram said, 'I have finished my homework.' (UP B.Ed 2018)",
+    "options": {
+      "A": "Ram said that he finished his homework.",
+      "B": "Ram said that he has finished his homework.",
+      "C": "Ram said that he had finished his homework.",
+      "D": "Ram told that he had finished his homework."
+    },
+    "correctAnswer": "C",
+    "explanation": "The Present Perfect 'have finished' changes to Past Perfect 'had finished', and first person pronoun 'I' changes to third person 'he' to agree with the speaker.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 878,
+    "subject": "English Grammar",
+    "text": "Choose the correct indirect speech: She said to him, 'Please sit down.'",
+    "options": {
+      "A": "She told him to please sit down.",
+      "B": "She requested him to sit down.",
+      "C": "She ordered him to sit down.",
+      "D": "She asked him to please sit down."
+    },
+    "correctAnswer": "B",
+    "explanation": "Requests in direct speech are changed in indirect speech by using the reporting verb 'requested' and putting the verb in the infinitive form ('to sit down').",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 879,
+    "subject": "English Grammar",
+    "text": "Choose the correct indirect speech: The doctor said, 'Take this medicine twice a day.'",
+    "options": {
+      "A": "The doctor advised me to take that medicine twice a day.",
+      "B": "The doctor told me to take this medicine twice a day.",
+      "C": "The doctor ordered me to take that medicine twice a day.",
+      "D": "The doctor said that take this medicine twice a day."
+    },
+    "correctAnswer": "A",
+    "explanation": "Imperative sentences containing advice change by using the reporting verb 'advised' followed by an infinitive. 'this' changes to 'that'.",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 880,
+    "subject": "English Grammar",
+    "text": "Choose the correct indirect speech: He said, 'I went to London yesterday.'",
+    "options": {
+      "A": "He said that he went to London the day before.",
+      "B": "He said that he had gone to London the previous day.",
+      "C": "He said that he has gone to London yesterday.",
+      "D": "He told that he went to London the previous day."
+    },
+    "correctAnswer": "B",
+    "explanation": "Simple Past 'went' changes to Past Perfect 'had gone'. The time expression 'yesterday' is converted to 'the previous day' or 'the day before'.",
+    "frequency": 0,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 881,
+    "subject": "English Grammar",
+    "text": "Choose the correct indirect speech: She says, 'I am writing a letter.'",
+    "options": {
+      "A": "She says that she was writing a letter.",
+      "B": "She says that she is writing a letter.",
+      "C": "She said that she is writing a letter.",
+      "D": "She says that I am writing a letter."
+    },
+    "correctAnswer": "B",
+    "explanation": "If the reporting verb is in the present tense ('says'), the tense of the verb in the reported speech does not change (remains 'is writing'). Only pronouns change.",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 882,
+    "subject": "English Grammar",
+    "text": "Choose the correct indirect speech: He said, 'Will you help me?' (UP B.Ed 2023)",
+    "options": {
+      "A": "He asked if I would help him.",
+      "B": "He asked that if I would help him.",
+      "C": "He inquired if I will help him.",
+      "D": "He told if I would help him."
+    },
+    "correctAnswer": "A",
+    "explanation": "For yes/no questions, the conjunction 'if' or 'whether' is used. The modal 'will' changes to 'would', and 'said' becomes 'asked'.",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 883,
+    "subject": "English Grammar",
+    "text": "Choose the correct indirect speech: He said, 'Alas! I am ruined.' (UP B.Ed 2017)",
+    "options": {
+      "A": "He exclaimed with sorrow that he was ruined.",
+      "B": "He said sadly that I am ruined.",
+      "C": "He exclaimed with grief that he is ruined.",
+      "D": "He told that he was ruined."
+    },
+    "correctAnswer": "A",
+    "explanation": "The word 'Alas!' signifies sorrow, so the reporting verb is changed to 'exclaimed with sorrow'. The simple present 'am' changes to simple past 'was'.",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 884,
+    "subject": "English Grammar",
+    "text": "Choose the correct indirect speech: My friend said to me, 'Can you lend me your car?'",
+    "options": {
+      "A": "My friend asked me if I could lend him my car.",
+      "B": "My friend asked me that if I could lend him my car.",
+      "C": "My friend told me if I could lend him his car.",
+      "D": "My friend requested me to lend him my car."
+    },
+    "correctAnswer": "A",
+    "explanation": "Interrogative sentence starting with modal verb: 'said to' changes to 'asked', linking word is 'if', 'can' changes to 'could', and pronouns shift.",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 885,
+    "subject": "English Grammar",
+    "text": "Choose the correct indirect speech: She said, 'Honesty is the best policy.'",
+    "options": {
+      "A": "She said that honesty was the best policy.",
+      "B": "She said that honesty is the best policy.",
+      "C": "She told that honesty is the best policy.",
+      "D": "She exclaimed that honesty is the best policy."
+    },
+    "correctAnswer": "B",
+    "explanation": "'Honesty is the best policy' is a proverb. Proverbs, general truths, and habitual facts do not undergo a change in tense in indirect speech.",
+    "frequency": 0,
+    "probability": 94,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 886,
+    "subject": "English Grammar",
+    "text": "Choose the correct indirect speech: 'Call the first witness,' said the judge.",
+    "options": {
+      "A": "The judge commanded to call the first witness.",
+      "B": "The judge ordered them to call the first witness.",
+      "C": "The judge said that call the first witness.",
+      "D": "The judge urged to call the first witness."
+    },
+    "correctAnswer": "B",
+    "explanation": "Commanding or ordering sentences use the reporting verb 'ordered' or 'commanded' followed by an object and an infinitive ('to call the first witness').",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 887,
+    "subject": "English Grammar",
+    "text": "Choose the correct indirect speech: He said, 'I shall go there tomorrow.' (UP B.Ed 2024)",
+    "options": {
+      "A": "He said that he should go there tomorrow.",
+      "B": "He said that he would go there the next day.",
+      "C": "He said that he would go there tomorrow.",
+      "D": "He told that he would go there the next day."
+    },
+    "correctAnswer": "B",
+    "explanation": "'I shall' changes to 'he would' in indirect speech because the pronoun shifts to third person singular. 'tomorrow' changes to 'the next day'.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2024",
+    "isReal": true
+  },
+  {
+    "id": 888,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: Neither he nor his friends ___ arrived. (UP B.Ed 2021)",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "is",
+      "D": "was"
+    },
+    "correctAnswer": "B",
+    "explanation": "When subjects are joined by 'neither... nor' or 'either... or', the verb agrees in number with the nearest subject ('his friends' is plural, so we use 'have').",
+    "frequency": 3,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 889,
+    "subject": "English Grammar",
+    "text": "Choose the correct option: The quality of these mangoes ___ not good. (UP B.Ed 2022)",
+    "options": {
+      "A": "are",
+      "B": "were",
+      "C": "is",
+      "D": "have"
+    },
+    "correctAnswer": "C",
+    "explanation": "The true subject of the sentence is the singular noun 'The quality', not the plural 'mangoes'. Hence, a singular verb ('is') is correct.",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 890,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: Bread and butter ___ my favorite breakfast. (UP B.Ed 2019)",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "were",
+      "D": "have been"
+    },
+    "correctAnswer": "B",
+    "explanation": "When two singular nouns are joined by 'and' but express a single, collective idea or food item (bread and butter as a meal), they take a singular verb ('is').",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 891,
+    "subject": "English Grammar",
+    "text": "Choose the correct verb form: Many a student ___ made the same mistake.",
+    "options": {
+      "A": "have",
+      "B": "has",
+      "C": "are",
+      "D": "were"
+    },
+    "correctAnswer": "B",
+    "explanation": "The expression 'Many a' is always followed by a singular noun ('student') and a singular verb ('has').",
+    "frequency": 0,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 892,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: Each of the candidates ___ been interviewed. (UP B.Ed 2020)",
+    "options": {
+      "A": "have",
+      "B": "has",
+      "C": "were",
+      "D": "are"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Each of' is followed by a plural noun but takes a singular verb because the distributives 'each', 'every', 'neither', 'either' are grammatically singular.",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 893,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: Time and tide ___ for no man. (UP B.Ed 2018)",
+    "options": {
+      "A": "wait",
+      "B": "waits",
+      "C": "waiting",
+      "D": "has waited"
+    },
+    "correctAnswer": "A",
+    "explanation": "In this proverbial saying, 'Time and tide' are treated as two separate concepts joined by 'and', requiring the plural verb 'wait'.",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 894,
+    "subject": "English Grammar",
+    "text": "Choose the correct verb: Two-thirds of the book ___ been read.",
+    "options": {
+      "A": "have",
+      "B": "has",
+      "C": "are",
+      "D": "were"
+    },
+    "correctAnswer": "B",
+    "explanation": "For fractional expressions, the verb agrees with the noun that follows 'of'. Since 'the book' is singular, the verb is singular ('has').",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 895,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: The Prime Minister, along with his cabinet colleagues, ___ arrived. (UP B.Ed 2023)",
+    "options": {
+      "A": "have",
+      "B": "has",
+      "C": "are",
+      "D": "were"
+    },
+    "correctAnswer": "B",
+    "explanation": "Words joined to a singular subject by parenthetical expressions like 'along with', 'as well as', 'together with' do not change the number of the subject. Verb remains singular ('has').",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 896,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: Mathematics ___ a difficult subject for many.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "were",
+      "D": "have been"
+    },
+    "correctAnswer": "A",
+    "explanation": "Subjects of study ending in '-ics' (Mathematics, Physics, Economics) are singular in form and usage, so they take a singular verb ('is').",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 897,
+    "subject": "English Grammar",
+    "text": "Choose the correct verb form: A number of students ___ absent today.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "has been"
+    },
+    "correctAnswer": "B",
+    "explanation": "The expression 'A number of' takes a plural verb ('are'), whereas 'The number of' denotes a singular unit and takes a singular verb.",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 898,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: The committee ___ submitted its report. (UP B.Ed 2017)",
+    "options": {
+      "A": "have",
+      "B": "has",
+      "C": "are",
+      "D": "were"
+    },
+    "correctAnswer": "B",
+    "explanation": "Collective nouns (committee, jury, board) take singular verbs when they act as a single undivided unit, indicated by the singular pronoun 'its'.",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 899,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: The jury ___ divided in their opinions.",
+    "options": {
+      "A": "was",
+      "B": "were",
+      "C": "is",
+      "D": "has been"
+    },
+    "correctAnswer": "B",
+    "explanation": "When members of a collective noun act as individuals with differing actions or opinions (indicated by 'their opinions'), it takes a plural verb ('were').",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 900,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: Physics ___ my favorite subject.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "were",
+      "D": "have been"
+    },
+    "correctAnswer": "A",
+    "explanation": "Names of sciences and subjects ending in '-ics' are singular nouns and must be followed by a singular verb.",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  }
+]

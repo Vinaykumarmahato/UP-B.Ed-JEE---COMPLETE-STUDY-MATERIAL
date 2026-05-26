@@ -1,0 +1,852 @@
+[
+  {
+    "id": 1101,
+    "subject": "Reasoning",
+    "text": "किसी शताब्दी वर्ष का अंतिम दिन निम्नलिखित में से कौन सा नहीं हो सकता है?",
+    "options": {
+      "A": "मंगलवार",
+      "B": "सोमवार",
+      "C": "बुधवार",
+      "D": "शुक्रवार"
+    },
+    "correctAnswer": "A",
+    "explanation": "शताब्दी वर्ष के अंतिम दिन केवल शुक्रवार, बुधवार, सोमवार और रविवार हो सकते हैं। वे कभी भी मंगलवार, गुरुवार या शनिवार नहीं हो सकते।",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1102,
+    "subject": "Reasoning",
+    "text": "यदि 15 अगस्त 2015 को शनिवार था, तो 15 अगस्त 2016 को कौन सा दिन था?",
+    "options": {
+      "A": "सोमवार",
+      "B": "रविवार",
+      "C": "मंगलवार",
+      "D": "शनिवार"
+    },
+    "correctAnswer": "A",
+    "explanation": "15 अगस्त 2015 से 15 अगस्त 2016 के बीच वर्ष 2016 की फरवरी शामिल होती है जो 29 दिन की है। इसलिए 2 विषम दिन होंगे। शनिवार + 2 = सोमवार।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1103,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2017) यदि किसी महीने की 9 तारीख को रविवार है, तो उसी महीने की 27 तारीख को कौन सा दिन होगा?",
+    "options": {
+      "A": "गुरुवार",
+      "B": "बुधवार",
+      "C": "शुक्रवार",
+      "D": "मंगलवार"
+    },
+    "correctAnswer": "A",
+    "explanation": "दिनों का अंतर = 27 - 9 = 18 दिन = 2 सप्ताह + 4 विषम दिन। रविवार + 4 = गुरुवार। अतः 27 तारीख को गुरुवार होगा।",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 1104,
+    "subject": "Reasoning",
+    "text": "यदि 17 दिसंबर 1982 को शनिवार था, तो 17 दिसंबर 1984 को सप्ताह का कौन सा दिन था?",
+    "options": {
+      "A": "मंगलवार",
+      "B": "सोमवार",
+      "C": "बुधवार",
+      "D": "रविवार"
+    },
+    "correctAnswer": "A",
+    "explanation": "1983 साधारण वर्ष है (1 विषम दिन) और 1984 लीप वर्ष है (2 विषम दिन)। कुल विषम दिन = 3। शनिवार + 3 = मंगलवार।",
+    "frequency": 0,
+    "probability": 87,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1105,
+    "subject": "Reasoning",
+    "text": "महात्मा गांधी का जन्म 2 अक्टूबर 1869 को हुआ था। वह दिन सप्ताह का कौन सा दिन था?",
+    "options": {
+      "A": "शनिवार",
+      "B": "रविवार",
+      "C": "सोमवार",
+      "D": "शुक्रवार"
+    },
+    "correctAnswer": "A",
+    "explanation": "कैलेंडर गणना के अनुसार, 2 अक्टूबर 1869 को शनिवार था।",
+    "frequency": 0,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1106,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2021) दिए गए विकल्पों में से संबंधित शब्द चुनिए: भारत : नई दिल्ली :: उत्तर प्रदेश : ?",
+    "options": {
+      "A": "लखनऊ",
+      "B": "कानपुर",
+      "C": "प्रयागराज",
+      "D": "वाराणसी"
+    },
+    "correctAnswer": "A",
+    "explanation": "जिस प्रकार भारत की राजधानी नई दिल्ली है, उसी प्रकार उत्तर प्रदेश की राजधानी लखनऊ है।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 1107,
+    "subject": "Reasoning",
+    "text": "समानता के आधार पर लुप्त पद ज्ञात करें: थर्मामीटर : तापमान :: बैरोमीटर : ?",
+    "options": {
+      "A": "वायुमंडलीय दाब",
+      "B": "आर्द्रता",
+      "C": "भूकंप की तीव्रता",
+      "D": "हवा की गति"
+    },
+    "correctAnswer": "A",
+    "explanation": "जिस प्रकार थर्मामीटर का उपयोग तापमान मापने के लिए किया जाता है, उसी प्रकार बैरोमीटर का उपयोग वायुमंडलीय दाब मापने के लिए होता है।",
+    "frequency": 0,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1108,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2019) तैरना : नदी :: उड़ना : ?",
+    "options": {
+      "A": "हवा/आकाश",
+      "B": "पक्षी",
+      "C": "विमान",
+      "D": "पंख"
+    },
+    "correctAnswer": "A",
+    "explanation": "जिस प्रकार तैरने की क्रिया नदी में की जाती है, उसी प्रकार उड़ने की क्रिया हवा या आकाश में संपन्न होती है।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 1109,
+    "subject": "Reasoning",
+    "text": "पुस्तक : लेखक :: मूर्ति : ?",
+    "options": {
+      "A": "मूर्तिकार",
+      "B": "संगमरमर",
+      "C": "मंदिर",
+      "D": "राजमिस्त्री"
+    },
+    "correctAnswer": "A",
+    "explanation": "जिस प्रकार पुस्तक की रचना लेखक करता है, उसी प्रकार मूर्ति का निर्माण मूर्तिकार करता है।",
+    "frequency": 0,
+    "probability": 94,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1110,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2020) संख्या सादृश्यता को पूरा करें: 8 : 64 :: 9 : ?",
+    "options": {
+      "A": "81",
+      "B": "72",
+      "C": "90",
+      "D": "100"
+    },
+    "correctAnswer": "A",
+    "explanation": "यहाँ 8 का संबंध उसके वर्ग से है: 8^2 = 64। इसी प्रकार, 9 का संबंध उसके वर्ग से होगा: 9^2 = 81।",
+    "frequency": 3,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 1111,
+    "subject": "Reasoning",
+    "text": "5 : 125 :: 6 : ?",
+    "options": {
+      "A": "216",
+      "B": "36",
+      "C": "150",
+      "D": "250"
+    },
+    "correctAnswer": "A",
+    "explanation": "5^3 = 125। इसी प्रकार, 6 का घन 6^3 = 216 होगा।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1112,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2018) गाय : बछड़ा :: कुत्ता : ?",
+    "options": {
+      "A": "पिल्ला",
+      "B": "मेमना",
+      "C": "बछड़ा",
+      "D": "शावक"
+    },
+    "correctAnswer": "A",
+    "explanation": "गाय के बच्चे को बछड़ा कहते हैं, उसी प्रकार कुत्ते के बच्चे को पिल्ला कहते हैं।",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 1113,
+    "subject": "Reasoning",
+    "text": "डॉक्टर : अस्पताल :: शिक्षक : ?",
+    "options": {
+      "A": "विद्यालय (स्कूल)",
+      "B": "विद्यार्थी",
+      "C": "कक्षा",
+      "D": "ब्लैकबोर्ड"
+    },
+    "correctAnswer": "A",
+    "explanation": "डॉक्टर का कार्यस्थल अस्पताल है, उसी प्रकार शिक्षक का कार्यस्थल विद्यालय या स्कूल होता है।",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1114,
+    "subject": "Reasoning",
+    "text": "आँख : देखना :: कान : ?",
+    "options": {
+      "A": "सुनना",
+      "B": "ध्वनि",
+      "C": "संगीत",
+      "D": "बात करना"
+    },
+    "correctAnswer": "A",
+    "explanation": "आँख का मुख्य कार्य देखना है, उसी प्रकार कान का मुख्य कार्य सुनना है।",
+    "frequency": 0,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1115,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2017) A : Z :: B : ?",
+    "options": {
+      "A": "Y",
+      "B": "X",
+      "C": "W",
+      "D": "V"
+    },
+    "correctAnswer": "A",
+    "explanation": "वर्णमाला का पहला अक्षर A और अंतिम अक्षर Z विपरीत हैं। इसी प्रकार B का विपरीत Y होगा।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 1116,
+    "subject": "Reasoning",
+    "text": "अक्षर सादृश्यता पूरा करें: ABC : ZYX :: DEF : ?",
+    "options": {
+      "A": "WVU",
+      "B": "TUV",
+      "C": "VUT",
+      "D": "XWY"
+    },
+    "correctAnswer": "A",
+    "explanation": "विपरीत अक्षर क्रम: A-Z, B-Y, C-X। इसी प्रकार, D-W, E-V, F-U। अतः उत्तर WVU है।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1117,
+    "subject": "Reasoning",
+    "text": "कपड़ा : दर्जी :: लकड़ी : ?",
+    "options": {
+      "A": "बढ़ई (Carpenter)",
+      "B": "फर्नीचर",
+      "C": "कुल्हाड़ी",
+      "D": "पेड़"
+    },
+    "correctAnswer": "A",
+    "explanation": "दर्जी कपड़े को काटकर वस्त्र बनाता है, उसी प्रकार बढ़ई लकड़ी पर काम करके विभिन्न वस्तुएँ बनाता है।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1118,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2022) 12 : 144 :: 13 : ?",
+    "options": {
+      "A": "169",
+      "B": "156",
+      "C": "196",
+      "D": "180"
+    },
+    "correctAnswer": "A",
+    "explanation": "12 का वर्ग 144 है। उसी प्रकार, 13 का वर्ग 169 होगा।",
+    "frequency": 3,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 1119,
+    "subject": "Reasoning",
+    "text": "भारत : मोर :: संयुक्त राज्य अमेरिका (USA) : ?",
+    "options": {
+      "A": "गंजा ईगल (Bald Eagle)",
+      "B": "रॉबिन",
+      "C": "कबूतर",
+      "D": "बाज"
+    },
+    "correctAnswer": "A",
+    "explanation": "मोर भारत का राष्ट्रीय पक्षी है, उसी प्रकार गंजा ईगल (Bald Eagle) संयुक्त राज्य अमेरिका का राष्ट्रीय पक्षी है।",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1120,
+    "subject": "Reasoning",
+    "text": "हृदय : कार्डियोलॉजिस्ट (Cardiologist) :: मस्तिष्क : ?",
+    "options": {
+      "A": "न्यूरोलॉजिस्ट (Neurologist)",
+      "B": "नेफ्रोलॉजिस्ट",
+      "C": "डर्मेटोलॉजिस्ट",
+      "D": "ऑन्कोलॉजिस्ट"
+    },
+    "correctAnswer": "A",
+    "explanation": "हृदय के विकारों के विशेषज्ञ डॉक्टर को कार्डियोलॉजिस्ट कहते हैं। इसी प्रकार, मस्तिष्क के विशेषज्ञ डॉक्टर को न्यूरोलॉजिस्ट कहा जाता है।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1121,
+    "subject": "Reasoning",
+    "text": "संख्या सादृश्यता पूर्ण करें: 24 : 60 :: 120 : ?",
+    "options": {
+      "A": "300",
+      "B": "240",
+      "C": "180",
+      "D": "360"
+    },
+    "correctAnswer": "A",
+    "explanation": "संबंध इस प्रकार है: 24 * 2.5 = 60। इसी प्रकार, 120 * 2.5 = 300 होगा।",
+    "frequency": 0,
+    "probability": 87,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1122,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2020) स्याही : पेन :: रक्त : ?",
+    "options": {
+      "A": "शिरा (Vein)",
+      "B": "डॉक्टर",
+      "C": "अस्पताल",
+      "D": "लाल"
+    },
+    "correctAnswer": "A",
+    "explanation": "जिस प्रकार स्याही पेन के माध्यम से प्रवाहित होती है, उसी प्रकार रक्त मानव शरीर की शिराओं/धमनियों में प्रवाहित होता है।",
+    "frequency": 3,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 1123,
+    "subject": "Reasoning",
+    "text": "क्रिकेट : बैट :: हॉकी : ?",
+    "options": {
+      "A": "स्टिक (Stick)",
+      "B": "बॉल",
+      "C": "मैदान",
+      "D": "विकेट"
+    },
+    "correctAnswer": "A",
+    "explanation": "क्रिकेट खेलने के लिए मुख्य साधन बैट है, उसी प्रकार हॉकी खेलने के लिए मुख्य साधन हॉकी स्टिक होती है।",
+    "frequency": 0,
+    "probability": 94,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1124,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2021) निम्नलिखित चार विकल्पों में से विषम चुनिए: जनवरी, मार्च, जुलाई, सितम्बर",
+    "options": {
+      "A": "सितम्बर",
+      "B": "जनवरी",
+      "C": "मार्च",
+      "D": "जुलाई"
+    },
+    "correctAnswer": "A",
+    "explanation": "जनवरी, मार्च और जुलाई में 31 दिन होते हैं, जबकि सितम्बर में केवल 30 दिन होते हैं। अतः सितम्बर विषम है।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 1125,
+    "subject": "Reasoning",
+    "text": "दिए गए विकल्पों में से विषम शब्द का चयन करें: आलू, गाजर, मूली, टमाटर",
+    "options": {
+      "A": "टमाटर",
+      "B": "आलू",
+      "C": "गाजर",
+      "D": "मूली"
+    },
+    "correctAnswer": "A",
+    "explanation": "आलू, गाजर और मूली जमीन के नीचे उगते हैं (जड़ें हैं), जबकि टमाटर जमीन के ऊपर फल के रूप में उगता है।",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1126,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2019) विषम विकल्प चुनिए: तांबा, लोहा, एल्युमिनियम, कोयला",
+    "options": {
+      "A": "कोयला",
+      "B": "तांबा",
+      "C": "लोहा",
+      "D": "एल्युमिनियम"
+    },
+    "correctAnswer": "A",
+    "explanation": "तांबा, लोहा और एल्युमिनियम धातुएं हैं, जबकि कोयला एक अधातु है।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 1127,
+    "subject": "Reasoning",
+    "text": "निम्नलिखित में से विषम संख्या का चयन करें: 27, 64, 125, 144",
+    "options": {
+      "A": "144",
+      "B": "27",
+      "C": "64",
+      "D": "125"
+    },
+    "correctAnswer": "A",
+    "explanation": "27 (3^3), 64 (4^3) और 125 (5^3) पूर्ण घन संख्याएँ हैं, जबकि 144 (12^2) केवल एक पूर्ण वर्ग है। अतः 144 विषम है।",
+    "frequency": 0,
+    "probability": 94,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1128,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2020) विषम अंग का चयन कीजिए: आंख, कान, नाक, हाथ",
+    "options": {
+      "A": "हाथ",
+      "B": "आंख",
+      "C": "कान",
+      "D": "नाक"
+    },
+    "correctAnswer": "A",
+    "explanation": "आँख, कान और नाक ज्ञानेन्द्रियाँ हैं, जबकि हाथ एक कर्मेन्द्रिय है।",
+    "frequency": 3,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 1129,
+    "subject": "Reasoning",
+    "text": "विषम शहर का चयन करें: पटना, मुंबई, लखनऊ, कानपुर",
+    "options": {
+      "A": "कानपुर",
+      "B": "पटना",
+      "C": "मुंबई",
+      "D": "लखनऊ"
+    },
+    "correctAnswer": "A",
+    "explanation": "पटना, मुंबई और लखनऊ प्रांतीय राजधानियाँ हैं, जबकि कानपुर राजधानी नहीं है।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1130,
+    "subject": "Reasoning",
+    "text": "निम्नलिखित में से विषम संख्या ज्ञात कीजिए: 11, 13, 15, 17",
+    "options": {
+      "A": "15",
+      "B": "11",
+      "C": "13",
+      "D": "17"
+    },
+    "correctAnswer": "A",
+    "explanation": "11, 13 और 17 अभाज्य संख्याएँ हैं, जबकि 15 एक भाज्य संख्या है।",
+    "frequency": 0,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1131,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2018) विषम संगीत वाद्ययंत्र चुनिए: गिटार, सितार, वीणा, बांसुरी",
+    "options": {
+      "A": "बांसुरी",
+      "B": "गिटार",
+      "C": "सितार",
+      "D": "वीणा"
+    },
+    "correctAnswer": "A",
+    "explanation": "गिटार, सितार और वीणा तंतु वाद्ययंत्र हैं, जबकि बांसुरी फूंककर बजाया जाने वाला वाद्ययंत्र है।",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 1132,
+    "subject": "Reasoning",
+    "text": "विषम प्राणी चुनिए: कुत्ता, बिल्ली, शेर, गाय",
+    "options": {
+      "A": "गाय",
+      "B": "कुत्ता",
+      "C": "बिल्ली",
+      "D": "शेर"
+    },
+    "correctAnswer": "A",
+    "explanation": "गाय एक शाकाहारी पशु है, जबकि कुत्ता, बिल्ली और शेर मांसाहारी/सर्वाहारी पशु हैं।",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1133,
+    "subject": "Reasoning",
+    "text": "दिए गए विकल्पों में से विषम मात्रक चुनिए: मील, सेंटीमीटर, लीटर, गज",
+    "options": {
+      "A": "लीटर",
+      "B": "मील",
+      "C": "सेंटीमीटर",
+      "D": "गज"
+    },
+    "correctAnswer": "A",
+    "explanation": "मील, सेंटीमीटर और गज लंबाई मापने के मात्रक हैं, जबकि लीटर आयतन मापने का मात्रक है।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1134,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2017) निम्नलिखित ग्रंथों में से विषम चुनिए: ऋग्वेद, यजुर्वेद, सामवेद, आयुर्वेद",
+    "options": {
+      "A": "आयुर्वेद",
+      "B": "ऋग्वेद",
+      "C": "यजुर्वेद",
+      "D": "सामवेद"
+    },
+    "correctAnswer": "A",
+    "explanation": "ऋग्वेद, यजुर्वेद और सामवेद सनातन धर्म के चार मूल वेदों में से हैं, जबकि आयुर्वेद ऋग्वेद का एक उपवेद है।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 1135,
+    "subject": "Reasoning",
+    "text": "विषम धातु का चयन करें: पारा (Mercury), सोना, चांदी, तांबा",
+    "options": {
+      "A": "पारा",
+      "B": "सोना",
+      "C": "चांदी",
+      "D": "तांबा"
+    },
+    "correctAnswer": "A",
+    "explanation": "सोना, चांदी और तांबा कमरे के तापमान पर ठोस होते हैं, जबकि पारा कमरे के तापमान पर द्रव अवस्था में रहने वाली एकमात्र धातु है।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1136,
+    "subject": "Reasoning",
+    "text": "निम्नलिखित में से विषम संख्या का चयन करें: 35, 49, 56, 65",
+    "options": {
+      "A": "65",
+      "B": "35",
+      "C": "49",
+      "D": "56"
+    },
+    "correctAnswer": "A",
+    "explanation": "35, 49 और 56 सभी 7 के गुणज हैं, जबकि 65 संख्या 7 से पूर्णतः विभाजित नहीं है।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1137,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2022) विषम स्थान चुनिए: एशिया, अफ्रीका, यूरोप, भारत",
+    "options": {
+      "A": "भारत",
+      "B": "एशिया",
+      "C": "अफ्रीका",
+      "D": "यूरोप"
+    },
+    "correctAnswer": "A",
+    "explanation": "एशिया, अफ्रीका और यूरोप महाद्वीप हैं, जबकि भारत एक देश है।",
+    "frequency": 3,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 1138,
+    "subject": "Reasoning",
+    "text": "निम्नलिखित अक्षर समूहों में से विषम को चुनें: A, E, I, O, T",
+    "options": {
+      "A": "T",
+      "B": "A",
+      "C": "I",
+      "D": "O"
+    },
+    "correctAnswer": "A",
+    "explanation": "A, E, I और O अंग्रेज़ी वर्णमाला के स्वर हैं, जबकि T एक व्यंजन है।",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1139,
+    "subject": "Reasoning",
+    "text": "विषम विकल्प चुनें: तैरना, गोताखोरी, गाड़ी चलाना, नौकायन",
+    "options": {
+      "A": "गाड़ी चलाना",
+      "B": "तैरना",
+      "C": "गोताखोरी",
+      "D": "नौकायन"
+    },
+    "correctAnswer": "A",
+    "explanation": "तैरना, गोताखोरी और नौकायन जल से संबंधित क्रियाएं हैं, जबकि गाड़ी चलाना थल से संबंधित क्रिया है।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1140,
+    "subject": "Reasoning",
+    "text": "विषम खेल का चयन करें: हॉकी, फुटबॉल, बास्केटबॉल, शतरंज",
+    "options": {
+      "A": "शतरंज",
+      "B": "हॉकी",
+      "C": "फुटबॉल",
+      "D": "बास्केटबॉल"
+    },
+    "correctAnswer": "A",
+    "explanation": "हॉकी, फुटबॉल और बास्केटबॉल आउटडोर खेल हैं, जबकि शतरंज एक इनडोर मानसिक खेल है।",
+    "frequency": 0,
+    "probability": 94,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1141,
+    "subject": "Reasoning",
+    "text": "दिए गए संख्याओं में से कौन सी संख्या विषम है? 81, 121, 169, 221",
+    "options": {
+      "A": "221",
+      "B": "81",
+      "C": "121",
+      "D": "169"
+    },
+    "correctAnswer": "A",
+    "explanation": "81 (9^2), 121 (11^2) और 169 (13^2) सभी पूर्ण वर्ग संख्याएं हैं, जबकि 221 किसी भी प्राकृतिक संख्या का पूर्ण वर्ग नहीं है। अतः 221 विषम है।",
+    "frequency": 0,
+    "probability": 87,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1142,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2021) 45 छात्रों की एक कक्षा में राहुल का स्थान ऊपर से 15वां है। नीचे से उसका स्थान क्या होगा?",
+    "options": {
+      "A": "31वां",
+      "B": "30वां",
+      "C": "32वां",
+      "D": "29वां"
+    },
+    "correctAnswer": "A",
+    "explanation": "कुल छात्र = (ऊपर से स्थान) + (नीचे से स्थान) - 1। सूत्र से: 45 = 15 + (नीचे से स्थान) - 1 => नीचे से स्थान = 45 - 14 = 31वां।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 1143,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2018) लड़कों की एक पंक्ति में, A बाईं ओर से 10वें स्थान पर है और B दाईं ओर से 9वें स्थान पर है। जब वे आपस में स्थान बदल लेते हैं, तो A बाईं ओर से 15वें स्थान पर आ जाता है। पंक्ति में कुल कितने लड़के हैं?",
+    "options": {
+      "A": "23",
+      "B": "24",
+      "C": "22",
+      "D": "25"
+    },
+    "correctAnswer": "A",
+    "explanation": "A का नया स्थान बाईं ओर से 15वां है, जो कि B के पुराने स्थान (दाईं ओर से 9वें) पर है। कुल लड़के = (A का नया स्थान) + (B का पुराना स्थान) - 1 = 15 + 9 - 1 = 23।",
+    "frequency": 3,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 1144,
+    "subject": "Reasoning",
+    "text": "A, B से लंबा है लेकिन C से छोटा है। D, E से लंबा है लेकिन B से छोटा है। इनमें से सबसे लंबा कौन है?",
+    "options": {
+      "A": "C",
+      "B": "A",
+      "C": "B",
+      "D": "D"
+    },
+    "correctAnswer": "A",
+    "explanation": "ऊँचाई का क्रम: C > A > B। और D, E से लंबा पर B से छोटा है, यानी B > D > E। पूरे समूह का क्रम: C > A > B > D > E। अतः सबसे लंबा C है।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1145,
+    "subject": "Reasoning",
+    "text": "एक पंक्ति में रमन का स्थान आगे से 18वां तथा पीछे से 22वां है। पंक्ति में कुल कितने लोग हैं?",
+    "options": {
+      "A": "39",
+      "B": "40",
+      "C": "38",
+      "D": "41"
+    },
+    "correctAnswer": "A",
+    "explanation": "कुल संख्या = (आगे से स्थान) + (पीछे से स्थान) - 1 = 18 + 22 - 1 = 39 लोग।",
+    "frequency": 0,
+    "probability": 94,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1146,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2020) अनिल का स्थान अपनी कक्षा में ऊपर से 7वां तथा नीचे से 26वां है। कक्षा में कुल कितने छात्र हैं?",
+    "options": {
+      "A": "32",
+      "B": "33",
+      "C": "31",
+      "D": "34"
+    },
+    "correctAnswer": "A",
+    "explanation": "कुल छात्र = 7 + 26 - 1 = 32 छात्र। अतः सही उत्तर 32 है।",
+    "frequency": 3,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 1147,
+    "subject": "Reasoning",
+    "text": "यदि A, B से बड़ा है; C, A से बड़ा है; और D, B से छोटा है, तो सबसे छोटा कौन है?",
+    "options": {
+      "A": "D",
+      "B": "B",
+      "C": "A",
+      "D": "C"
+    },
+    "correctAnswer": "A",
+    "explanation": "आयु का क्रम: C > A > B, और D, B से छोटा है अर्थात B > D। अतः पूरा क्रम C > A > B > D है। सबसे छोटा D है।",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1148,
+    "subject": "Reasoning",
+    "text": "पांच मित्र A, B, C, D और E हैं। A, B से छोटा है लेकिन E से लंबा है। C सबसे लंबा है। D, B से थोड़ा छोटा है लेकिन A से लंबा है। दूसरा सबसे लंबा व्यक्ति कौन है?",
+    "options": {
+      "A": "B",
+      "B": "D",
+      "C": "A",
+      "D": "E"
+    },
+    "correctAnswer": "A",
+    "explanation": "क्रम देखें: C सबसे लंबा है। A, E से लंबा है। A, B से छोटा है। D, B से छोटा तथा A से लंबा है। इन सबको मिलाने पर क्रम: C > B > D > A > E। अतः दूसरा सबसे लंबा व्यक्ति B है।",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1149,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2019) 30 छात्रों की एक पंक्ति में मनोज का स्थान दाईं ओर से 10वां है। बाईं ओर से उसका स्थान क्या होगा?",
+    "options": {
+      "A": "21वां",
+      "B": "20वां",
+      "C": "19वां",
+      "D": "22वां"
+    },
+    "correctAnswer": "A",
+    "explanation": "बाईं ओर से स्थान = (कुल छात्र - दाईं ओर से स्थान) + 1 = (30 - 10) + 1 = 20 + 1 = 21वां।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 1150,
+    "subject": "Reasoning",
+    "text": "एक खेल प्रतियोगिता में गीता ने ऊपर से 8वां तथा नीचे से 35वां स्थान प्राप्त किया। प्रतियोगिता में कुल कितने प्रतिभागी थे?",
+    "options": {
+      "A": "42",
+      "B": "43",
+      "C": "41",
+      "D": "44"
+    },
+    "correctAnswer": "A",
+    "explanation": "कुल प्रतिभागी = 8 + 35 - 1 = 42।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  }
+]

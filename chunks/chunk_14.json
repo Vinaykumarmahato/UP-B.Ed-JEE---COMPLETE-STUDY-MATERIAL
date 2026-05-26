@@ -1,0 +1,852 @@
+[
+  {
+    "id": 701,
+    "subject": "Hindi Grammar",
+    "text": "'शत्रु' का पर्यायवाची शब्द कौन-सा है? (UP B.Ed 2018)",
+    "options": {
+      "A": "सहोदर",
+      "B": "अरि",
+      "C": "मनुज",
+      "D": "सखा"
+    },
+    "correctAnswer": "B",
+    "explanation": "'अरि' का अर्थ शत्रु होता है। सहोदर का अर्थ भाई, मनुज का अर्थ मनुष्य और सखा का अर्थ मित्र होता है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 702,
+    "subject": "Hindi Grammar",
+    "text": "'मर्कट' का पर्यायवाची शब्द क्या है? (UP B.Ed 2019)",
+    "options": {
+      "A": "पानी",
+      "B": "पुत्र",
+      "C": "बंदर",
+      "D": "मित्र"
+    },
+    "correctAnswer": "C",
+    "explanation": "'मर्कट' बंदर का पर्यायवाची शब्द है। बंदर के अन्य पर्यायवाची वानर, कपि, कीश आदि हैं।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 703,
+    "subject": "Hindi Grammar",
+    "text": "'तरणि' का पर्यायवाची शब्द क्या है? (UP B.Ed 2017)",
+    "options": {
+      "A": "सूर्य",
+      "B": "नाम",
+      "C": "युवती",
+      "D": "नदी"
+    },
+    "correctAnswer": "A",
+    "explanation": "'तरणि' (इकारान्त) सूर्य का पर्यायवाची है। ध्यान दें कि 'तरणी' (ईकारान्त) नाव का पर्यायवाची होता है।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 704,
+    "subject": "Hindi Grammar",
+    "text": "'दामिनी' का पर्यायवाची शब्द क्या है? (UP B.Ed 2021)",
+    "options": {
+      "A": "वर्षा",
+      "B": "नीरद",
+      "C": "बादल",
+      "D": "विद्युत"
+    },
+    "correctAnswer": "D",
+    "explanation": "'दामिनी' का पर्यायवाची विद्युत (बिजली) है। इसके अन्य पर्यायवाची चंचला, तड़ित, सौदामिनी हैं।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 705,
+    "subject": "Hindi Grammar",
+    "text": "'सारंग' का पर्यायवाची शब्द क्या है? (UP B.Ed 2020)",
+    "options": {
+      "A": "नमक",
+      "B": "सारथी",
+      "C": "मोर",
+      "D": "घोड़ा"
+    },
+    "correctAnswer": "C",
+    "explanation": "'सारंग' एक अनेकार्थक शब्द है, जिसका एक प्रमुख अर्थ 'मोर' होता है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 706,
+    "subject": "Hindi Grammar",
+    "text": "'पवन' का पर्यायवाची शब्द कौन-सा नहीं है? (UP B.Ed 2016)",
+    "options": {
+      "A": "वात",
+      "B": "अनल",
+      "C": "अनिल",
+      "D": "समीर"
+    },
+    "correctAnswer": "B",
+    "explanation": "'अनल' अग्नि (आग) का पर्यायवाची है, जबकि अनिल, वात और समीर पवन के पर्यायवाची हैं।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2016",
+    "isReal": true
+  },
+  {
+    "id": 707,
+    "subject": "Hindi Grammar",
+    "text": "'कानन' शब्द का पर्यायवाची कौन-सा है? (UP B.Ed 2022)",
+    "options": {
+      "A": "पुष्प",
+      "B": "विहिप",
+      "C": "वन",
+      "D": "इनमें से कोई नहीं"
+    },
+    "correctAnswer": "C",
+    "explanation": "'कानन' का अर्थ जंगल या वन होता है। इसके अन्य पर्यायवाची अरण्य, विपिन, कांतार हैं।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 708,
+    "subject": "Hindi Grammar",
+    "text": "'अरविंद' का पर्यायवाची शब्द क्या है? (UP B.Ed 2023)",
+    "options": {
+      "A": "कमल",
+      "B": "गुलाब",
+      "C": "कल्पवृक्ष",
+      "D": "केवड़ा"
+    },
+    "correctAnswer": "A",
+    "explanation": "'अरविंद' कमल का पर्यायवाची है। कमल के अन्य पर्यायवाची पंकज, जलज, नीरज, राजीव, उत्पल हैं।",
+    "frequency": 2,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 709,
+    "subject": "Hindi Grammar",
+    "text": "'यातूधान' का पर्यायवाची शब्द क्या है?",
+    "options": {
+      "A": "आग",
+      "B": "अश्व",
+      "C": "राक्षस",
+      "D": "वसन"
+    },
+    "correctAnswer": "C",
+    "explanation": "'यातूधान' का अर्थ राक्षस, असुर या दानव होता है।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 710,
+    "subject": "Hindi Grammar",
+    "text": "'अनादर' का विलोम शब्द क्या होगा? (UP B.Ed 2015)",
+    "options": {
+      "A": "मान",
+      "B": "आदर",
+      "C": "सत्कार",
+      "D": "सम्मान"
+    },
+    "correctAnswer": "B",
+    "explanation": "'अनादर' का सही विलोम शब्द 'आदर' है।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2015",
+    "isReal": true
+  },
+  {
+    "id": 711,
+    "subject": "Hindi Grammar",
+    "text": "'अथ' का विलोम शब्द क्या है? (UP B.Ed 2018)",
+    "options": {
+      "A": "अन्त",
+      "B": "इति",
+      "C": "अर्थ",
+      "D": "अध"
+    },
+    "correctAnswer": "B",
+    "explanation": "'अथ' (प्रारंभ) का विलोम 'इति' (समाप्ति) होता है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 712,
+    "subject": "Hindi Grammar",
+    "text": "'आलोक' का विलोम शब्द क्या है? (UP B.Ed 2019)",
+    "options": {
+      "A": "अद्भुत",
+      "B": "अज्ञात",
+      "C": "अंधकार",
+      "D": "रात्रि"
+    },
+    "correctAnswer": "C",
+    "explanation": "'आलोक' का अर्थ प्रकाश होता है, जिसका विलोम 'अंधकार' या 'तिमिर' होता है।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 713,
+    "subject": "Hindi Grammar",
+    "text": "'मूक' का विलोम शब्द क्या है? (UP B.Ed 2017)",
+    "options": {
+      "A": "हास",
+      "B": "शाप",
+      "C": "वाचाल",
+      "D": "मूकबधिर"
+    },
+    "correctAnswer": "C",
+    "explanation": "'मूक' (जो बोल न सके) का विलोम 'वाचाल' (जो बहुत बोलता हो) होता है।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 714,
+    "subject": "Hindi Grammar",
+    "text": "'गरिमा' का विलोम शब्द क्या है? (UP B.Ed 2021)",
+    "options": {
+      "A": "अंधकार",
+      "B": "लघिमा",
+      "C": "घृणा",
+      "D": "नीचता"
+    },
+    "correctAnswer": "B",
+    "explanation": "'गरिमा' का विलोम 'लघिमा' होता है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 715,
+    "subject": "Hindi Grammar",
+    "text": "'सृष्टि' का विलोम शब्द क्या होगा? (UP B.Ed 2020)",
+    "options": {
+      "A": "मरण",
+      "B": "प्रलय",
+      "C": "वृष्टि",
+      "D": "मोक्ष"
+    },
+    "correctAnswer": "B",
+    "explanation": "'सृष्टि' (निर्माण) का विलोम शब्द 'प्रलय' (विनाश) होता है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 716,
+    "subject": "Hindi Grammar",
+    "text": "'अनाथ' का विलोम शब्द क्या होगा? (UP B.Ed 2016)",
+    "options": {
+      "A": "धनी",
+      "B": "सनाथ",
+      "C": "निर्धन",
+      "D": "अनादर"
+    },
+    "correctAnswer": "B",
+    "explanation": "'अनाथ' का विलोम 'सनाथ' होता है।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2016",
+    "isReal": true
+  },
+  {
+    "id": 717,
+    "subject": "Hindi Grammar",
+    "text": "'अल्पज्ञ' का विलोम शब्द क्या है? (UP B.Ed 2022)",
+    "options": {
+      "A": "सर्वज्ञ",
+      "B": "अभिज्ञ",
+      "C": "अवज्ञ",
+      "D": "कृतज्ञ"
+    },
+    "correctAnswer": "A",
+    "explanation": "'अल्पज्ञ' (कम जानने वाला) का विलोम 'सर्वज्ञ' (सब कुछ जानने वाला) होता है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 718,
+    "subject": "Hindi Grammar",
+    "text": "'उर्वर' का विलोम शब्द क्या है? (UP B.Ed 2023)",
+    "options": {
+      "A": "उत्कृष्ट",
+      "B": "उत्मर्ण",
+      "C": "ऊसर",
+      "D": "अतिवृष्टि"
+    },
+    "correctAnswer": "C",
+    "explanation": "'उर्वर' (उपजाऊ भूमि) का विलोम शब्द 'ऊसर' (अनुपजाऊ भूमि) होता है।",
+    "frequency": 2,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 719,
+    "subject": "Hindi Grammar",
+    "text": "'तिमीर' का विलोम शब्द क्या है?",
+    "options": {
+      "A": "आलोक",
+      "B": "किरण",
+      "C": "रंगीन",
+      "D": "राका"
+    },
+    "correctAnswer": "A",
+    "explanation": "'तिमीर' का अर्थ अंधकार होता है और इसका विलोम 'आलोक' (प्रकाश) होता है।",
+    "frequency": 0,
+    "probability": 94,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 720,
+    "subject": "Hindi Grammar",
+    "text": "'अंगूठा दिखाना' मुहावरे का सही अर्थ क्या है? (UP B.Ed 2015)",
+    "options": {
+      "A": "देने से इनकार करना",
+      "B": "अपमान करना",
+      "C": "हँसी उड़ाना",
+      "D": "नष्ट करना"
+    },
+    "correctAnswer": "A",
+    "explanation": "'अंगूठा दिखाना' का अर्थ होता है ऐन वक्त पर किसी चीज को देने या काम करने से साफ मना कर देना।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2015",
+    "isReal": true
+  },
+  {
+    "id": 721,
+    "subject": "Hindi Grammar",
+    "text": "'आसमान पर चढ़ाना' मुहावरे का सही अर्थ क्या है? (UP B.Ed 2018)",
+    "options": {
+      "A": "अत्यधिक प्रशंसा करना",
+      "B": "कठिन काम के लिए प्रेरित करना",
+      "C": "बहुत शोर करना",
+      "D": "घमंड करना"
+    },
+    "correctAnswer": "A",
+    "explanation": "'आसमान पर चढ़ाना' का अर्थ है किसी की अत्यधिक या झूठी प्रशंसा करना।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 722,
+    "subject": "Hindi Grammar",
+    "text": "'गागर में सागर भरना' का अर्थ क्या है? (UP B.Ed 2019)",
+    "options": {
+      "A": "कम शब्दों में अधिक बात कहना",
+      "B": "बड़ी सुराही बनाना",
+      "C": "मूर्खतापूर्ण बातें करना",
+      "D": "बहुत बोलना"
+    },
+    "correctAnswer": "A",
+    "explanation": "'गागर में सागर भरना' का अर्थ है संक्षेप में गहरी या विस्तृत बात कह देना।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 723,
+    "subject": "Hindi Grammar",
+    "text": "'दाँतों तले उँगली दबाना' मुहावरे का क्या अर्थ है? (UP B.Ed 2017)",
+    "options": {
+      "A": "बहुत पछताना",
+      "B": "दाँत दर्द होना",
+      "C": "हैरान होना",
+      "D": "डर जाना"
+    },
+    "correctAnswer": "C",
+    "explanation": "'दाँतों तले उँगली दबाना' का अर्थ होता है आश्चर्यचकित या हैरान होना।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 724,
+    "subject": "Hindi Grammar",
+    "text": "'कान फूँकना' मुहावरे का अर्थ क्या है? (UP B.Ed 2021)",
+    "options": {
+      "A": "दीक्षा देना या बहकाना",
+      "B": "चुगली करना",
+      "C": "कान साफ करना",
+      "D": "जादू टोना करना"
+    },
+    "correctAnswer": "A",
+    "explanation": "'कान फूँकना' का सही अर्थ दीक्षित करना या किसी के खिलाफ बहकाना/कान भरना होता है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 725,
+    "subject": "Hindi Grammar",
+    "text": "'अपनी ढपली अपना राग' का सही अर्थ क्या है? (UP B.Ed 2020)",
+    "options": {
+      "A": "स्वतंत्र होना",
+      "B": "सबका अपने-अपने मन के अनुसार चलना",
+      "C": "अपना गीत गाना",
+      "D": "संगठन का अभाव होना"
+    },
+    "correctAnswer": "B",
+    "explanation": "'अपनी ढपली अपना राग' लोकोक्ति का अर्थ है तालमेल न होना या सब अपनी-अपनी मर्जी से काम करना।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 726,
+    "subject": "Hindi Grammar",
+    "text": "'नौ दो ग्यारह होना' मुहावरे का अर्थ क्या है? (UP B.Ed 2016)",
+    "options": {
+      "A": "मिलकर काम करना",
+      "B": "गणित में निपुण होना",
+      "C": "भाग जाना",
+      "D": "बहुत बलवान होना"
+    },
+    "correctAnswer": "C",
+    "explanation": "'नौ दो ग्यारह होना' का सीधा अर्थ है पुलिस या किसी को देखकर तुरंत भाग जाना।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2016",
+    "isReal": true
+  },
+  {
+    "id": 727,
+    "subject": "Hindi Grammar",
+    "text": "'घी के दीए जलाना' मुहावरे का अर्थ क्या है? (UP B.Ed 2022)",
+    "options": {
+      "A": "पूजा करना",
+      "B": "खुशी मनाना",
+      "C": "अमीर होना",
+      "D": "रोशनी करना"
+    },
+    "correctAnswer": "B",
+    "explanation": "'घी के दीए जलाना' का अर्थ होता है अत्यधिक प्रसन्नता या खुशी प्रकट करना।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 728,
+    "subject": "Hindi Grammar",
+    "text": "'कोयले की दलाली में हाथ काले' लोकोक्ति का सही अर्थ क्या है? (UP B.Ed 2023)",
+    "options": {
+      "A": "कोयले का व्यापार करना",
+      "B": "बुरे काम का परिणाम भी बुरा होता है (कुसंगति से कलंक लगता है)",
+      "C": "हाथ में कालिख लगना",
+      "D": "ईमानदारी से काम करना"
+    },
+    "correctAnswer": "B",
+    "explanation": "'कोयले की दलाली में हाथ काले' का अर्थ है कि दुष्ट या बुरे लोगों की संगति या बुरे काम में पड़ने से बदनामी या अपयश ही मिलता है।",
+    "frequency": 2,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 729,
+    "subject": "Hindi Grammar",
+    "text": "'तलवा सहलाना' मुहावरे का क्या अर्थ है?",
+    "options": {
+      "A": "खुशामद करना",
+      "B": "दवा लगाना",
+      "C": "थकान मिटाना",
+      "D": "पैर दबाना"
+    },
+    "correctAnswer": "A",
+    "explanation": "'तलवा सहलाना' का अर्थ अत्यधिक खुशामद या चापलूसी करना होता है।",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 730,
+    "subject": "Hindi Grammar",
+    "text": "\"कनक कनक ते सौ गुनी, मादकता अधिकाय। या खाए बौराए जग, वा पाए बौराए।\" - इन पंक्तियों में कौन-सा अलंकार है? (UP B.Ed 2015)",
+    "options": {
+      "A": "अनुप्रास",
+      "B": "यमक",
+      "C": "श्लेष",
+      "D": "उपमा"
+    },
+    "correctAnswer": "B",
+    "explanation": "यहाँ 'कनक' शब्द दो बार आया है; पहले का अर्थ 'धतूरा' और दूसरे का अर्थ 'सोना' है, इसलिए यहाँ यमक अलंकार है।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2015",
+    "isReal": true
+  },
+  {
+    "id": 731,
+    "subject": "Hindi Grammar",
+    "text": "\"तरनि तनूजा तट तमाल तरुवर बहु छाये\" - इस पंक्ति में कौन-सा अलंकार है? (UP B.Ed 2018)",
+    "options": {
+      "A": "अनुप्रास",
+      "B": "यमक",
+      "C": "श्लेष",
+      "D": "रूपक"
+    },
+    "correctAnswer": "A",
+    "explanation": "यहाँ 'त' वर्ण की आवृत्ति बार-बार हुई है, इसलिए यहाँ अनुप्रास अलंकार है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 732,
+    "subject": "Hindi Grammar",
+    "text": "\"चरन धरत चिंता करत, चितवत चहुं ओर। सुबरन को ढूँढ़त फिरत, कबि, व्यभिचारी, चोर।\" - इसमें कौन-सा अलंकार है? (UP B.Ed 2019)",
+    "options": {
+      "A": "यमक",
+      "B": "रूपक",
+      "C": "श्लेष",
+      "D": "उपमा"
+    },
+    "correctAnswer": "C",
+    "explanation": "यहाँ 'सुबरन' शब्द एक ही बार आया है, लेकिन उसके तीन अर्थ हैं - कवि के लिए 'सुंदर अक्षर', व्यभिचारी के लिए 'सुंदर रूप-रंग' और चोर के लिए 'सोना'। अतः यहाँ श्लेष अलंकार है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 733,
+    "subject": "Hindi Grammar",
+    "text": "\"पीपर पात सरिस मन डोला\" - इस पंक्ति में कौन-सा अलंकार है? (UP B.Ed 2017)",
+    "options": {
+      "A": "रूपक अलंकार",
+      "B": "उपमा अलंकार",
+      "C": "उत्प्रेक्षा अलंकार",
+      "D": "अतिशयोक्ति अलंकार"
+    },
+    "correctAnswer": "B",
+    "explanation": "यहाँ मन की तुलना पीपल के पत्ते से की गई है तथा वाचक शब्द 'सरिस' का प्रयोग हुआ है, इसलिए यहाँ उपमा अलंकार है।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 734,
+    "subject": "Hindi Grammar",
+    "text": "\"चरन कमल बंदौ हरि राई\" - इस पंक्ति में कौन-सा अलंकार है? (UP B.Ed 2021)",
+    "options": {
+      "A": "उपमा",
+      "B": "रूपक",
+      "C": "श्लेष",
+      "D": "अतिशयोक्ति"
+    },
+    "correctAnswer": "B",
+    "explanation": "यहाँ चरणों (उपमेय) में कमल (उपमान) का अभेद आरोप किया गया है (बिना किसी तुलनात्मक शब्द के), इसलिए रूपक अलंकार है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 735,
+    "subject": "Hindi Grammar",
+    "text": "\"मनहुँ नीलमनि सैल पर, आतपु परयो प्रभात\" - इस पंक्ति में प्रयुक्त अलंकार कौन-सा है? (UP B.Ed 2020)",
+    "options": {
+      "A": "उपमा",
+      "B": "रूपक",
+      "C": "उत्प्रेक्षा",
+      "D": "यमक"
+    },
+    "correctAnswer": "C",
+    "explanation": "जहाँ उपमेय में उपमान की संभावना की जाए और वाचक शब्द 'मनु, मानो, जनु, जानो, मनहुँ' आदि आएँ, वहाँ उत्प्रेक्षा अलंकार होता है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 736,
+    "subject": "Hindi Grammar",
+    "text": "जहाँ बिना कारण के कार्य का होना पाया जाए, वहाँ कौन-सा अलंकार होता है? (UP B.Ed 2016)",
+    "options": {
+      "A": "विरोधाभास",
+      "B": "विभावना",
+      "C": "विशेषोक्ति",
+      "D": "भ्रांतिमान"
+    },
+    "correctAnswer": "B",
+    "explanation": "कारण के बिना कार्य की उत्पत्ति होने पर 'विभावना' अलंकार होता है। उदाहरण: \"बिनु पग चलै सुनै बिनु काना\"।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2016",
+    "isReal": true
+  },
+  {
+    "id": 737,
+    "subject": "Hindi Grammar",
+    "text": "\"रहिमन पानी राखिए, बिनु पानी सब सून। पानी गए न ऊबरै, मोती, मानुष, चून।\" - इसमें कौन-सा अलंकार है? (UP B.Ed 2022)",
+    "options": {
+      "A": "श्लेष",
+      "B": "यमक",
+      "C": "रूपक",
+      "D": "उपमा"
+    },
+    "correctAnswer": "A",
+    "explanation": "यहाँ 'पानी' शब्द के मोती के लिए 'चमक', मानुष के लिए 'प्रतिष्ठा' और चून के लिए 'जल' के रूप में अलग-अलग अर्थ हैं। अतः श्लेष अलंकार है।",
+    "frequency": 2,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 738,
+    "subject": "Hindi Grammar",
+    "text": "\"हनुमान की पूंछ में लगन न पाई आग, लंका सिगरी जरि गई गए निसाचर भाग\" - इस पंक्ति में कौन-सा अलंकार है? (UP B.Ed 2023)",
+    "options": {
+      "A": "अतिशयोक्ति",
+      "B": "रूपक",
+      "C": "सन्देह",
+      "D": "भ्रांतिमान"
+    },
+    "correctAnswer": "A",
+    "explanation": "यहाँ बात को अत्यधिक बढ़ा-चढ़ाकर कहा गया है कि पूंछ में आग लगने से पहले ही पूरी लंका जल गई, इसलिए अतिशयोक्ति अलंकार है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 739,
+    "subject": "Hindi Grammar",
+    "text": "\"उदित उदयगिरि मंच पर, रघुवर बाल पतंग। बिहसे संत सरोज सब, हरषे लोचन भृंग।\" - इसमें कौन-सा अलंकार मुख्य रूप से है?",
+    "options": {
+      "A": "उपमा",
+      "B": "रूपक",
+      "C": "उत्प्रेक्षा",
+      "D": "यमक"
+    },
+    "correctAnswer": "B",
+    "explanation": "यहाँ मंच पर उदयगिरि का, रघुवर पर बाल सूर्य का, संतों पर सरोज (कमल) का और लोचनों पर भृंग (भँवरों) का अभेद आरोप है, अतः रूपक अलंकार है।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 740,
+    "subject": "Hindi Grammar",
+    "text": "'श्रृंगार रस' का स्थायी भाव क्या है? (UP B.Ed 2015)",
+    "options": {
+      "A": "रति",
+      "B": "हास",
+      "C": "शोक",
+      "D": "विस्मय"
+    },
+    "correctAnswer": "A",
+    "explanation": "श्रृंगार रस का स्थायी भाव 'रति' (प्रेम) होता है। इसे रसराज भी कहा जाता है।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2015",
+    "isReal": true
+  },
+  {
+    "id": 741,
+    "subject": "Hindi Grammar",
+    "text": "'वीर रस' का स्थायी भाव क्या होता है? (UP B.Ed 2018)",
+    "options": {
+      "A": "क्रोध",
+      "B": "भय",
+      "C": "उत्साह",
+      "D": "विस्मय"
+    },
+    "correctAnswer": "C",
+    "explanation": "वीर रस का स्थायी भाव 'उत्साह' होता है, जो युद्ध, दान या दया आदि के कार्यों के प्रति मन में जाग्रत होता है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 742,
+    "subject": "Hindi Grammar",
+    "text": "'रौद्र रस' का स्थायी भाव क्या है? (UP B.Ed 2019)",
+    "options": {
+      "A": "क्रोध",
+      "B": "शोक",
+      "C": "आश्चर्य",
+      "D": "भय"
+    },
+    "correctAnswer": "A",
+    "explanation": "रौद्र रस का स्थायी भाव 'क्रोध' होता है, जो किसी शत्रु या अपराधी की चेष्टाओं से मन में जाग्रत होता है।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 743,
+    "subject": "Hindi Grammar",
+    "text": "'शांत रस' का स्थायी भाव क्या है? (UP B.Ed 2017)",
+    "options": {
+      "A": "जुगुप्सा",
+      "B": "निर्वेद",
+      "C": "क्रोध",
+      "D": "शोक"
+    },
+    "correctAnswer": "B",
+    "explanation": "शांत रस का स्थायी भाव 'निर्वेद' (उदासीनता या वैराग्य) होता है। भरतमुनि के नाट्यशास्त्र में इस रस की चर्चा नहीं थी, बाद में इसे नौवाँ रस माना गया।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 744,
+    "subject": "Hindi Grammar",
+    "text": "\"विस्मय\" किस रस का स्थायी भाव है? (UP B.Ed 2021)",
+    "options": {
+      "A": "अद्भुत रस",
+      "B": "भयानक रस",
+      "C": "वीभत्स रस",
+      "D": "शांत रस"
+    },
+    "correctAnswer": "A",
+    "explanation": "'विस्मय' या 'आश्चर्य' अद्भुत रस का स्थायी भाव होता है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 745,
+    "subject": "Hindi Grammar",
+    "text": "रसों का राजा (रसराज) किसे कहा जाता है? (UP B.Ed 2020)",
+    "options": {
+      "A": "वीर रस",
+      "B": "श्रृंगार रस",
+      "C": "करुण रस",
+      "D": "शांत रस"
+    },
+    "correctAnswer": "B",
+    "explanation": "श्रृंगार रस को रसों का राजा या रसराज कहा जाता है क्योंकि इसकी व्यापकता और रसानुभूति सबसे अधिक होती है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 746,
+    "subject": "Hindi Grammar",
+    "text": "\"बुंदेले हरबोलों के मुँह हमने सुनी कहानी थी, खूब लड़ी मर्दानी वह तो झाँसी वाली रानी थी\" - इन पंक्तियों में कौन-sa रस है? (UP B.Ed 2016)",
+    "options": {
+      "A": "श्रृंगार रस",
+      "B": "करुण रस",
+      "C": "वीर रस",
+      "D": "हास्य रस"
+    },
+    "correctAnswer": "C",
+    "explanation": "इन पंक्तियों में झाँसी की रानी लक्ष्मीबाई के शौर्य का वर्णन है जो मन में उत्साह का संचार करता है, अतः यहाँ वीर रस है।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2016",
+    "isReal": true
+  },
+  {
+    "id": 747,
+    "subject": "Hindi Grammar",
+    "text": "'करुण रस' का स्थायी भाव क्या है? (UP B.Ed 2022)",
+    "options": {
+      "A": "शोक",
+      "B": "क्रोध",
+      "C": "भय",
+      "D": "जुगुप्सा"
+    },
+    "correctAnswer": "A",
+    "explanation": "करुण रस का स्थायी भाव 'शोक' होता है, जो किसी प्रिय वस्तु या व्यक्ति के विनाश से उत्पन्न होता है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 748,
+    "subject": "Hindi Grammar",
+    "text": "\"जहँ तहँ मज्जा मास रुचिर लखि परत बघारे। जित-जित छिटके हाड़ सेत कहुँ-कहुँ रतनारे।\" - इन पंक्तियों में कौन-सा रस है? (UP B.Ed 2023)",
+    "options": {
+      "A": "भयानक रस",
+      "B": "वीभत्स रस",
+      "C": "अद्भुत रस",
+      "D": "रौद्र रस"
+    },
+    "correctAnswer": "B",
+    "explanation": "जहाँ मांस, रक्त, मज्जा आदि घृणास्पद वस्तुओं का वर्णन हो, वहाँ वीभत्स रस होता है और इसका स्थायी भाव 'जुगुप्सा' (घृणा) होता है।",
+    "frequency": 2,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 749,
+    "subject": "Hindi Grammar",
+    "text": "आचार्य भरतमुनि के अनुसार रसों की संख्या कितनी मानी गई है?",
+    "options": {
+      "A": "8",
+      "B": "9",
+      "C": "11",
+      "D": "10"
+    },
+    "correctAnswer": "A",
+    "explanation": "भरतमुनि ने अपने प्रसिद्ध ग्रंथ 'नाट्यशास्त्र' में केवल 8 रसों का उल्लेख किया है (उन्होंने शांत रस को रस नहीं माना था)।",
+    "frequency": 0,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 750,
+    "subject": "Hindi Grammar",
+    "text": "अर्धसम मात्रिक जाति का छंद कौन-सा है? (UP B.Ed 2015)",
+    "options": {
+      "A": "रोला",
+      "B": "दोहा",
+      "C": "चौपाई",
+      "D": "कुण्डलिया"
+    },
+    "correctAnswer": "B",
+    "explanation": "दोहा एक अर्धसम मात्रिक छंद है, जिसके विषम चरणों (1, 3) में 13-13 मात्राएँ और सम चरणों (2, 4) में 11-11 मात्राएँ होती हैं।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2015",
+    "isReal": true
+  }
+]

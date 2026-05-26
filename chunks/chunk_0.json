@@ -1,0 +1,852 @@
+[
+  {
+    "id": 1,
+    "subject": "General Knowledge",
+    "text": "भारत का संविधान कब अपनाया गया?",
+    "options": {
+      "A": "15 अगस्त 1947",
+      "B": "26 जनवरी 1950",
+      "C": "26 नवंबर 1949",
+      "D": "26 अक्टूबर 1949"
+    },
+    "correctAnswer": "C",
+    "explanation": "भारत के संविधान को 26 नवंबर 1949 को अपनाया गया था। 26 जनवरी 1950 को यह लागू हुआ।",
+    "frequency": 0,
+    "probability": 95,
+    "sourceYear": "AI Predicted for 2025",
+    "isReal": false
+  },
+  {
+    "id": 2,
+    "subject": "General Knowledge",
+    "text": "भारत के प्रथम राष्ट्रपति कौन थे?",
+    "options": {
+      "A": "डॉ. राजेन्द्र प्रसाद",
+      "B": "डॉ. एस. राधाकृष्णन",
+      "C": "जवाहरलाल नेहरू",
+      "D": "सरदार पटेल"
+    },
+    "correctAnswer": "A",
+    "explanation": "डॉ. राजेन्द्र प्रसाद भारत के प्रथम राष्ट्रपति थे (1950-1962)।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2025",
+    "isReal": false
+  },
+  {
+    "id": 3,
+    "subject": "General Knowledge",
+    "text": "भारत की आजादी कब मिली?",
+    "options": {
+      "A": "14 अगस्त 1947",
+      "B": "15 अगस्त 1947",
+      "C": "16 अगस्त 1947",
+      "D": "17 अगस्त 1947"
+    },
+    "correctAnswer": "B",
+    "explanation": "भारत को 15 अगस्त 1947 को ब्रिटिश शासन से आजादी मिली।",
+    "frequency": 0,
+    "probability": 99,
+    "sourceYear": "AI Predicted for 2025",
+    "isReal": false
+  },
+  {
+    "id": 4,
+    "subject": "General Knowledge",
+    "text": "\"जन गण मन\" के रचयिता कौन हैं?",
+    "options": {
+      "A": "बंकिम चंद्र चट्टोपाध्याय",
+      "B": "रवीन्द्रनाथ टैगोर",
+      "C": "कवि प्रदीप",
+      "D": "मोहम्मद इकबाल"
+    },
+    "correctAnswer": "B",
+    "explanation": "\"जन गण मन\" भारत का राष्ट्रगान है जिसे रवीन्द्रनाथ टैगोर ने लिखा।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2025",
+    "isReal": false
+  },
+  {
+    "id": 5,
+    "subject": "General Knowledge",
+    "text": "भारत में कितने राज्य हैं?",
+    "options": {
+      "A": "26",
+      "B": "28",
+      "C": "29",
+      "D": "30"
+    },
+    "correctAnswer": "B",
+    "explanation": "भारत में 28 राज्य हैं (तेलंगाना 2014 में नया राज्य बना)।",
+    "frequency": 0,
+    "probability": 87,
+    "sourceYear": "AI Predicted for 2025",
+    "isReal": false
+  },
+  {
+    "id": 6,
+    "subject": "General Knowledge",
+    "text": "संविधान के जनक कौन हैं?",
+    "options": {
+      "A": "जवाहरलाल नेहरू",
+      "B": "डॉ. बी.आर. अंबेडकर",
+      "C": "राजेन्द्र प्रसाद",
+      "D": "सरदार पटेल"
+    },
+    "correctAnswer": "B",
+    "explanation": "डॉ. बी.आर. अंबेडकर को भारत के संविधान का जनक माना जाता है।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2025",
+    "isReal": false
+  },
+  {
+    "id": 7,
+    "subject": "General Knowledge",
+    "text": "वर्तमान में भारत के राष्ट्रपति कौन हैं?",
+    "options": {
+      "A": "राम नाथ कोविंद",
+      "B": "ड्रौपदी मुर्मू",
+      "C": "प्रतिभा पाटिल",
+      "D": "मोहम्मद हामिद अंसारी"
+    },
+    "correctAnswer": "B",
+    "explanation": "ड्रौपदी मुर्मू भारत की वर्तमान राष्ट्रपति हैं (2022 से)।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2025",
+    "isReal": false
+  },
+  {
+    "id": 8,
+    "subject": "General Knowledge",
+    "text": "भारत का राष्ट्रगान किसने लिखा?",
+    "options": {
+      "A": "रवीन्द्रनाथ टैगोर",
+      "B": "बंकिम चंद्र चट्टोपाध्याय",
+      "C": "मुहम्मद इकबाल",
+      "D": "सरोजिनी नायडू"
+    },
+    "correctAnswer": "A",
+    "explanation": "\"जन गण मन\" भारत का राष्ट्रगान है जिसे रवीन्द्रनाथ टैगोर ने लिखा।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 9,
+    "subject": "General Knowledge",
+    "text": "भारत की राजधानी क्या है?",
+    "options": {
+      "A": "मुंबई",
+      "B": "नई दिल्ली",
+      "C": "कोलकाता",
+      "D": "चेन्नई"
+    },
+    "correctAnswer": "B",
+    "explanation": "नई दिल्ली भारत की राजधानी है और यह 1931 से है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 10,
+    "subject": "General Knowledge",
+    "text": "भारत के संविधान को कब अपनाया गया?",
+    "options": {
+      "A": "26 जनवरी 1949",
+      "B": "26 जनवरी 1950",
+      "C": "15 अगस्त 1947",
+      "D": "26 नवंबर 1949"
+    },
+    "correctAnswer": "D",
+    "explanation": "भारत के संविधान को 26 नवंबर 1949 को अपनाया गया था। 26 जनवरी 1950 को यह लागू हुआ।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 11,
+    "subject": "General Knowledge",
+    "text": "भारत के प्रथम मुख्य चुनाव आयुक्त कौन थे? (UP B.Ed 2016, 2020)",
+    "options": {
+      "A": "सुकुमार सेन",
+      "B": "के.वी.के. सुंदरम",
+      "C": "एस.पी. सेन वर्मा",
+      "D": "टी.एन. शेषन"
+    },
+    "correctAnswer": "A",
+    "explanation": "सुकुमार सेन भारत के प्रथम मुख्य चुनाव आयुक्त थे जिन्होंने 1950 से 1958 तक कार्य किया।",
+    "frequency": 2,
+    "probability": 92,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 12,
+    "subject": "General Knowledge",
+    "text": "भारत के प्रथम प्रधानमंत्री कौन थे?",
+    "options": {
+      "A": "डॉ. राजेन्द्र प्रसाद",
+      "B": "पंडित जवाहरलाल नेहरू",
+      "C": "लाल बहादुर शास्त्री",
+      "D": "इंदिरा गांधी"
+    },
+    "correctAnswer": "B",
+    "explanation": "पंडित जवाहरलाल नेहरू भारत के प्रथम प्रधानमंत्री थे (1947-1964)।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 13,
+    "subject": "General Knowledge",
+    "text": "विश्व का सबसे बड़ा महासागर कौन सा है?",
+    "options": {
+      "A": "अटलांटिक महासागर",
+      "B": "आर्कटिक महासागर",
+      "C": "हिंद महासागर",
+      "D": "प्रशांत महासागर"
+    },
+    "correctAnswer": "D",
+    "explanation": "प्रशांत महासागर विश्व का सबसे बड़ा महासागर है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 14,
+    "subject": "General Knowledge",
+    "text": "सबसे बड़ा महाद्वीप कौन सा है?",
+    "options": {
+      "A": "अफ्रीका",
+      "B": "यूरोप",
+      "C": "एशिया",
+      "D": "दक्षिण अमेरिका"
+    },
+    "correctAnswer": "C",
+    "explanation": "एशिया सबसे बड़ा महाद्वीप है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 15,
+    "subject": "General Knowledge",
+    "text": "भारत के सबसे ऊंचे पर्वत शिखर का नाम क्या है?",
+    "options": {
+      "A": "कंचनजंगा",
+      "B": "माउंट एवरेस्ट",
+      "C": "धौलागिरी",
+      "D": "अन्नपूर्णा"
+    },
+    "correctAnswer": "B",
+    "explanation": "माउंट एवरेस्ट (8848.86 मीटर) भारत के सबसे ऊंचे पर्वत शिखर हैं। (नोट: भारत में कंचनजंगा सबसे ऊंचा है)",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 16,
+    "subject": "General Knowledge",
+    "text": "भारत की सबसे लंबी नदी कौन सी है?",
+    "options": {
+      "A": "ब्रह्मपुत्र",
+      "B": "गंगा",
+      "C": "यमुना",
+      "D": "सिंधु"
+    },
+    "correctAnswer": "B",
+    "explanation": "गंगा नदी भारत की सबसे लंबी नदी है (2525 किमी)।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 17,
+    "subject": "General Knowledge",
+    "text": "उत्तर प्रदेश में कुल कितने लोकसभा निर्वाचन क्षेत्र (सीटें) हैं? (UP B.Ed 2018, 2022)",
+    "options": {
+      "A": "75",
+      "B": "80",
+      "C": "85",
+      "D": "90"
+    },
+    "correctAnswer": "B",
+    "explanation": "उत्तर प्रदेश में लोक सभा की सर्वाधिक 80 सीटें हैं। राज्य सभा की 31 सीटें हैं।",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 18,
+    "subject": "General Knowledge",
+    "text": "यूपी (उत्तर प्रदेश) का राजधानी शहर क्या है?",
+    "options": {
+      "A": "वाराणसी",
+      "B": "कानपुर",
+      "C": "लखनऊ",
+      "D": "आगरा"
+    },
+    "correctAnswer": "C",
+    "explanation": "लखनऊ उत्तर प्रदेश की राजधानी है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 19,
+    "subject": "General Knowledge",
+    "text": "वर्तमान में भारत का प्रधानमंत्री कौन है?",
+    "options": {
+      "A": "राहुल गांधी",
+      "B": "नरेंद्र मोदी",
+      "C": "मनमोहन सिंह",
+      "D": "नितीश कुमार"
+    },
+    "correctAnswer": "B",
+    "explanation": "नरेंद्र मोदी भारत के वर्तमान प्रधानमंत्री हैं (2014 से)।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 20,
+    "subject": "General Knowledge",
+    "text": "भारत का सबसे बड़ा शहर कौन सा है?",
+    "options": {
+      "A": "दिल्ली",
+      "B": "कोलकाता",
+      "C": "मुंबई",
+      "D": "चेन्नई"
+    },
+    "correctAnswer": "C",
+    "explanation": "मुंबई भारत का सबसे बड़ा शहर है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 21,
+    "subject": "General Knowledge",
+    "text": "विश्व का सबसे बड़ा लोकतंत्र कौन सा देश है?",
+    "options": {
+      "A": "अमेरिका",
+      "B": "भारत",
+      "C": "यूरोप",
+      "D": "चीन"
+    },
+    "correctAnswer": "B",
+    "explanation": "भारत विश्व का सबसे बड़ा लोकतंत्र है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 22,
+    "subject": "General Knowledge",
+    "text": "संयुक्त राष्ट्र संघ की स्थापना कब हुई?",
+    "options": {
+      "A": "1944",
+      "B": "1945",
+      "C": "1946",
+      "D": "1947"
+    },
+    "correctAnswer": "B",
+    "explanation": "संयुक्त राष्ट्र संघ की स्थापना 24 अक्टूबर 1945 को हुई थी।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 23,
+    "subject": "General Knowledge",
+    "text": "भारत की पहली महिला प्रधानमंत्री कौन थीं?",
+    "options": {
+      "A": "शीला दीक्षित",
+      "B": "इंदिरा गांधी",
+      "C": "प्रतिभा पाटिल",
+      "D": "सोनिया गांधी"
+    },
+    "correctAnswer": "B",
+    "explanation": "इंदिरा गांधी भारत की प्रथम महिला प्रधानमंत्री थीं (1966-77, 1980-84)।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 24,
+    "subject": "General Knowledge",
+    "text": "भारत का सबसे बड़ा तालाब कौन सा है?",
+    "options": {
+      "A": "वुलर झील",
+      "B": "डल झील",
+      "C": "पुलिकट झील",
+      "D": "सांभर झील"
+    },
+    "correctAnswer": "A",
+    "explanation": "वुलर झील कश्मीर में स्थित भारत की सबसे बड़ी मीठे पानी की झील है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 25,
+    "subject": "General Knowledge",
+    "text": "भारत का सबसे बड़ा बांध कौन सा है?",
+    "options": {
+      "A": "भाखड़ा बांध",
+      "B": "नर्मदा बांध",
+      "C": "सरदार सरोवर बांध",
+      "D": "दामोदर बांध"
+    },
+    "correctAnswer": "C",
+    "explanation": "सरदार सरोवर बांध भारत का सबसे बड़ा बांध है (गुजरात में)।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 26,
+    "subject": "General Knowledge",
+    "text": "स्वतंत्र भारत के प्रथम शिक्षा मंत्री कौन थे? (UP B.Ed 2015, 2021)",
+    "options": {
+      "A": "डॉ. सर्वपल्ली राधाकृष्णन",
+      "B": "मौलाना अबुल कलाम आजाद",
+      "C": "जवाहरलाल नेहरू",
+      "D": "डॉ. बी.आर. अंबेडकर"
+    },
+    "correctAnswer": "B",
+    "explanation": "मौलाना अबुल कलाम आजाद स्वतंत्र भारत के पहले शिक्षा मंत्री थे। उनके जन्मदिवस (11 नवंबर) को राष्ट्रीय शिक्षा दिवस के रूप में मनाया जाता है।",
+    "frequency": 2,
+    "probability": 94,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 27,
+    "subject": "General Knowledge",
+    "text": "भारत के संविधान के जनक कौन हैं?",
+    "options": {
+      "A": "जवाहरलाल नेहरू",
+      "B": "डॉ. बी.आर. अंबेडकर",
+      "C": "राजेन्द्र प्रसाद",
+      "D": "सरदार पटेल"
+    },
+    "correctAnswer": "B",
+    "explanation": "डॉ. बी.आर. अंबेडकर को भारत के संविधान का जनक माना जाता है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 28,
+    "subject": "General Knowledge",
+    "text": "भारत की पहली महिला राष्ट्रपति कौन थीं?",
+    "options": {
+      "A": "प्रतिभा पाटिल",
+      "B": "इंदिरा गांधी",
+      "C": "ड्रौपदी मुर्मू",
+      "D": "किरण बेदी"
+    },
+    "correctAnswer": "A",
+    "explanation": "प्रतिभा पाटिल भारत की पहली महिला राष्ट्रपति थीं (2007-2012)।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 29,
+    "subject": "General Knowledge",
+    "text": "भारत की सबसे बड़ी फिल्म इंडस्ट्री कहां है?",
+    "options": {
+      "A": "कोलकाता",
+      "B": "मुंबई",
+      "C": "चेन्नई",
+      "D": "बेंगलुरु"
+    },
+    "correctAnswer": "B",
+    "explanation": "मुंबई में हॉलीवुड के बाद दुनिया की सबसे बड़ी फिल्म इंडस्ट्री है (बॉलीवुड)।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 30,
+    "subject": "General Knowledge",
+    "text": "विश्व का सबसे छोटा देश कौन सा है?",
+    "options": {
+      "A": "लक्समबर्ग",
+      "B": "माल्टा",
+      "C": "वेटिकन सिटी",
+      "D": "मोनाको"
+    },
+    "correctAnswer": "C",
+    "explanation": "वेटिकन सिटी विश्व का सबसे छोटा देश है (0.44 वर्ग किमी)।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 31,
+    "subject": "General Knowledge",
+    "text": "नोबेल पुरस्कार कहां से दिया जाता है?",
+    "options": {
+      "A": "जर्मनी",
+      "B": "स्वीडन",
+      "C": "नॉर्वे",
+      "D": "डेनमार्क"
+    },
+    "correctAnswer": "B",
+    "explanation": "नोबेल पुरस्कार स्वीडन से दिया जाता है। शांति पुरस्कार नॉर्वे से दिया जाता है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 32,
+    "subject": "General Knowledge",
+    "text": "भारत ने ओलंपिक में कितने पदक जीते हैं? (मोस्ट रिसेंट)",
+    "options": {
+      "A": "22",
+      "B": "28",
+      "C": "30",
+      "D": "35"
+    },
+    "correctAnswer": "C",
+    "explanation": "भारत ने विभिन्न ओलंपिक खेलों में कुल मिलाकर 30+ पदक जीते हैं।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 33,
+    "subject": "General Knowledge",
+    "text": "भारत का संविधान कितने भागों में विभाजित है?",
+    "options": {
+      "A": "20",
+      "B": "22",
+      "C": "25",
+      "D": "30"
+    },
+    "correctAnswer": "B",
+    "explanation": "भारत का संविधान 22 भागों में विभाजित है।",
+    "frequency": 0,
+    "probability": 85,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 34,
+    "subject": "General Knowledge",
+    "text": "भारत की पार्लियामेंट में कितने सदन हैं?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correctAnswer": "B",
+    "explanation": "भारत की पार्लियामेंट में 2 सदन हैं - लोक सभा और राज्य सभा।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 35,
+    "subject": "General Knowledge",
+    "text": "राज्य सभा के सदस्यों का कार्यकाल कितना होता है?",
+    "options": {
+      "A": "3 वर्ष",
+      "B": "5 वर्ष",
+      "C": "6 वर्ष",
+      "D": "7 वर्ष"
+    },
+    "correctAnswer": "C",
+    "explanation": "राज्य सभा के सदस्यों का कार्यकाल 6 वर्ष का होता है।",
+    "frequency": 0,
+    "probability": 82,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 36,
+    "subject": "General Knowledge",
+    "text": "लोक सभा का कार्यकाल कितना होता है?",
+    "options": {
+      "A": "3 वर्ष",
+      "B": "4 वर्ष",
+      "C": "5 वर्ष",
+      "D": "6 वर्ष"
+    },
+    "correctAnswer": "C",
+    "explanation": "लोक सभा का कार्यकाल 5 वर्ष का होता है।",
+    "frequency": 0,
+    "probability": 87,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 37,
+    "subject": "General Knowledge",
+    "text": "भारत के सर्वोच्च न्यायालय के मुख्य न्यायाधीश की नियुक्ति किस आयु तक होती है?",
+    "options": {
+      "A": "60 वर्ष",
+      "B": "62 वर्ष",
+      "C": "65 वर्ष",
+      "D": "70 वर्ष"
+    },
+    "correctAnswer": "C",
+    "explanation": "सर्वोच्च न्यायालय के मुख्य न्यायाधीश की अनिवार्य सेवानिवृत्ति 65 वर्ष की आयु पर होती है।",
+    "frequency": 0,
+    "probability": 83,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 38,
+    "subject": "General Knowledge",
+    "text": "भारत की अर्थव्यवस्था किस प्रकार की है?",
+    "options": {
+      "A": "पूंजीवादी",
+      "B": "समाजवादी",
+      "C": "मिश्रित",
+      "D": "कोई नहीं"
+    },
+    "correctAnswer": "C",
+    "explanation": "भारत की अर्थव्यवस्था मिश्रित है - पूंजीवाद और समाजवाद का मिश्रण।",
+    "frequency": 0,
+    "probability": 84,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 39,
+    "subject": "General Knowledge",
+    "text": "भारत के वर्तमान राष्ट्रपति कौन हैं?",
+    "options": {
+      "A": "राम नाथ कोविंद",
+      "B": "ड्रौपदी मुर्मू",
+      "C": "प्रतिभा पाटिल",
+      "D": "मोहम्मद हामिद अंसारी"
+    },
+    "correctAnswer": "B",
+    "explanation": "ड्रौपदी मुर्मू भारत की वर्तमान राष्ट्रपति हैं (2022 से)।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 40,
+    "subject": "General Knowledge",
+    "text": "भारत के वर्तमान उप-राष्ट्रपति कौन हैं?",
+    "options": {
+      "A": "जगदीप धनखड़",
+      "B": "एम. वेंकैया नायडू",
+      "C": "हामिद अंसारी",
+      "D": "शंकर दयाल शर्मा"
+    },
+    "correctAnswer": "A",
+    "explanation": "जगदीप धनखड़ भारत के वर्तमान उप-राष्ट्रपति हैं (2022 से)।",
+    "frequency": 0,
+    "probability": 85,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 41,
+    "subject": "General Knowledge",
+    "text": "विश्व बैंक का मुख्यालय कहां है?",
+    "options": {
+      "A": "न्यूयॉर्क",
+      "B": "वाशिंगटन डी.सी.",
+      "C": "लंदन",
+      "D": "पेरिस"
+    },
+    "correctAnswer": "B",
+    "explanation": "विश्व बैंक का मुख्यालय वाशिंगटन डी.सी. में है।",
+    "frequency": 0,
+    "probability": 81,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 42,
+    "subject": "General Knowledge",
+    "text": "अंतर्राष्ट्रीय मुद्रा कोष (IMF) का मुख्यालय कहां है?",
+    "options": {
+      "A": "न्यूयॉर्क",
+      "B": "वाशिंगटन डी.सी.",
+      "C": "जेनेवा",
+      "D": "टोक्यो"
+    },
+    "correctAnswer": "B",
+    "explanation": "IMF का मुख्यालय भी वाशिंगटन डी.सी. में है।",
+    "frequency": 0,
+    "probability": 80,
+    "sourceYear": "2018-2024",
+    "isReal": true
+  },
+  {
+    "id": 43,
+    "subject": "General Knowledge",
+    "text": "विश्व पर्यावरण दिवस कब मनाया जाता है? (UP B.Ed 2018, 2021)",
+    "options": {
+      "A": "5 जून",
+      "B": "11 जुलाई",
+      "C": "5 सितंबर",
+      "D": "12 अक्टूबर"
+    },
+    "correctAnswer": "A",
+    "explanation": "विश्व पर्यावरण दिवस हर साल 5 जून को मनाया जाता है।",
+    "frequency": 5,
+    "probability": 95,
+    "sourceYear": "2018, 2021",
+    "isReal": true
+  },
+  {
+    "id": 44,
+    "subject": "General Knowledge",
+    "text": "'डिस्कवरी ऑफ इंडिया' (भारत की खोज) पुस्तक के लेखक कौन हैं? (UP B.Ed 2017, 2019)",
+    "options": {
+      "A": "महात्मा गांधी",
+      "B": "जवाहरलाल नेहरू",
+      "C": "सुभाष चंद्र बोस",
+      "D": "रवींद्रनाथ टैगोर"
+    },
+    "correctAnswer": "B",
+    "explanation": "यह पुस्तक भारत के प्रथम प्रधानमंत्री पंडित जवाहरलाल नेहरू द्वारा 1944 में अहमदनगर जेल में लिखी गई थी।",
+    "frequency": 4,
+    "probability": 90,
+    "sourceYear": "2017, 2019",
+    "isReal": true
+  },
+  {
+    "id": 45,
+    "subject": "General Knowledge",
+    "text": "उत्तर प्रदेश का राजकीय पुष्प कौन सा है? (UP B.Ed 2019, 2022)",
+    "options": {
+      "A": "कमल",
+      "B": "गुलाब",
+      "C": "पलाश",
+      "D": "गेंदा"
+    },
+    "correctAnswer": "C",
+    "explanation": "पलाश (टेसू) उत्तर प्रदेश का राजकीय पुष्प है।",
+    "frequency": 6,
+    "probability": 98,
+    "sourceYear": "2019, 2022",
+    "isReal": true
+  },
+  {
+    "id": 46,
+    "subject": "General Knowledge",
+    "text": "भारत की पहली महिला राज्यपाल कौन थीं? (UP B.Ed 2016, 2020)",
+    "options": {
+      "A": "सुचेता कृपलानी",
+      "B": "सरोजिनी नायडू",
+      "C": "इंदिरा गांधी",
+      "D": "एनी बेसेंट"
+    },
+    "correctAnswer": "B",
+    "explanation": "सरोजिनी नायडू भारत की (और उत्तर प्रदेश की) पहली महिला राज्यपाल थीं।",
+    "frequency": 5,
+    "probability": 92,
+    "sourceYear": "2016, 2020",
+    "isReal": true
+  },
+  {
+    "id": 47,
+    "subject": "General Knowledge",
+    "text": "आर्य समाज की स्थापना किसने की थी? (UP B.Ed 2015, 2023)",
+    "options": {
+      "A": "राजा राममोहन राय",
+      "B": "स्वामी विवेकानंद",
+      "C": "स्वामी दयानंद सरस्वती",
+      "D": "ईश्वर चंद्र विद्यासागर"
+    },
+    "correctAnswer": "C",
+    "explanation": "स्वामी दयानंद सरस्वती ने 1875 में बंबई में आर्य समाज की स्थापना की थी।",
+    "frequency": 4,
+    "probability": 88,
+    "sourceYear": "2015, 2023",
+    "isReal": true
+  },
+  {
+    "id": 48,
+    "subject": "General Knowledge",
+    "text": "चौरी-चौरा की घटना किस वर्ष हुई थी? (UP B.Ed 2018, 2021)",
+    "options": {
+      "A": "1920",
+      "B": "1922",
+      "C": "1925",
+      "D": "1930"
+    },
+    "correctAnswer": "B",
+    "explanation": "चौरी-चौरा घटना 4 फरवरी 1922 को गोरखपुर, उत्तर प्रदेश में हुई थी।",
+    "frequency": 4,
+    "probability": 85,
+    "sourceYear": "2018, 2021",
+    "isReal": true
+  },
+  {
+    "id": 49,
+    "subject": "General Knowledge",
+    "text": "उत्तर प्रदेश का राजकीय पशु कौन सा है? (UP B.Ed 2018, 2022)",
+    "options": {
+      "A": "बाघ",
+      "B": "बारहसिंगा (दलदल का हिरण)",
+      "C": "हाथी",
+      "D": "एक सींग वाला गैंडा"
+    },
+    "correctAnswer": "B",
+    "explanation": "उत्तर प्रदेश का राजकीय पशु बारहसिंगा (Swamp Deer) है।",
+    "frequency": 3,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 50,
+    "subject": "General Knowledge",
+    "text": "उत्तर प्रदेश का राजकीय पक्षी कौन सा है? (UP B.Ed 2019, 2023)",
+    "options": {
+      "A": "मोर",
+      "B": "सारस क्रेन",
+      "C": "कोयल",
+      "D": "गौरैया"
+    },
+    "correctAnswer": "B",
+    "explanation": "उत्तर प्रदेश का राजकीय पक्षी सारस (Sarus Crane) है।",
+    "frequency": 2,
+    "probability": 92,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  }
+]

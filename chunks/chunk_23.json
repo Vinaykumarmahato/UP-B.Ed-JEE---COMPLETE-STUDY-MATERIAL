@@ -1,0 +1,852 @@
+[
+  {
+    "id": 1151,
+    "subject": "Reasoning",
+    "text": "भार के आधार पर: P, Q से भारी है; R, S से हल्का है; T, S से भारी है लेकिन Q से हल्का है। इनमें से सबसे भारी कौन है?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "T",
+      "D": "S"
+    },
+    "correctAnswer": "A",
+    "explanation": "भार का घटता क्रम: P > Q। T, S से भारी पर Q से हल्का है: Q > T > S। R, S से हल्का है: S > R। संपूर्ण क्रम: P > Q > T > S > R। अतः सबसे भारी P है।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1152,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2017) वृक्षों की एक पंक्ति में, एक वृक्ष दोनों सिरों से 5वें स्थान पर है। पंक्ति में कुल कितने वृक्ष हैं?",
+    "options": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "8"
+    },
+    "correctAnswer": "A",
+    "explanation": "कुल वृक्ष = (बाईं ओर से स्थान) + (दाईं ओर से स्थान) - 1 = 5 + 5 - 1 = 9 वृक्ष।",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 1153,
+    "subject": "Reasoning",
+    "text": "पांच पुस्तकें A, B, C, D और E एक के ऊपर एक रखी हैं। C, D के ऊपर है। E, A के नीचे है। D, A के ऊपर है। B, E के नीचे है। सबसे नीचे रखी पुस्तक कौन सी है?",
+    "options": {
+      "A": "B",
+      "B": "E",
+      "C": "A",
+      "D": "D"
+    },
+    "correctAnswer": "A",
+    "explanation": "क्रम इस प्रकार है: C > D, D > A, A > E, E > B। संपूर्ण क्रम: C > D > A > E > B। अतः सबसे नीचे पुस्तक B रखी है।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1154,
+    "subject": "Reasoning",
+    "text": "लड़कियों की एक पंक्ति में, सीमा बाईं ओर से 8वीं है और रेखा दाईं ओर से 17वीं है। यदि वे दोनों आपस में स्थान बदल लें, तो सीमा बाईं ओर से 14वीं हो जाती है। पंक्ति में कुल कितनी लड़कियां हैं?",
+    "options": {
+      "A": "30",
+      "B": "31",
+      "C": "29",
+      "D": "32"
+    },
+    "correctAnswer": "A",
+    "explanation": "स्थान परिवर्तन के बाद सीमा का स्थान बाईं ओर से 14वां है, जो कि रेखा का पुराना स्थान (दाईं ओर से 17वां) है। कुल लड़कियां = 14 + 17 - 1 = 30।",
+    "frequency": 0,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1155,
+    "subject": "Reasoning",
+    "text": "(UP B.Ed 2022) छह व्यक्ति A, B, C, D, E, F हैं। A, D से लंबा है लेकिन E से छोटा है। B, F से लंबा है लेकिन C से छोटा है। E, B से छोटा है। इनमें से सबसे लंबा कौन है?",
+    "options": {
+      "A": "C",
+      "B": "B",
+      "C": "E",
+      "D": "A"
+    },
+    "correctAnswer": "A",
+    "explanation": "लंबाई का क्रम: E > A > D। C > B > F। चूँकि E, B से छोटा है, तो B > E। संपूर्ण क्रम जोड़ने पर: C > B > E > A > D, F। अतः सबसे लंबा C है।",
+    "frequency": 3,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 1156,
+    "subject": "Reasoning",
+    "text": "60 छात्रों की एक कक्षा में जहाँ लड़कियों की संख्या लड़कों से दोगुनी है, कमल ने ऊपर से 17वां स्थान प्राप्त किया। यदि कमल से आगे 9 लड़कियां हैं, तो उसके बाद रैंक में कितने लड़के हैं?",
+    "options": {
+      "A": "12",
+      "B": "13",
+      "C": "15",
+      "D": "10"
+    },
+    "correctAnswer": "A",
+    "explanation": "कुल छात्र = 60। लड़कियां = 40, लड़के = 20। कमल का स्थान ऊपर से 17वां है। कमल से आगे 9 लड़कियां हैं, अतः कमल से आगे लड़के = 17 - 1 - 9 = 7 लड़के। चूंकि कमल स्वयं एक लड़का है, वह ऊपर से 8वां लड़का है। कुल लड़के = 20। अतः कमल के बाद लड़कों की संख्या = 20 - 8 = 12 लड़के।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1157,
+    "subject": "Reasoning",
+    "text": "सुरेश, दिनेश से आयु में बड़ा है। दिनेश, रमेश से छोटा है लेकिन राकेश से बड़ा है। इन चारों में सबसे छोटा कौन है?",
+    "options": {
+      "A": "राकेश",
+      "B": "दिनेश",
+      "C": "रमेश",
+      "D": "सुरेश"
+    },
+    "correctAnswer": "A",
+    "explanation": "सुरेश > दिनेश। रमेश > दिनेश। दिनेश > राकेश। अतः आयु क्रम में राकेश सबसे छोटा है क्योंकि दिनेश उससे बड़ा है और सुरेश व रमेश दोनों दिनेश से बड़े हैं।",
+    "frequency": 0,
+    "probability": 94,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1158,
+    "subject": "General Knowledge",
+    "text": "भारत में राष्ट्रीय मतदाता दिवस कब मनाया जाता है? (UP B.Ed 2022)",
+    "options": {
+      "A": "15 जनवरी",
+      "B": "25 जनवरी",
+      "C": "26 जनवरी",
+      "D": "30 जनवरी"
+    },
+    "correctAnswer": "B",
+    "explanation": "राष्ट्रीय मतदाता दिवस प्रतिवर्ष 25 जनवरी को मनाया जाता है। भारत निर्वाचन आयोग की स्थापना 25 जनवरी 1950 को हुई थी, इसी उपलक्ष्य में यह दिवस मनाया जाता है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 1159,
+    "subject": "English Grammar",
+    "text": "Choose the correct form: She ___ to school every day. (UP B.Ed 2018)",
+    "options": {
+      "A": "go",
+      "B": "goes",
+      "C": "going",
+      "D": "gone"
+    },
+    "correctAnswer": "B",
+    "explanation": "With third-person singular subjects (she/he/it), we add 's' to the verb in Simple Present Tense. Hence 'goes' is correct.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 1160,
+    "subject": "English Grammar",
+    "text": "Choose the correct passive voice: 'They are building a new hospital.'",
+    "options": {
+      "A": "A new hospital is being built by them.",
+      "B": "A new hospital was built by them.",
+      "C": "A new hospital will be built by them.",
+      "D": "A new hospital has been built by them."
+    },
+    "correctAnswer": "A",
+    "explanation": "Present Continuous Tense passive: Subject + is/are/am + being + past participle + by + object.",
+    "frequency": 1,
+    "probability": 94,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1161,
+    "subject": "English Grammar",
+    "text": "What is the meaning of the idiom 'To beat about the bush'? (UP B.Ed 2019)",
+    "options": {
+      "A": "To hit the plants",
+      "B": "To avoid the main topic",
+      "C": "To work in a garden",
+      "D": "To be very quick"
+    },
+    "correctAnswer": "B",
+    "explanation": "'To beat about the bush' means to talk around a subject without getting to the main point, i.e., to avoid the main topic.",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 1162,
+    "subject": "English Grammar",
+    "text": "Select the correct sentence:",
+    "options": {
+      "A": "I have seen him yesterday.",
+      "B": "I saw him yesterday.",
+      "C": "I had seen him yesterday.",
+      "D": "I was seeing him yesterday."
+    },
+    "correctAnswer": "B",
+    "explanation": "With specific past time expressions like 'yesterday', Simple Past Tense (saw) is used, not Present Perfect (have seen).",
+    "frequency": 1,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1163,
+    "subject": "English Grammar",
+    "text": "Choose the correct article: ___ honest man is respected everywhere. (UP B.Ed 2020)",
+    "options": {
+      "A": "A",
+      "B": "An",
+      "C": "The",
+      "D": "No article"
+    },
+    "correctAnswer": "B",
+    "explanation": "'An' is used before words starting with a vowel sound. 'Honest' begins with a silent 'h', so its vowel sound is /ɒ/, making 'An' the correct article.",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 1164,
+    "subject": "English Grammar",
+    "text": "Choose the correct preposition: He is good ___ mathematics. (UP B.Ed 2021)",
+    "options": {
+      "A": "in",
+      "B": "at",
+      "C": "on",
+      "D": "with"
+    },
+    "correctAnswer": "B",
+    "explanation": "The correct preposition with 'good' when talking about skills or subjects is 'at'. 'Good at mathematics' is the correct usage.",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 1165,
+    "subject": "English Grammar",
+    "text": "Change the voice: 'The teacher punished the student.' (UP B.Ed 2022)",
+    "options": {
+      "A": "The student was punished by the teacher.",
+      "B": "The student is punished by the teacher.",
+      "C": "The student has been punished by the teacher.",
+      "D": "The student had been punished by the teacher."
+    },
+    "correctAnswer": "A",
+    "explanation": "Simple Past Active → Simple Past Passive. Object becomes subject + was/were + past participle + by + agent.",
+    "frequency": 3,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 1166,
+    "subject": "English Grammar",
+    "text": "Choose the synonym of 'Eloquent': (UP B.Ed 2018)",
+    "options": {
+      "A": "Silent",
+      "B": "Fluent",
+      "C": "Rude",
+      "D": "Nervous"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Eloquent' means fluent or persuasive in speaking or writing. Hence 'Fluent' is the correct synonym.",
+    "frequency": 2,
+    "probability": 94,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 1167,
+    "subject": "English Grammar",
+    "text": "Choose the antonym of 'Diligent': (UP B.Ed 2019)",
+    "options": {
+      "A": "Hardworking",
+      "B": "Sincere",
+      "C": "Lazy",
+      "D": "Attentive"
+    },
+    "correctAnswer": "C",
+    "explanation": "'Diligent' means careful and hardworking. Its antonym is 'Lazy', which means not willing to work hard.",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 1168,
+    "subject": "English Grammar",
+    "text": "Convert to indirect speech: He said, 'I am happy.' (UP B.Ed 2020)",
+    "options": {
+      "A": "He said that he was happy.",
+      "B": "He said that he is happy.",
+      "C": "He said that I am happy.",
+      "D": "He told that he was happy."
+    },
+    "correctAnswer": "A",
+    "explanation": "In indirect speech, 'said' remains 'said', 'I' changes to 'he', and 'am' changes to 'was' (backshift of tense).",
+    "frequency": 3,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 1169,
+    "subject": "English Grammar",
+    "text": "Fill in the blank with correct tense: By tomorrow, she ___ the project. (UP B.Ed 2023)",
+    "options": {
+      "A": "will complete",
+      "B": "will have completed",
+      "C": "completes",
+      "D": "has completed"
+    },
+    "correctAnswer": "B",
+    "explanation": "Future Perfect Tense is used for actions that will be completed before a specific future time. 'By tomorrow' indicates this, so 'will have completed' is correct.",
+    "frequency": 1,
+    "probability": 92,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 1170,
+    "subject": "English Grammar",
+    "text": "Identify the correct sentence:",
+    "options": {
+      "A": "The furnitures are expensive.",
+      "B": "The furniture are expensive.",
+      "C": "The furniture is expensive.",
+      "D": "The furnitures is expensive."
+    },
+    "correctAnswer": "C",
+    "explanation": "'Furniture' is an uncountable noun and cannot be pluralized. It always takes a singular verb ('is').",
+    "frequency": 1,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1171,
+    "subject": "English Grammar",
+    "text": "What is the meaning of the idiom 'Bite the bullet'? (UP B.Ed 2024)",
+    "options": {
+      "A": "To eat fast",
+      "B": "To endure a painful situation with courage",
+      "C": "To start a fight",
+      "D": "To make a quick decision"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Bite the bullet' means to endure a painful or difficult situation bravely without complaining.",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2024",
+    "isReal": true
+  },
+  {
+    "id": 1172,
+    "subject": "English Grammar",
+    "text": "Choose the correct form: Neither of the answers ___ correct. (UP B.Ed 2017)",
+    "options": {
+      "A": "are",
+      "B": "were",
+      "C": "is",
+      "D": "have been"
+    },
+    "correctAnswer": "C",
+    "explanation": "'Neither' refers to 'not one and not the other' and is singular. It takes a singular verb ('is').",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 1173,
+    "subject": "English Grammar",
+    "text": "Select the correct spelling:",
+    "options": {
+      "A": "Occassion",
+      "B": "Occasion",
+      "C": "Ocassion",
+      "D": "Occacion"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Occasion' is the correct spelling. Common mistake is doubling 's' or missing double 'c'. Remember: oc-ca-sion.",
+    "frequency": 1,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1174,
+    "subject": "English Grammar",
+    "text": "Choose the correct conditional: If it ___ tomorrow, we will cancel the trip. (UP B.Ed 2021)",
+    "options": {
+      "A": "rains",
+      "B": "rained",
+      "C": "will rain",
+      "D": "had rained"
+    },
+    "correctAnswer": "A",
+    "explanation": "In First Conditional (real possibility), the If-clause uses Simple Present Tense: 'If it rains'. The main clause uses Future Simple.",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 1175,
+    "subject": "English Grammar",
+    "text": "Choose the correctly spelled word: (UP B.Ed 2022)",
+    "options": {
+      "A": "Recieve",
+      "B": "Receive",
+      "C": "Recive",
+      "D": "Receieve"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Receive' is the correct spelling. Remember the rule: 'i before e, except after c'. After 'c', 'e' comes before 'i': re-ceive.",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 1176,
+    "subject": "English Grammar",
+    "text": "Choose the synonym of 'Benevolent': (UP B.Ed 2023)",
+    "options": {
+      "A": "Cruel",
+      "B": "Charitable",
+      "C": "Greedy",
+      "D": "Selfish"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Benevolent' means well-meaning and kindly; wishing or doing good. Its synonym is 'Charitable'.",
+    "frequency": 1,
+    "probability": 92,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 1177,
+    "subject": "English Grammar",
+    "text": "What does the phrase 'Pull someone's leg' mean?",
+    "options": {
+      "A": "To injure someone",
+      "B": "To jokingly deceive someone",
+      "C": "To help someone",
+      "D": "To race with someone"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Pull someone's leg' is an idiom meaning to joke with or tease someone, often by telling them something untrue as a prank.",
+    "frequency": 1,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1178,
+    "subject": "English Grammar",
+    "text": "Identify the error: 'Each of the students have submitted their homework.' (UP B.Ed 2019)",
+    "options": {
+      "A": "Each of",
+      "B": "students have",
+      "C": "their homework",
+      "D": "No error"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Each' is always singular and requires a singular verb. The correct form is 'Each of the students has submitted'.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 1179,
+    "subject": "English Grammar",
+    "text": "Choose the correct preposition: She has been waiting ___ two hours. (UP B.Ed 2020)",
+    "options": {
+      "A": "since",
+      "B": "from",
+      "C": "for",
+      "D": "during"
+    },
+    "correctAnswer": "C",
+    "explanation": "'For' is used with a period/duration of time (two hours, three days). 'Since' is used with a point of time (since morning, since 2019).",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 1180,
+    "subject": "English Grammar",
+    "text": "Choose the antonym of 'Transparent': (UP B.Ed 2018)",
+    "options": {
+      "A": "Clear",
+      "B": "Opaque",
+      "C": "Honest",
+      "D": "Visible"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Transparent' means allowing light to pass through so that objects behind can be clearly seen. Its antonym is 'Opaque', which means not transparent.",
+    "frequency": 1,
+    "probability": 93,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 1181,
+    "subject": "English Grammar",
+    "text": "Which is the correct indirect speech: She said, 'I will go tomorrow.' (UP B.Ed 2022)",
+    "options": {
+      "A": "She said that she will go the next day.",
+      "B": "She said that she would go the next day.",
+      "C": "She said that I will go the next day.",
+      "D": "She said that she would go tomorrow."
+    },
+    "correctAnswer": "B",
+    "explanation": "In indirect speech: 'I' → 'she'; 'will' → 'would'; 'tomorrow' → 'the next day'. The tense shifts back (backshift).",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 1182,
+    "subject": "English Grammar",
+    "text": "What is the meaning of the idiom 'Hit the sack'?",
+    "options": {
+      "A": "To start work",
+      "B": "To go to bed",
+      "C": "To make a mistake",
+      "D": "To travel long distance"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Hit the sack' is an informal idiom meaning to go to bed or go to sleep.",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1183,
+    "subject": "English Grammar",
+    "text": "Choose the correct article: He wants to be ___ engineer. (UP B.Ed 2021)",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "No article"
+    },
+    "correctAnswer": "B",
+    "explanation": "'An' is used before words starting with a vowel sound. 'Engineer' starts with a vowel sound /ɛ/, so 'an' is used.",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 1184,
+    "subject": "English Grammar",
+    "text": "Select the correct sentence using 'much' and 'many': (UP B.Ed 2023)",
+    "options": {
+      "A": "How many water do you need?",
+      "B": "How much milk do you want?",
+      "C": "There are many informations.",
+      "D": "I have much books."
+    },
+    "correctAnswer": "B",
+    "explanation": "'Much' is used with uncountable nouns (milk, water, information). 'Many' is used with countable nouns (books, chairs). 'Milk' is uncountable, so 'much milk' is correct.",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 1185,
+    "subject": "English Grammar",
+    "text": "Choose the correct tense: When I reached the station, the train ___. (UP B.Ed 2017)",
+    "options": {
+      "A": "already left",
+      "B": "has already left",
+      "C": "had already left",
+      "D": "already leaves"
+    },
+    "correctAnswer": "C",
+    "explanation": "Past Perfect Tense (had + past participle) is used for an action completed before another past action. 'Had already left' is correct.",
+    "frequency": 3,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 1186,
+    "subject": "English Grammar",
+    "text": "Choose the correct passive form: 'Who wrote this letter?' (UP B.Ed 2024)",
+    "options": {
+      "A": "By whom was this letter written?",
+      "B": "Who was this letter written?",
+      "C": "By who was this letter written?",
+      "D": "Whom was this letter written by?"
+    },
+    "correctAnswer": "A",
+    "explanation": "In passive voice questions, 'Who' becomes 'By whom' and the verb changes to was/were + past participle. 'By whom was this letter written?' is correct.",
+    "frequency": 2,
+    "probability": 94,
+    "sourceYear": "UP B.Ed 2024",
+    "isReal": true
+  },
+  {
+    "id": 1187,
+    "subject": "English Grammar",
+    "text": "Choose the correctly spelled word: (UP B.Ed 2020)",
+    "options": {
+      "A": "Accomodate",
+      "B": "Accommodate",
+      "C": "Acomodate",
+      "D": "Acommodate"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Accommodate' has double 'c' and double 'm'. A common mnemonic: it can accommodate both a double 'c' and a double 'm'.",
+    "frequency": 1,
+    "probability": 91,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 1188,
+    "subject": "English Grammar",
+    "text": "What does the idiom 'Under the weather' mean? (UP B.Ed 2021)",
+    "options": {
+      "A": "Outside in rain",
+      "B": "Feeling ill or unwell",
+      "C": "Being lost",
+      "D": "Very happy"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Under the weather' means to feel slightly ill or unwell. It's an idiomatic expression used when one is not feeling their best.",
+    "frequency": 1,
+    "probability": 92,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 1189,
+    "subject": "English Grammar",
+    "text": "Identify the type of sentence: 'What a beautiful painting this is!' (UP B.Ed 2018)",
+    "options": {
+      "A": "Declarative",
+      "B": "Interrogative",
+      "C": "Imperative",
+      "D": "Exclamatory"
+    },
+    "correctAnswer": "D",
+    "explanation": "A sentence that expresses strong emotion or feeling is called Exclamatory. It usually starts with 'What' or 'How' and ends with '!'.",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 1190,
+    "subject": "English Grammar",
+    "text": "Choose the correct word: She gave me ___ advice on this matter. (UP B.Ed 2022)",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "No article"
+    },
+    "correctAnswer": "D",
+    "explanation": "'Advice' is an uncountable noun, so it cannot be preceded by 'a/an'. We can say 'some advice' or just 'advice'. No article is used here.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 1191,
+    "subject": "English Grammar",
+    "text": "Choose the antonym of 'Frugal': (UP B.Ed 2023)",
+    "options": {
+      "A": "Thrifty",
+      "B": "Economical",
+      "C": "Wasteful",
+      "D": "Simple"
+    },
+    "correctAnswer": "C",
+    "explanation": "'Frugal' means sparing or economical with money or food. Its antonym is 'Wasteful', meaning using more than necessary.",
+    "frequency": 1,
+    "probability": 91,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 1192,
+    "subject": "English Grammar",
+    "text": "Choose the correct preposition: The book is ___ the table. (UP B.Ed 2017)",
+    "options": {
+      "A": "at",
+      "B": "on",
+      "C": "in",
+      "D": "by"
+    },
+    "correctAnswer": "B",
+    "explanation": "'On' is used for surfaces. Since a table has a surface, we say 'the book is on the table'. 'In' is used for enclosed spaces.",
+    "frequency": 1,
+    "probability": 90,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 1193,
+    "subject": "English Grammar",
+    "text": "What is the meaning of the idiom 'The ball is in your court'? (UP B.Ed 2019)",
+    "options": {
+      "A": "A sports event is happening",
+      "B": "It is your responsibility to take action",
+      "C": "You have won the game",
+      "D": "You should play more sports"
+    },
+    "correctAnswer": "B",
+    "explanation": "'The ball is in your court' means it is now up to you to take action or make a decision. The responsibility has been passed to you.",
+    "frequency": 1,
+    "probability": 92,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 1194,
+    "subject": "English Grammar",
+    "text": "Convert to active voice: 'The song was sung by her.' (UP B.Ed 2020)",
+    "options": {
+      "A": "She sings the song.",
+      "B": "She sang the song.",
+      "C": "She has sung the song.",
+      "D": "She was singing the song."
+    },
+    "correctAnswer": "B",
+    "explanation": "Simple Past Passive → Simple Past Active. 'By her' → 'She' becomes subject; 'was sung' → 'sang' (simple past). She sang the song.",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 1195,
+    "subject": "English Grammar",
+    "text": "Choose the correct conjunction: He worked hard ___ he failed the exam. (UP B.Ed 2024)",
+    "options": {
+      "A": "so",
+      "B": "and",
+      "C": "but",
+      "D": "because"
+    },
+    "correctAnswer": "C",
+    "explanation": "'But' is a coordinating conjunction used to show contrast or unexpected result. Working hard yet failing shows contrast, so 'but' is correct.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2024",
+    "isReal": true
+  },
+  {
+    "id": 1196,
+    "subject": "English Grammar",
+    "text": "Identify the error: 'He did not went to school yesterday.'",
+    "options": {
+      "A": "He did not",
+      "B": "went",
+      "C": "to school",
+      "D": "No error"
+    },
+    "correctAnswer": "B",
+    "explanation": "After 'did not' (auxiliary verb), the base form of the verb is used. 'Went' should be 'go'. Correct: 'He did not go to school yesterday.'",
+    "frequency": 1,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 1197,
+    "subject": "English Grammar",
+    "text": "Choose the synonym of 'Obstinate': (UP B.Ed 2021)",
+    "options": {
+      "A": "Flexible",
+      "B": "Stubborn",
+      "C": "Cooperative",
+      "D": "Humble"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Obstinate' means stubbornly refusing to change one's opinion or chosen course of action. Its synonym is 'Stubborn'.",
+    "frequency": 2,
+    "probability": 94,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 1198,
+    "subject": "English Grammar",
+    "text": "Choose the correct form: I wish I ___ a doctor. (UP B.Ed 2023)",
+    "options": {
+      "A": "am",
+      "B": "was",
+      "C": "were",
+      "D": "will be"
+    },
+    "correctAnswer": "C",
+    "explanation": "In 'wish' clauses expressing impossible or unreal wishes in the present, 'were' is used for all persons (I/he/she/they wish + were). This is Subjunctive Mood.",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 1199,
+    "subject": "English Grammar",
+    "text": "Choose the correct spelling: (UP B.Ed 2024)",
+    "options": {
+      "A": "Embarassment",
+      "B": "Embarrassment",
+      "C": "Embarasment",
+      "D": "Embarrasssment"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Embarrassment' has double 'r' and double 's'. Remember: em-barr-ass-ment. It's a common misspelling due to the double consonants.",
+    "frequency": 1,
+    "probability": 90,
+    "sourceYear": "UP B.Ed 2024",
+    "isReal": true
+  },
+  {
+    "id": 1200,
+    "subject": "English Grammar",
+    "text": "What is the plural of the noun 'ox'? (UP B.Ed 2019)",
+    "options": {
+      "A": "oxes",
+      "B": "ox",
+      "C": "oxen",
+      "D": "oxens"
+    },
+    "correctAnswer": "C",
+    "explanation": "Oxen is the irregular plural of ox. It does not follow the regular '-s' or '-es' rule. Other irregular plurals: child → children, man → men.",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  }
+]

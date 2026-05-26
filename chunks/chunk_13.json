@@ -1,0 +1,852 @@
+[
+  {
+    "id": 651,
+    "subject": "Hindi Grammar",
+    "text": "'कपीश' में प्रयुक्त संधि का नाम क्या है? (UP B.Ed 2018)",
+    "options": {
+      "A": "वृद्धि संधि",
+      "B": "दीर्घ संधि",
+      "C": "यण संधि",
+      "D": "विसर्ग संधि"
+    },
+    "correctAnswer": "B",
+    "explanation": "कपीश = कपि + ईश (इ + ई = ई), यहाँ दीर्घ स्वर संधि है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 652,
+    "subject": "Hindi Grammar",
+    "text": "'सदैव' में प्रयुक्त संधि का नाम क्या है? (UP B.Ed 2019)",
+    "options": {
+      "A": "व्यंजन संधि",
+      "B": "स्वर संधि (वृद्धि स्वर संधि)",
+      "C": "विसर्ग संधि",
+      "D": "इनमें से कोई नहीं"
+    },
+    "correctAnswer": "B",
+    "explanation": "सदैव = सदा + एव (आ + ए = ऐ), यह वृद्धि स्वर संधि का उदाहरण है, जो स्वर संधि का एक भेद है।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 653,
+    "subject": "Hindi Grammar",
+    "text": "'पवन' का सही संधि-विच्छेद क्या है? (UP B.Ed 2021)",
+    "options": {
+      "A": "प + अवन",
+      "B": "पो + अन",
+      "C": "पौ + अन",
+      "D": "प + वन"
+    },
+    "correctAnswer": "B",
+    "explanation": "पो + अन = पवन। यहाँ अयादि स्वर संधि है (ओ + अ = अव)।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 654,
+    "subject": "Hindi Grammar",
+    "text": "'इत्यादि' का सही संधि-विच्छेद क्या है? (UP B.Ed 2017)",
+    "options": {
+      "A": "इत + आदि",
+      "B": "इति + आदि",
+      "C": "इत्य + आदि",
+      "D": "इति + यदि"
+    },
+    "correctAnswer": "B",
+    "explanation": "इति + आदि = इत्यादि। यहाँ यण स्वर संधि है (इ + आ = या)।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 655,
+    "subject": "Hindi Grammar",
+    "text": "'महर्षि' में कौन सी संधि है? (UP B.Ed 2020)",
+    "options": {
+      "A": "दीर्घ संधि",
+      "B": "वृद्धि संधि",
+      "C": "गुण संधि",
+      "D": "यण संधि"
+    },
+    "correctAnswer": "C",
+    "explanation": "महर्षि = महा + ऋषि (आ + ऋ = अर्)। यह गुण स्वर संधि का उदाहरण है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 656,
+    "subject": "Hindi Grammar",
+    "text": "'सज्जन' का सही संधि-विच्छेद क्या है? (UP B.Ed 2016)",
+    "options": {
+      "A": "सज + जन",
+      "B": "सत् + जन",
+      "C": "सद् + जन",
+      "D": "सझ + जन"
+    },
+    "correctAnswer": "B",
+    "explanation": "सत् + जन = सज्जन। यहाँ व्यंजन संधि है (त् के बाद ज् आने पर त् भी ज् में बदल जाता है)।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2016",
+    "isReal": true
+  },
+  {
+    "id": 657,
+    "subject": "Hindi Grammar",
+    "text": "'निष्कपट' का सही संधि-विच्छेद क्या है? (UP B.Ed 2022)",
+    "options": {
+      "A": "निः + कपट",
+      "B": "निष् + कपट",
+      "C": "नि + कपट",
+      "D": "निश + कपट"
+    },
+    "correctAnswer": "A",
+    "explanation": "निः + कपट = निष्कपट। यह विसर्ग संधि का उदाहरण है (विसर्ग के बाद क, ख, ट, ठ, प, फ होने पर विसर्ग का 'ष्' हो जाता है)।",
+    "frequency": 2,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 658,
+    "subject": "Hindi Grammar",
+    "text": "'मनोरथ' का सही संधि-विच्छेद क्या है? (UP B.Ed 2018)",
+    "options": {
+      "A": "मनः + रथ",
+      "B": "मनो + रथ",
+      "C": "मन + रथ",
+      "D": "मनः + ओरथ"
+    },
+    "correctAnswer": "A",
+    "explanation": "मनः + रथ = मनोरथ। यह विसर्ग संधि का उदाहरण है (विसर्ग से पहले 'अ' और बाद में किसी वर्ग का तृतीय/चतुर्थ/पंचम वर्ण या य, र, ल, व, ह हो तो विसर्ग का 'ओ' हो जाता है)।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 659,
+    "subject": "Hindi Grammar",
+    "text": "स्वर संधि के कितने भेद होते हैं? (UP B.Ed 2023)",
+    "options": {
+      "A": "तीन",
+      "B": "चार",
+      "C": "पाँच",
+      "D": "छह"
+    },
+    "correctAnswer": "C",
+    "explanation": "स्वर संधि के पाँच भेद होते हैं: दीर्घ, गुण, वृद्धि, यण और अयादि।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 660,
+    "subject": "Hindi Grammar",
+    "text": "'यथाशक्ति' में कौन-सा समास है? (UP B.Ed 2019)",
+    "options": {
+      "A": "कर्मधारय",
+      "B": "बहुव्रीहि",
+      "C": "अव्ययीभाव",
+      "D": "तत्पुरुष"
+    },
+    "correctAnswer": "C",
+    "explanation": "'यथाशक्ति' (शक्ति के अनुसार) में पूर्व पद 'यथा' अव्यय है, इसलिए यहाँ अव्ययीभाव समास है।",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 661,
+    "subject": "Hindi Grammar",
+    "text": "'लम्बोदर' में कौन-सा समास है? (UP B.Ed 2017)",
+    "options": {
+      "A": "बहुव्रीहि",
+      "B": "द्वंद्व",
+      "C": "द्विगु",
+      "D": "तत्पुरुष"
+    },
+    "correctAnswer": "A",
+    "explanation": "लम्बोदर (लम्बा है उदर जिनका अर्थात् गणेश जी)। यहाँ कोई भी पद प्रधान न होकर अन्य पद (गणेश) प्रधान है, इसलिए यह बहुव्रीहि समास है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 662,
+    "subject": "Hindi Grammar",
+    "text": "'राजपुत्र' में कौन-सा समास है? (UP B.Ed 2015)",
+    "options": {
+      "A": "तत्पुरुष",
+      "B": "द्विगु",
+      "C": "द्वंद्व",
+      "D": "कर्मधारय"
+    },
+    "correctAnswer": "A",
+    "explanation": "राजपुत्र का विग्रह 'राजा का पुत्र' है। यहाँ उत्तर पद प्रधान है और संबंध कारक विभक्ति 'का' का लोप है, अतः यह संबंध तत्पुरुष समास है।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2015",
+    "isReal": true
+  },
+  {
+    "id": 663,
+    "subject": "Hindi Grammar",
+    "text": "'चौराहा' में कौन-सा समास है? (UP B.Ed 2021)",
+    "options": {
+      "A": "द्वंद्व",
+      "B": "द्विगु",
+      "C": "तत्पुरुष",
+      "D": "अव्ययीभाव"
+    },
+    "correctAnswer": "B",
+    "explanation": "चौराहा का विग्रह 'चार राहों का समाहार' है। प्रथम पद संख्यावाचक होने के कारण यहाँ द्विगु समास है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 664,
+    "subject": "Hindi Grammar",
+    "text": "'पाप-पुण्य' में कौन-sa समास है? (UP B.Ed 2018)",
+    "options": {
+      "A": "द्विगु",
+      "B": "द्वंद्व",
+      "C": "तत्पुरुष",
+      "D": "बहुव्रीहि"
+    },
+    "correctAnswer": "B",
+    "explanation": "पाप-पुण्य का विग्रह 'पाप और पुण्य' है। यहाँ दोनों पद प्रधान हैं और योजक चिन्ह का प्रयोग हुआ है, अतः यहाँ द्वंद्व समास है।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 665,
+    "subject": "Hindi Grammar",
+    "text": "'चरणकमल' में कौन-सा समास है? (UP B.Ed 2020)",
+    "options": {
+      "A": "तत्पुरुष",
+      "B": "कर्मधारय",
+      "C": "बहुव्रीहि",
+      "D": "अव्ययीभाव"
+    },
+    "correctAnswer": "B",
+    "explanation": "'चरणकमल' का विग्रह 'कमल के समान चरण' है। यहाँ उपमेय-उपमान का संबंध है, अतः कर्मधारय समास है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 666,
+    "subject": "Hindi Grammar",
+    "text": "जिस समास में दोनों पद अप्रधान होते हैं और कोई तीसरा पद प्रधान होता है, वहाँ कौन-सा समास होता है? (UP B.Ed 2016)",
+    "options": {
+      "A": "द्वंद्व",
+      "B": "बहुव्रीहि",
+      "C": "तत्पुरुष",
+      "D": "कर्मधारय"
+    },
+    "correctAnswer": "B",
+    "explanation": "जिस समास में दोनों पद गौण हों और दोनों मिलकर किसी तीसरे पद की ओर संकेत करते हैं, वहाँ बहुव्रीहि समास होता है।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2016",
+    "isReal": true
+  },
+  {
+    "id": 667,
+    "subject": "Hindi Grammar",
+    "text": "'त्रिभुज' शब्द में कौन-सा समास है? (UP B.Ed 2022)",
+    "options": {
+      "A": "तत्पुरुष",
+      "B": "द्विगु",
+      "C": "द्वंद्व",
+      "D": "कर्मधारय"
+    },
+    "correctAnswer": "B",
+    "explanation": "'त्रिभुज' का विग्रह 'तीन भुजाओं का समूह' है। पहला पद 'त्रि' संख्यावाचक है, अतः यहाँ द्विगु समास है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 668,
+    "subject": "Hindi Grammar",
+    "text": "'देशभक्ति' में कौन-सा समास है? (UP B.Ed 2023)",
+    "options": {
+      "A": "कर्मधारय",
+      "B": "तत्पुरुष",
+      "C": "द्वंद्व",
+      "D": "द्विगु"
+    },
+    "correctAnswer": "B",
+    "explanation": "'देशभक्ति' का विग्रह 'देश के लिए भक्ति' है। यहाँ सम्प्रदान तत्पुरुष समास है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 669,
+    "subject": "Hindi Grammar",
+    "text": "'रामानुज' में कौन-sa समास है?",
+    "options": {
+      "A": "बहुव्रीहि",
+      "B": "तत्पुरुष",
+      "C": "द्वंद्व",
+      "D": "अव्ययीभाव"
+    },
+    "correctAnswer": "B",
+    "explanation": "'रामानुज' का अर्थ है 'राम का अनुज' (छोटा भाई अर्थात् लक्ष्मण)। यहाँ संबंध तत्पुरुष समास है।",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 670,
+    "subject": "Hindi Grammar",
+    "text": "'अतिशय' में कौन-सा उपसर्ग लगा है? (UP B.Ed 2018)",
+    "options": {
+      "A": "अ",
+      "B": "अति",
+      "C": "अतिश",
+      "D": "शय"
+    },
+    "correctAnswer": "B",
+    "explanation": "'अतिशय' में मूल शब्द 'शय' है और उपसर्ग 'अति' लगा है।",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 671,
+    "subject": "Hindi Grammar",
+    "text": "'प्रतिकूल' शब्द में कौन-सा उपसर्ग प्रयुक्त है? (UP B.Ed 2015)",
+    "options": {
+      "A": "प्र",
+      "B": "परा",
+      "C": "परि",
+      "D": "प्रति"
+    },
+    "correctAnswer": "D",
+    "explanation": "'प्रतिकूल' में मूल शब्द 'कूल' है और उपसर्ग 'प्रति' लगा है।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2015",
+    "isReal": true
+  },
+  {
+    "id": 672,
+    "subject": "Hindi Grammar",
+    "text": "'अवनत' शब्द में प्रयुक्त उपसर्ग कौन-सा है? (UP B.Ed 2019)",
+    "options": {
+      "A": "नत",
+      "B": "अ",
+      "C": "अव",
+      "D": "अवन"
+    },
+    "correctAnswer": "C",
+    "explanation": "'अवनत' में मूल शब्द 'नत' है और 'अव' उपसर्ग जुड़ा हुआ है।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 673,
+    "subject": "Hindi Grammar",
+    "text": "'अध्यक्ष' में कौन-सा उपसर्ग है? (UP B.Ed 2021)",
+    "options": {
+      "A": "अधि",
+      "B": "अ",
+      "C": "अध",
+      "D": "अध्य"
+    },
+    "correctAnswer": "A",
+    "explanation": "अध्यक्ष = अधि + अक्ष। यहाँ यण संधि के नियमानुसार 'अधि' उपसर्ग लगा है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 674,
+    "subject": "Hindi Grammar",
+    "text": "'दुष्परिणाम' में कौन-सा उपसर्ग प्रयुक्त है? (UP B.Ed 2020)",
+    "options": {
+      "A": "दुस्",
+      "B": "दुष्",
+      "C": "दुर्",
+      "D": "दु"
+    },
+    "correctAnswer": "A",
+    "explanation": "व्याकरणिक नियमानुसार मूल उपसर्ग 'दुस्' होता है, जो संधि के कारण 'दुष्' में बदल जाता है। अतः विकल्प A सही है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 675,
+    "subject": "Hindi Grammar",
+    "text": "'अनुवाद' में प्रयुक्त उपसर्ग कौन-सा है? (UP B.Ed 2016)",
+    "options": {
+      "A": "अन",
+      "B": "अने",
+      "C": "अनु",
+      "D": "अ"
+    },
+    "correctAnswer": "C",
+    "explanation": "'अनुवाद' में मूल शब्द 'वाद' है और उपसर्ग 'अनु' प्रयुक्त हुआ है।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2016",
+    "isReal": true
+  },
+  {
+    "id": 676,
+    "subject": "Hindi Grammar",
+    "text": "'सुशिक्षित' में कौन-sa उपसर्ग है? (UP B.Ed 2017)",
+    "options": {
+      "A": "सु",
+      "B": "शि",
+      "C": "सुश",
+      "D": "इत"
+    },
+    "correctAnswer": "A",
+    "explanation": "'सुशिक्षित' में मूल शब्द 'शिक्षित' है और उपसर्ग 'सु' लगा है।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 677,
+    "subject": "Hindi Grammar",
+    "text": "'अंलकार' शब्द में किस उपसर्ग का प्रयोग हुआ है? (UP B.Ed 2022)",
+    "options": {
+      "A": "अल्",
+      "B": "अलम्",
+      "C": "अल",
+      "D": "अलन्"
+    },
+    "correctAnswer": "B",
+    "explanation": "अलंकार = अलम् + कार। यहाँ 'अलम्' उपसर्ग प्रयुक्त हुआ है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 678,
+    "subject": "Hindi Grammar",
+    "text": "'निराहार' में कौन-सा उपसर्ग प्रयुक्त है? (UP B.Ed 2023)",
+    "options": {
+      "A": "नि",
+      "B": "निर",
+      "C": "निः",
+      "D": "निरा"
+    },
+    "correctAnswer": "B",
+    "explanation": "निराहार = निर + आहार। यहाँ संस्कृत का 'निर' उपसर्ग प्रयुक्त हुआ है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 679,
+    "subject": "Hindi Grammar",
+    "text": "'अभ्युदय' शब्द में कौन-सा उपसर्ग है?",
+    "options": {
+      "A": "अभि",
+      "B": "अभ्य",
+      "C": "अ",
+      "D": "अभी"
+    },
+    "correctAnswer": "A",
+    "explanation": "अभ्युदय = अभि + उदय। यण संधि के कारण 'अभि' उपसर्ग जुड़ा है।",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 680,
+    "subject": "Hindi Grammar",
+    "text": "'लेखक' शब्द के अंत में कौन-सा प्रत्यय लगा हुआ है? (UP B.Ed 2016)",
+    "options": {
+      "A": "क",
+      "B": "इक",
+      "C": "आक",
+      "D": "अक"
+    },
+    "correctAnswer": "D",
+    "explanation": "लेखक = लिख् + अक। अतः 'अक' प्रत्यय लगा है, जो कृदंत प्रत्यय है।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2016",
+    "isReal": true
+  },
+  {
+    "id": 681,
+    "subject": "Hindi Grammar",
+    "text": "'घबराहट' में कौन-सा प्रत्यय प्रयुक्त हुआ है? (UP B.Ed 2018)",
+    "options": {
+      "A": "हट",
+      "B": "आहट",
+      "C": "राहट",
+      "D": "त"
+    },
+    "correctAnswer": "B",
+    "explanation": "'घबराहट' में मूल क्रिया 'घबराना' है और भाववाचक कृदंत प्रत्यय 'आहट' लगा है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 682,
+    "subject": "Hindi Grammar",
+    "text": "'कनिष्ठ' शब्द में प्रयुक्त प्रत्यय कौन-सा है? (UP B.Ed 2015)",
+    "options": {
+      "A": "इष्ठ",
+      "B": "इष्ट",
+      "C": "ष्ठ",
+      "D": "ठ"
+    },
+    "correctAnswer": "A",
+    "explanation": "'कनिष्ठ' में मूल शब्द 'कन्' और प्रत्यय 'इष्ठ' है।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2015",
+    "isReal": true
+  },
+  {
+    "id": 683,
+    "subject": "Hindi Grammar",
+    "text": "'सजावट' शब्द का सही प्रत्यय कौन-सा है? (UP B.Ed 2021)",
+    "options": {
+      "A": "आवट",
+      "B": "वट",
+      "C": "जट",
+      "D": "आव"
+    },
+    "correctAnswer": "A",
+    "explanation": "सजाना (मूल क्रिया) + आवट = सजावट। यहाँ भाववाचक कृदंत प्रत्यय 'आवट' है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 684,
+    "subject": "Hindi Grammar",
+    "text": "'सावधानी' शब्द में प्रयुक्त प्रत्यय कौन-सा है? (UP B.Ed 2019)",
+    "options": {
+      "A": "ई",
+      "B": "इ",
+      "C": "धानी",
+      "D": "आनी"
+    },
+    "correctAnswer": "A",
+    "explanation": "सावधान (मूल शब्द) + ई (प्रत्यय) = सावधानी।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 685,
+    "subject": "Hindi Grammar",
+    "text": "'धुंधला' शब्द में प्रयुक्त प्रत्यय कौन-सा है? (UP B.Ed 2017)",
+    "options": {
+      "A": "धुंध",
+      "B": "धु",
+      "C": "ला",
+      "D": "इला"
+    },
+    "correctAnswer": "C",
+    "explanation": "धुंध (मूल शब्द) + ला (प्रत्यय) = धुंधला।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 686,
+    "subject": "Hindi Grammar",
+    "text": "'चतुराई' में कौन-सा प्रत्यय है? (UP B.Ed 2020)",
+    "options": {
+      "A": "ई",
+      "B": "आई",
+      "C": "राई",
+      "D": "चतुर"
+    },
+    "correctAnswer": "B",
+    "explanation": "चतुर (विशेषण) + आई (तद्धित प्रत्यय) = चतुराई।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 687,
+    "subject": "Hindi Grammar",
+    "text": "'कतरनी' में कौन-सा प्रत्यय प्रयुक्त हुआ है? (UP B.Ed 2022)",
+    "options": {
+      "A": "नी",
+      "B": "अनी",
+      "C": "इनी",
+      "D": "ई"
+    },
+    "correctAnswer": "A",
+    "explanation": "कतरना (क्रिया) + नी (प्रत्यय) = कतरनी। यहाँ करणवाचक कृदंत प्रत्यय 'नी' है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 688,
+    "subject": "Hindi Grammar",
+    "text": "'मिठास' शब्द में किस प्रत्यय का प्रयोग हुआ है? (UP B.Ed 2023)",
+    "options": {
+      "A": "मीठा",
+      "B": "ठास",
+      "C": "आस",
+      "D": "स"
+    },
+    "correctAnswer": "C",
+    "explanation": "मीठा + आस = मिठास। यहाँ भाववाचक तद्धित प्रत्यय 'आस' प्रयुक्त हुआ है।",
+    "frequency": 2,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 689,
+    "subject": "Hindi Grammar",
+    "text": "'लौकिक' शब्द में कौन-सा प्रत्यय प्रयुक्त है?",
+    "options": {
+      "A": "क",
+      "B": "इक",
+      "C": "किक",
+      "D": "अक"
+    },
+    "correctAnswer": "B",
+    "explanation": "लोक + इक = लौकिक। यहाँ 'इक' प्रत्यय लगने से आदि स्वर 'ओ' का 'औ' हो गया है।",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 690,
+    "subject": "Hindi Grammar",
+    "text": "निम्नलिखित में से कौन-सा शब्द 'तत्सम' है? (UP B.Ed 2015)",
+    "options": {
+      "A": "उद्गम",
+      "B": "खेत",
+      "C": "दर्शन",
+      "D": "कोर्ट"
+    },
+    "correctAnswer": "A",
+    "explanation": "'उद्गम' संस्कृत का मूल शब्द है जो बिना किसी परिवर्तन के हिंदी में प्रयुक्त होता है, इसलिए यह तत्सम शब्द है।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2015",
+    "isReal": true
+  },
+  {
+    "id": 691,
+    "subject": "Hindi Grammar",
+    "text": "'अंगूठा' का तत्सम रूप क्या होगा? (UP B.Ed 2018)",
+    "options": {
+      "A": "अंगुष्ठ",
+      "B": "अंगुष्ठिका",
+      "C": "अंगुलि",
+      "D": "अंगुठ"
+    },
+    "correctAnswer": "A",
+    "explanation": "तद्भव शब्द 'अंगूठा' का शुद्ध संस्कृत (तत्सम) रूप 'अंगुष्ठ' होता है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 692,
+    "subject": "Hindi Grammar",
+    "text": "निम्नलिखित में से कौन-sa शब्द 'तद्भव' है? (UP B.Ed 2019)",
+    "options": {
+      "A": "अग्नि",
+      "B": "अंबर",
+      "C": "कान",
+      "D": "गृह"
+    },
+    "correctAnswer": "C",
+    "explanation": "'कान' तद्भव शब्द है जिसका तत्सम रूप 'कर्ण' होता है।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 693,
+    "subject": "Hindi Grammar",
+    "text": "'वानर' का तद्भव रूप क्या होगा? (UP B.Ed 2017)",
+    "options": {
+      "A": "बानर",
+      "B": "बंदर",
+      "C": "बांदर",
+      "D": "बन्दर"
+    },
+    "correctAnswer": "B",
+    "explanation": "तत्सम शब्द 'वानर' का तद्भव (परिवर्तित हिंदी रूप) 'बंदर' होता है।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 694,
+    "subject": "Hindi Grammar",
+    "text": "'गोमय' का तद्भव शब्द क्या है? (UP B.Ed 2021)",
+    "options": {
+      "A": "गोबर",
+      "B": "गेहूँ",
+      "C": "गाय",
+      "D": "गोधूलि"
+    },
+    "correctAnswer": "A",
+    "explanation": "तत्सम शब्द 'गोमय' का तद्भव रूप 'गोबर' है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 695,
+    "subject": "Hindi Grammar",
+    "text": "'अट्टालिका' का तद्भव रूप क्या होगा? (UP B.Ed 2020)",
+    "options": {
+      "A": "अटाला",
+      "B": "अटारी",
+      "C": "अटारा",
+      "D": "कमरा"
+    },
+    "correctAnswer": "B",
+    "explanation": "तत्सम शब्द 'अट्टालिका' का तद्भव रूप 'अटारी' होता है।",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 696,
+    "subject": "Hindi Grammar",
+    "text": "निम्नलिखित में से कौन-सा शब्द 'तत्सम' नहीं है? (UP B.Ed 2016)",
+    "options": {
+      "A": "घृत",
+      "B": "दुग्ध",
+      "C": "आँसू",
+      "D": "अति"
+    },
+    "correctAnswer": "C",
+    "explanation": "'आँसू' तद्भव शब्द है क्योंकि इसका तत्सम 'अश्रु' होता है। चंद्रबिंदु वाले अधिकांश शब्द तद्भव होते हैं।",
+    "frequency": 1,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2016",
+    "isReal": true
+  },
+  {
+    "id": 697,
+    "subject": "Hindi Grammar",
+    "text": "'कर्पूर' का तद्भव रूप क्या होगा? (UP B.Ed 2022)",
+    "options": {
+      "A": "कपूर",
+      "B": "कपूत",
+      "C": "कपड़ा",
+      "D": "कारपूस"
+    },
+    "correctAnswer": "A",
+    "explanation": "तत्सम 'कर्पूर' का तद्भव रूप 'कपूर' होता है।",
+    "frequency": 2,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 698,
+    "subject": "Hindi Grammar",
+    "text": "'मक्षिका' किसका तत्सम रूप है? (UP B.Ed 2023)",
+    "options": {
+      "A": "मछली",
+      "B": "मक्खी",
+      "C": "मच्छर",
+      "D": "मट्टी"
+    },
+    "correctAnswer": "B",
+    "explanation": "'मक्षिका' तत्सम शब्द है, जिसका तद्भव रूप 'मक्खी' होता है।",
+    "frequency": 2,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 699,
+    "subject": "Hindi Grammar",
+    "text": "'हरिद्रा' शब्द का तद्भव रूप क्या है?",
+    "options": {
+      "A": "हरड़",
+      "B": "हल्दी",
+      "C": "हरदु",
+      "D": "हरीद्र"
+    },
+    "correctAnswer": "B",
+    "explanation": "तत्सम शब्द 'हरिद्रा' का तद्भव रूप 'हल्दी' है।",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 700,
+    "subject": "Hindi Grammar",
+    "text": "'अमृत' का पर्यायवाची शब्द कौन-सा नहीं है? (UP B.Ed 2015)",
+    "options": {
+      "A": "सोम",
+      "B": "सुधा",
+      "C": "अमिय",
+      "D": "रसाल"
+    },
+    "correctAnswer": "D",
+    "explanation": "'रसाल' आम का पर्यायवाची है, जबकि सोम, सुधा और अमिय अमृत के पर्यायवाची हैं।",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2015",
+    "isReal": true
+  }
+]

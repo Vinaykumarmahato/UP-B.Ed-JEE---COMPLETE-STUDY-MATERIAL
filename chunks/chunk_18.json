@@ -1,0 +1,852 @@
+[
+  {
+    "id": 901,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: Fire and water ___ not agree.",
+    "options": {
+      "A": "do",
+      "B": "does",
+      "C": "are",
+      "D": "is"
+    },
+    "correctAnswer": "A",
+    "explanation": "Two distinct plural or incompatible subjects joined by 'and' require a plural verb ('do').",
+    "frequency": 0,
+    "probability": 87,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 902,
+    "subject": "English Grammar",
+    "text": "Fill in the blank: Not only the teacher but also the students ___ present. (UP B.Ed 2024)",
+    "options": {
+      "A": "was",
+      "B": "were",
+      "C": "is",
+      "D": "has been"
+    },
+    "correctAnswer": "B",
+    "explanation": "When correlative conjunctions like 'not only... but also' join subjects, the verb agrees with the closer subject ('the students', which is plural).",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2024",
+    "isReal": true
+  },
+  {
+    "id": 903,
+    "subject": "English Grammar",
+    "text": "Identify the part of the sentence that contains an error: 'If he will come (A) / I shall (B) / help him. (C) / No error (D)' (UP B.Ed 2021)",
+    "options": {
+      "A": "If he will come",
+      "B": "I shall",
+      "C": "help him",
+      "D": "No error"
+    },
+    "correctAnswer": "A",
+    "explanation": "In conditional sentences, simple present ('If he comes') must be used in the conditional clause, not future tense.",
+    "frequency": 3,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 904,
+    "subject": "English Grammar",
+    "text": "Identify the part that has an error: 'He is senior (A) / than me (B) / in service. (C) / No error (D)' (UP B.Ed 2022)",
+    "options": {
+      "A": "He is senior",
+      "B": "than me",
+      "C": "in service",
+      "D": "No error"
+    },
+    "correctAnswer": "B",
+    "explanation": "Latin adjectives like 'senior' are followed by the preposition 'to', not 'than'. Hence, 'than me' should be 'to me'.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 905,
+    "subject": "English Grammar",
+    "text": "Identify the error: 'He has been (A) / playing football (B) / for morning. (C) / No error (D)' (UP B.Ed 2020)",
+    "options": {
+      "A": "He has been",
+      "B": "playing football",
+      "C": "for morning",
+      "D": "No error"
+    },
+    "correctAnswer": "C",
+    "explanation": "'Morning' is a point in time, which requires the preposition 'since' instead of 'for'.",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 906,
+    "subject": "English Grammar",
+    "text": "Find the error in the sentence: 'Unless you do not (A) / work hard, (B) / you cannot pass. (C) / No error (D)' (UP B.Ed 2019)",
+    "options": {
+      "A": "Unless you do not",
+      "B": "work hard",
+      "C": "you cannot pass",
+      "D": "No error"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Unless' has a negative meaning itself. Using 'do not' creates a double negative. It should be: 'Unless you work hard'.",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 907,
+    "subject": "English Grammar",
+    "text": "Find the error: 'The scenery of (A) / Kashmir are (B) / very beautiful. (C) / No error (D)' (UP B.Ed 2018)",
+    "options": {
+      "A": "The scenery of",
+      "B": "Kashmir are",
+      "C": "very beautiful",
+      "D": "No error"
+    },
+    "correctAnswer": "B",
+    "explanation": "The noun 'scenery' is an uncountable singular noun, so the singular verb 'is' must be used instead of 'are'.",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 908,
+    "subject": "English Grammar",
+    "text": "Identify the error: 'None of the two (A) / candidates (B) / was selected. (C) / No error (D)'",
+    "options": {
+      "A": "None of the two",
+      "B": "candidates",
+      "C": "was selected",
+      "D": "No error"
+    },
+    "correctAnswer": "A",
+    "explanation": "When referring to exactly two options or people, 'neither' is used instead of 'none'. Hence, 'Neither of the two' is correct.",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 909,
+    "subject": "English Grammar",
+    "text": "Find the error: 'He walked (A) / ten miles (B) / by foot. (C) / No error (D)'",
+    "options": {
+      "A": "He walked",
+      "B": "ten miles",
+      "C": "by foot",
+      "D": "No error"
+    },
+    "correctAnswer": "C",
+    "explanation": "The correct prepositional phrase is 'on foot', not 'by foot'.",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 910,
+    "subject": "English Grammar",
+    "text": "Identify the error: 'Many a student (A) / have passed (B) / the exam. (C) / No error (D)'",
+    "options": {
+      "A": "Many a student",
+      "B": "have passed",
+      "C": "the exam",
+      "D": "No error"
+    },
+    "correctAnswer": "B",
+    "explanation": "The determiner 'Many a' must be followed by a singular verb. 'have passed' should be corrected to 'has passed'.",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 911,
+    "subject": "English Grammar",
+    "text": "Find the error: 'Although he worked hard, (A) / but (B) / he failed. (C) / No error (D)' (UP B.Ed 2023)",
+    "options": {
+      "A": "Although he worked hard",
+      "B": "but",
+      "C": "he failed",
+      "D": "No error"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Although' is paired with 'yet' or a comma, not 'but'. We should remove 'but' or replace it with 'yet'.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 912,
+    "subject": "English Grammar",
+    "text": "Find the error: 'Neither the teacher (A) / nor the students (B) / was present. (C) / No error (D)'",
+    "options": {
+      "A": "Neither the teacher",
+      "B": "nor the students",
+      "C": "was present",
+      "D": "No error"
+    },
+    "correctAnswer": "C",
+    "explanation": "The verb should agree with the closest subject ('the students', which is plural). Therefore, 'was' should be replaced with 'were'.",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 913,
+    "subject": "English Grammar",
+    "text": "Find the error: 'I prefer (A) / coffee (B) / than tea. (C) / No error (D)' (UP B.Ed 2017)",
+    "options": {
+      "A": "I prefer",
+      "B": "coffee",
+      "C": "than tea",
+      "D": "No error"
+    },
+    "correctAnswer": "C",
+    "explanation": "The verb 'prefer' takes the preposition 'to' when making comparisons. It should be: 'to tea'.",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 914,
+    "subject": "English Grammar",
+    "text": "Identify the error: 'He has (A) / no other aim (B) / but to succeed. (C) / No error (D)'",
+    "options": {
+      "A": "He has",
+      "B": "no other aim",
+      "C": "but to succeed",
+      "D": "No error"
+    },
+    "correctAnswer": "C",
+    "explanation": "The adjective 'other' is paired with the conjunction 'than', not 'but'. Thus, 'but to succeed' should be 'than to succeed'.",
+    "frequency": 0,
+    "probability": 87,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 915,
+    "subject": "English Grammar",
+    "text": "Find the error: 'Each of these boys (A) / play (B) / games. (C) / No error (D)'",
+    "options": {
+      "A": "Each of these boys",
+      "B": "play",
+      "C": "games",
+      "D": "No error"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Each of' is grammatically singular and takes a singular verb. The verb 'play' should be corrected to 'plays'.",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 916,
+    "subject": "English Grammar",
+    "text": "Find the error: 'The cattle (A) / is grazing (B) / in the field. (C) / No error (D)' (UP B.Ed 2024)",
+    "options": {
+      "A": "The cattle",
+      "B": "is grazing",
+      "C": "in the field",
+      "D": "No error"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Cattle' is a plural noun and takes a plural verb. Therefore, 'is grazing' should be corrected to 'are grazing'.",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2024",
+    "isReal": true
+  },
+  {
+    "id": 917,
+    "subject": "English Grammar",
+    "text": "Find the error: 'He is (A) / one of the best men (B) / that has ever lived. (C) / No error (D)'",
+    "options": {
+      "A": "He is",
+      "B": "one of the best men",
+      "C": "that has ever lived",
+      "D": "No error"
+    },
+    "correctAnswer": "C",
+    "explanation": "The relative pronoun 'that' refers to the plural antecedent 'men', requiring a plural verb 'have ever lived' instead of 'has'.",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 918,
+    "subject": "English Grammar",
+    "text": "Identify the part of the sentence that contains an error: 'She has been (A) / working here (B) / since five years. (C) / No error (D)'",
+    "options": {
+      "A": "She has been",
+      "B": "working here",
+      "C": "since five years",
+      "D": "No error"
+    },
+    "correctAnswer": "C",
+    "explanation": "'Five years' is a duration of time. Therefore, we should use the preposition 'for' instead of 'since'.",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 919,
+    "subject": "English Grammar",
+    "text": "Choose the correct spelling: (UP B.Ed 2021)",
+    "options": {
+      "A": "Committee",
+      "B": "Comittee",
+      "C": "Commitee",
+      "D": "Comitey"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Committee' is spelled with a double 'm', double 't', and double 'e'.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 920,
+    "subject": "English Grammar",
+    "text": "Identify the correctly spelled word: (UP B.Ed 2022)",
+    "options": {
+      "A": "Lieutenant",
+      "B": "Leutenant",
+      "C": "Lieutinent",
+      "D": "Lutenant"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Lieutenant' is the correct spelling, representing a military rank.",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 921,
+    "subject": "English Grammar",
+    "text": "Choose the correct spelling of the word: (UP B.Ed 2019)",
+    "options": {
+      "A": "Receive",
+      "B": "Recieve",
+      "C": "Receve",
+      "D": "Recive"
+    },
+    "correctAnswer": "A",
+    "explanation": "Following the spelling rule 'i before e except after c', 'Receive' is the correct spelling.",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 922,
+    "subject": "English Grammar",
+    "text": "Find the correctly spelled word: (UP B.Ed 2020)",
+    "options": {
+      "A": "Occurred",
+      "B": "Ocured",
+      "C": "Occured",
+      "D": "Occurrd"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Occurred' is spelled with a double 'c' and double 'r'.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 923,
+    "subject": "English Grammar",
+    "text": "Identify the correctly spelled word:",
+    "options": {
+      "A": "Necessary",
+      "B": "Neccessary",
+      "C": "Necesary",
+      "D": "Necessery"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Necessary' is spelled with a single 'c' and a double 's'.",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 924,
+    "subject": "English Grammar",
+    "text": "Choose the word with the correct spelling: (UP B.Ed 2018)",
+    "options": {
+      "A": "Grammar",
+      "B": "Grammer",
+      "C": "Gramar",
+      "D": "Gramere"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Grammar' ends with '-ar', not '-er'.",
+    "frequency": 3,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 925,
+    "subject": "English Grammar",
+    "text": "Choose the correct spelling:",
+    "options": {
+      "A": "Accommodation",
+      "B": "Acommodation",
+      "C": "Accomodation",
+      "D": "Acomodation"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Accommodation' is spelled with a double 'c' and a double 'm'.",
+    "frequency": 0,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 926,
+    "subject": "English Grammar",
+    "text": "Choose the correct spelling: (UP B.Ed 2023)",
+    "options": {
+      "A": "Vacuum",
+      "B": "Vacum",
+      "C": "Vaccum",
+      "D": "Vacuume"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Vacuum' is spelled with a single 'c' and a double 'u'.",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 927,
+    "subject": "English Grammar",
+    "text": "Find the correctly spelled word:",
+    "options": {
+      "A": "Mischievous",
+      "B": "Mischievious",
+      "C": "Mischevious",
+      "D": "Mischivous"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Mischievous' has three syllables and is spelled with 'ie' in the second syllable.",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 928,
+    "subject": "English Grammar",
+    "text": "Choose the correct spelling: (UP B.Ed 2017)",
+    "options": {
+      "A": "Beginning",
+      "B": "Begining",
+      "C": "Begening",
+      "D": "Beggining"
+    },
+    "correctAnswer": "A",
+    "explanation": "When adding '-ing' to 'begin', the final consonant 'n' is doubled because the stress is on the second syllable.",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 929,
+    "subject": "English Grammar",
+    "text": "Choose the correctly spelled word:",
+    "options": {
+      "A": "Calendar",
+      "B": "Calender",
+      "C": "Calandar",
+      "D": "Callendar"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Calendar' (meaning a chart of days and months) ends in '-ar'.",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 930,
+    "subject": "English Grammar",
+    "text": "Choose the correctly spelled word: (UP B.Ed 2024)",
+    "options": {
+      "A": "Assassination",
+      "B": "Asassination",
+      "C": "Assasination",
+      "D": "Asasination"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Assassination' is spelled with a double 's' twice (ass-ass-in-ation).",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2024",
+    "isReal": true
+  },
+  {
+    "id": 931,
+    "subject": "English Grammar",
+    "text": "What is the synonym of the word 'Abundant'? (UP B.Ed 2021)",
+    "options": {
+      "A": "Scanty",
+      "B": "Plentiful",
+      "C": "Rare",
+      "D": "Meager"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Abundant' means existing or available in large quantities; 'plentiful' is its direct synonym.",
+    "frequency": 3,
+    "probability": 98,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 932,
+    "subject": "English Grammar",
+    "text": "Find the antonym of the word 'Barren'. (UP B.Ed 2022)",
+    "options": {
+      "A": "Sterile",
+      "B": "Fertile",
+      "C": "Dry",
+      "D": "Desolate"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Barren' means land that is too poor to produce vegetation; 'fertile' (productive) is its opposite.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 933,
+    "subject": "English Grammar",
+    "text": "Choose the synonym of the word 'Diligent'. (UP B.Ed 2019)",
+    "options": {
+      "A": "Lazy",
+      "B": "Hardworking",
+      "C": "Careless",
+      "D": "Active"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Diligent' means showing care and conscientiousness in one's work; 'hardworking' is a direct synonym.",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 934,
+    "subject": "English Grammar",
+    "text": "What is the antonym of the word 'Rigid'? (UP B.Ed 2020)",
+    "options": {
+      "A": "Flexible",
+      "B": "Hard",
+      "C": "Strict",
+      "D": "Firm"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Rigid' means stiff, unbending, or strict; 'flexible' is the antonym.",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 935,
+    "subject": "English Grammar",
+    "text": "Choose the synonym of the word 'Brief'. (UP B.Ed 2018)",
+    "options": {
+      "A": "Long",
+      "B": "Short",
+      "C": "Detail",
+      "D": "Elaborate"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Brief' means lasting for a short time or using few words; 'short' is its synonym.",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 936,
+    "subject": "English Grammar",
+    "text": "What is the antonym of the word 'Genuine'? (UP B.Ed 2023)",
+    "options": {
+      "A": "Authentic",
+      "B": "Fake",
+      "C": "Real",
+      "D": "Pure"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Genuine' means real, authentic, or honest; 'fake' or 'spurious' is the antonym.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2023",
+    "isReal": true
+  },
+  {
+    "id": 937,
+    "subject": "English Grammar",
+    "text": "Choose the synonym of the word 'Candid'.",
+    "options": {
+      "A": "Frank",
+      "B": "Dishonest",
+      "C": "Secretive",
+      "D": "Polite"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Candid' means truthful, straightforward, and frank.",
+    "frequency": 0,
+    "probability": 91,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 938,
+    "subject": "English Grammar",
+    "text": "Find the antonym of the word 'Transient'.",
+    "options": {
+      "A": "Temporary",
+      "B": "Permanent",
+      "C": "Fleeting",
+      "D": "Short-lived"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Transient' means lasting only for a short time; 'permanent' is the antonym.",
+    "frequency": 0,
+    "probability": 90,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 939,
+    "subject": "English Grammar",
+    "text": "What is the synonym of the word 'Adversity'? (UP B.Ed 2017)",
+    "options": {
+      "A": "Prosperity",
+      "B": "Misfortune",
+      "C": "Happiness",
+      "D": "Success"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Adversity' refers to a state of hardship or misfortune; 'misfortune' is a synonym.",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2017",
+    "isReal": true
+  },
+  {
+    "id": 940,
+    "subject": "English Grammar",
+    "text": "What is the antonym of the word 'Hostile'.",
+    "options": {
+      "A": "Friendly",
+      "B": "Unfriendly",
+      "C": "Aggressive",
+      "D": "Antagonistic"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Hostile' means unfriendly or antagonistic; 'friendly' is the antonym.",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 941,
+    "subject": "English Grammar",
+    "text": "Choose the synonym of the word 'Vague'.",
+    "options": {
+      "A": "Clear",
+      "B": "Unclear",
+      "C": "Precise",
+      "D": "Definite"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Vague' means thinking or communicating in an unfocused or unclear way; 'unclear' is its synonym.",
+    "frequency": 0,
+    "probability": 89,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 942,
+    "subject": "English Grammar",
+    "text": "What is the antonym of the word 'Optimist'?",
+    "options": {
+      "A": "Pessimist",
+      "B": "Realist",
+      "C": "Believer",
+      "D": "Idealist"
+    },
+    "correctAnswer": "A",
+    "explanation": "An 'optimist' looks at the bright side of things, while a 'pessimist' is someone who habitually expects the worst.",
+    "frequency": 0,
+    "probability": 93,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 943,
+    "subject": "English Grammar",
+    "text": "Choose the synonym of the word 'Lethargic'.",
+    "options": {
+      "A": "Energetic",
+      "B": "Sluggish",
+      "C": "Active",
+      "D": "Lively"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Lethargic' means lacking energy; sluggish or apathetic.",
+    "frequency": 0,
+    "probability": 88,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  },
+  {
+    "id": 944,
+    "subject": "English Grammar",
+    "text": "What is the antonym of the word 'Polite'? (UP B.Ed 2024)",
+    "options": {
+      "A": "Rude",
+      "B": "Courteous",
+      "C": "Gentle",
+      "D": "Kind"
+    },
+    "correctAnswer": "A",
+    "explanation": "'Polite' means showing behavior that is respectful and considerate; 'rude' is its opposite.",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2024",
+    "isReal": true
+  },
+  {
+    "id": 945,
+    "subject": "English Grammar",
+    "text": "What does the idiom 'To bite the dust' mean? (UP B.Ed 2021)",
+    "options": {
+      "A": "To be defeated",
+      "B": "To eat dirt",
+      "C": "To make a mistake",
+      "D": "To be successful"
+    },
+    "correctAnswer": "A",
+    "explanation": "The idiom 'To bite the dust' means to fall dead, fail, or be defeated in a competition or battle.",
+    "frequency": 2,
+    "probability": 96,
+    "sourceYear": "UP B.Ed 2021",
+    "isReal": true
+  },
+  {
+    "id": 946,
+    "subject": "English Grammar",
+    "text": "What is the meaning of the idiom 'A blessing in disguise'? (UP B.Ed 2022)",
+    "options": {
+      "A": "A bad thing that turns out to be good",
+      "B": "A hidden gift",
+      "C": "A curse",
+      "D": "A show of kindness"
+    },
+    "correctAnswer": "A",
+    "explanation": "'A blessing in disguise' is an apparent misfortune that eventually has good results.",
+    "frequency": 2,
+    "probability": 97,
+    "sourceYear": "UP B.Ed 2022",
+    "isReal": true
+  },
+  {
+    "id": 947,
+    "subject": "English Grammar",
+    "text": "What is the meaning of the idiom 'To burn the candle at both ends'? (UP B.Ed 2019)",
+    "options": {
+      "A": "To waste money",
+      "B": "To work extremely hard or late",
+      "C": "To light up a room",
+      "D": "To ruin one's health"
+    },
+    "correctAnswer": "B",
+    "explanation": "'To burn the candle at both ends' means to exhaust oneself by working late and rising early.",
+    "frequency": 1,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2019",
+    "isReal": true
+  },
+  {
+    "id": 948,
+    "subject": "English Grammar",
+    "text": "Choose the correct meaning of the idiom 'At the eleventh hour'. (UP B.Ed 2020)",
+    "options": {
+      "A": "At 11 o'clock",
+      "B": "At the last moment",
+      "C": "Too late",
+      "D": "Early in the morning"
+    },
+    "correctAnswer": "B",
+    "explanation": "'At the eleventh hour' means at the last possible moment before it is too late.",
+    "frequency": 3,
+    "probability": 99,
+    "sourceYear": "UP B.Ed 2020",
+    "isReal": true
+  },
+  {
+    "id": 949,
+    "subject": "English Grammar",
+    "text": "What does the idiom 'To break the ice' mean? (UP B.Ed 2018)",
+    "options": {
+      "A": "To clear a path",
+      "B": "To start a conversation in an awkward situation",
+      "C": "To make someone angry",
+      "D": "To freeze"
+    },
+    "correctAnswer": "B",
+    "explanation": "'To break the ice' means to do or say something to relieve tension or start a conversation in a social setting.",
+    "frequency": 2,
+    "probability": 95,
+    "sourceYear": "UP B.Ed 2018",
+    "isReal": true
+  },
+  {
+    "id": 950,
+    "subject": "English Grammar",
+    "text": "Choose the meaning of the idiom: 'Spill the beans'.",
+    "options": {
+      "A": "To drop food",
+      "B": "To reveal a secret prematurely",
+      "C": "To cook food",
+      "D": "To waste resources"
+    },
+    "correctAnswer": "B",
+    "explanation": "'Spill the beans' means to disclose secret information, especially unintentionally or prematurely.",
+    "frequency": 0,
+    "probability": 92,
+    "sourceYear": "AI Predicted for 2026",
+    "isReal": false
+  }
+]
